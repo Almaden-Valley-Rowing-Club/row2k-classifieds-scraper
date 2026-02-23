@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.row2k.com)",
+      "Bash(git -C /Users/gregtaylor/code/row2k-classifieds-scraper log --oneline -10)",
+      "Bash(curl:*)",
+      "Bash(uv pip install:*)",
+      "Bash(source:*)",
+      "Bash(python3:*)",
+      "Bash(python:*)"
+    ]
+  }
+}

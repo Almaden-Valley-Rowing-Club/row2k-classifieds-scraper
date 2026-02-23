@@ -1,0 +1,9 @@
+[project]
+name = "row2k-classifieds-scraper"
+version = "0.1.0"
+description = "Scrapes the row2k classifieds and sends notifications when new items are posted"
+requires-python = ">=3.14"
+dependencies = [
+    "requests",
+    "beautifulsoup4",
+]
