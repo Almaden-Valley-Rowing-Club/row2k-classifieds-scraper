@@ -1,10 +1,4 @@
 {
-  "38167": {
-    "title": "Scull, Filippi 1X Lt. wt. 2023",
-    "location": "Annapolis, MD (US)",
-    "date": "February 22, 2026",
-    "first_seen": "2026-02-23T00:34:49.896527+00:00"
-  },
   "38331": {
     "title": "Fluid design, Elite 1x Heavy W 2023(8/2023)",
     "location": "WILSON, NC (US)",
@@ -298,5 +292,11 @@
     "location": "Hampton, VA (US)",
     "date": "March 5, 2026",
     "first_seen": "2026-03-06T12:31:45.822786+00:00"
+  },
+  "38410": {
+    "title": "Sykes Men's 8 - $2,000 OBO",
+    "location": "Lancaster, PA (US)",
+    "date": "March 6, 2026",
+    "first_seen": "2026-03-06T17:26:42.939476+00:00"
   }
 }
