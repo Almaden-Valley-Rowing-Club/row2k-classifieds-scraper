@@ -1,10 +1,4 @@
 {
-  "38156": {
-    "title": "1979 Stampfli 1x - STILL SEEKING A NEW HOME",
-    "location": "Los Angeles, CA (US)",
-    "date": "February 20, 2026",
-    "first_seen": "2026-02-23T00:34:49.896527+00:00"
-  },
   "38324": {
     "title": "Old Pocock Skinny - N of Seattle",
     "location": "(US)",
@@ -298,5 +292,11 @@
     "location": "Long Beach, CA (US)",
     "date": "March 6, 2026",
     "first_seen": "2026-03-06T23:18:42.422755+00:00"
+  },
+  "38259": {
+    "title": "2023 Filippi F15 1x (143-165 lbs)",
+    "location": "Arlington, VA (US)",
+    "date": "March 7, 2026",
+    "first_seen": "2026-03-07T17:13:18.096763+00:00"
   }
 }
