@@ -1,16 +1,4 @@
 {
-  "38336": {
-    "title": "2010 Vespoli Ultralite rowing shell For Sale",
-    "location": "Fairport, NY (US)",
-    "date": "February 23, 2026",
-    "first_seen": "2026-02-23T16:42:48.067841+00:00"
-  },
-  "38342": {
-    "title": "2012 Hudson 1x 185-225lbs avg.: $5,999",
-    "location": "Philadelphia, PA (US)",
-    "date": "February 23, 2026",
-    "first_seen": "2026-02-23T17:54:02.998714+00:00"
-  },
   "38341": {
     "title": "2011 Filippi F17 2- 198lbs avg.: $8,499",
     "location": "Philadelphia, PA (US)",
@@ -298,5 +286,17 @@
     "location": "Cleveland, OH",
     "date": "March 9, 2026",
     "first_seen": "2026-03-09T16:46:21.556441+00:00"
+  },
+  "38435": {
+    "title": "2019 Filippi F15",
+    "location": "Cumming, GA (US)",
+    "date": "March 9, 2026",
+    "first_seen": "2026-03-09T17:40:03.123991+00:00"
+  },
+  "38267": {
+    "title": "SDRC Boats for Sale",
+    "location": "San Diego, CA (US)",
+    "date": "March 9, 2026",
+    "first_seen": "2026-03-09T17:40:03.123991+00:00"
   }
 }
