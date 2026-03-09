@@ -1,10 +1,4 @@
 {
-  "37945": {
-    "title": "Adirondack Guide Boat - Ultra-Light Solo Packboat",
-    "location": "DURHAM, NC (US)",
-    "date": "February 22, 2026",
-    "first_seen": "2026-02-23T03:35:23.973276+00:00"
-  },
   "38135": {
     "title": "2018 Hudson 1x USP U1.42 (84 - 102 Kg) - $11,500 (Austin)",
     "location": "Austin, TX (US)",
@@ -298,5 +292,11 @@
     "location": "Tampa, FL (US)",
     "date": "March 9, 2026",
     "first_seen": "2026-03-09T12:36:49.698044+00:00"
+  },
+  "38433": {
+    "title": "2016 Hudson Eight - $22,000 Canadian",
+    "location": "(CA)",
+    "date": "March 9, 2026",
+    "first_seen": "2026-03-09T15:47:39.352838+00:00"
   }
 }
