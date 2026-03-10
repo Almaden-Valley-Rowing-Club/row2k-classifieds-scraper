@@ -1,16 +1,4 @@
 {
-  "38341": {
-    "title": "2011 Filippi F17 2- 198lbs avg.: $8,499",
-    "location": "Philadelphia, PA (US)",
-    "date": "February 23, 2026",
-    "first_seen": "2026-02-23T17:54:02.998714+00:00"
-  },
-  "38340": {
-    "title": "2017 Filippi F49 8+ for 185-220lbs avg",
-    "location": "Philadelphia, PA (US)",
-    "date": "February 23, 2026",
-    "first_seen": "2026-02-23T17:54:02.998714+00:00"
-  },
   "38339": {
     "title": "2012 Filippi F25 4X 191lbs avg.: $12,999",
     "location": "Philadelphia, PA (US)",
@@ -298,5 +286,17 @@
     "location": "San Diego, CA (US)",
     "date": "March 9, 2026",
     "first_seen": "2026-03-09T17:40:03.123991+00:00"
+  },
+  "38440": {
+    "title": "2003 Pocock C8+ - $5,000 Everett, WA",
+    "location": "Everett, WA (US)",
+    "date": "March 9, 2026",
+    "first_seen": "2026-03-10T12:36:09.905472+00:00"
+  },
+  "38439": {
+    "title": "Pocock Training 1x - $250 in Everett, WA",
+    "location": "Everett, WA (US)",
+    "date": "March 9, 2026",
+    "first_seen": "2026-03-10T12:36:09.905472+00:00"
   }
 }
