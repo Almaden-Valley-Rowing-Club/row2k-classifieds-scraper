@@ -1,10 +1,4 @@
 {
-  "38339": {
-    "title": "2012 Filippi F25 4X 191lbs avg.: $12,999",
-    "location": "Philadelphia, PA (US)",
-    "date": "February 23, 2026",
-    "first_seen": "2026-02-23T17:54:02.998714+00:00"
-  },
   "38338": {
     "title": "2012 Filippi F25 4- 198lbs avg.: $12,999",
     "location": "Philadelphia, PA (US)",
@@ -298,5 +292,11 @@
     "location": "Everett, WA (US)",
     "date": "March 9, 2026",
     "first_seen": "2026-03-10T12:36:09.905472+00:00"
+  },
+  "38340": {
+    "title": "2017 Filippi F49 8+ for 185-220lbs avg",
+    "location": "Philadelphia, PA (US)",
+    "date": "March 9, 2026",
+    "first_seen": "2026-03-10T13:55:19.263127+00:00"
   }
 }
