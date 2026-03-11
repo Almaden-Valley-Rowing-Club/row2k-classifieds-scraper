@@ -1,22 +1,4 @@
 {
-  "38244": {
-    "title": "2017 HUDSON SP Eight S8.21 8+",
-    "location": "Philadelphia, PA (US)",
-    "date": "February 24, 2026",
-    "first_seen": "2026-02-24T18:46:32.372060+00:00"
-  },
-  "38361": {
-    "title": "2009 Vespoli 4+ M2 Advantage class $2900",
-    "location": "Louisville, KY (US)",
-    "date": "February 25, 2026",
-    "first_seen": "2026-02-25T20:25:25.162017+00:00"
-  },
-  "38363": {
-    "title": "Owen racing shell",
-    "location": "Oakland, CA (US)",
-    "date": "February 26, 2026",
-    "first_seen": "2026-02-26T12:39:27.776503+00:00"
-  },
   "38367": {
     "title": "2020 Filippi F44 (50-60kg) [110-132lb] single with bow mounted Carbon Aliante wing rigger $9,500",
     "location": "Sarasota, FL (US)",
@@ -298,5 +280,23 @@
     "location": "Arroyo Grande, CA (US)",
     "date": "March 10, 2026",
     "first_seen": "2026-03-10T23:18:29.009085+00:00"
+  },
+  "38448": {
+    "title": "2023 Fluidesign FluidMax 2X Mid Weight Rowing Shell",
+    "location": "Anacortes, WA (US)",
+    "date": "March 10, 2026",
+    "first_seen": "2026-03-11T01:06:32.538519+00:00"
+  },
+  "38447": {
+    "title": "2018 Fluidesign FluidMax 1X Heavyweight Rowing Shell",
+    "location": "Anacortes, WA (US)",
+    "date": "March 10, 2026",
+    "first_seen": "2026-03-11T01:06:32.538519+00:00"
+  },
+  "38446": {
+    "title": "2024 Fluidesign FluidMax Super Lightweight Rowing Shell",
+    "location": "Anacortes, WA (US)",
+    "date": "March 10, 2026",
+    "first_seen": "2026-03-11T01:06:32.538519+00:00"
   }
 }
