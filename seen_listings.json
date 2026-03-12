@@ -1,10 +1,4 @@
 {
-  "38168": {
-    "title": "Hudson Lightweight 1x",
-    "location": "Lambertville, NJ (US)",
-    "date": "March 2, 2026",
-    "first_seen": "2026-03-02T15:32:07.692077+00:00"
-  },
   "38388": {
     "title": "Bay 21 Shell and Accessories For Sale",
     "location": "Rathdrum, ID (US)",
@@ -298,5 +292,11 @@
     "location": "Bernardston, MA (US)",
     "date": "March 12, 2026",
     "first_seen": "2026-03-12T15:46:54.549735+00:00"
+  },
+  "38464": {
+    "title": "2008 Hudson Predator 60-75kg Coxed Four/Quad",
+    "location": "Summerland, BC (CA)",
+    "date": "March 12, 2026",
+    "first_seen": "2026-03-12T16:49:37.327555+00:00"
   }
 }
