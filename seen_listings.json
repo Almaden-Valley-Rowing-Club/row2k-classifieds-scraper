@@ -1,16 +1,4 @@
 {
-  "38391": {
-    "title": "2020 Filippi F15 (70kg) Aluminum Aliante 1x",
-    "location": null,
-    "date": "March 2, 2026",
-    "first_seen": "2026-03-03T01:12:20.454439+00:00"
-  },
-  "38390": {
-    "title": "2021 VHP 175 1x with carbon rigger",
-    "location": "JENSEN BEACH, FL (US)",
-    "date": "March 2, 2026",
-    "first_seen": "2026-03-03T01:12:20.454439+00:00"
-  },
   "38029": {
     "title": "Wooden Pocock Pair",
     "location": "Milwaukee, WI (US)",
@@ -298,5 +286,17 @@
     "location": "Charlotte, NC (US)",
     "date": "March 12, 2026",
     "first_seen": "2026-03-12T18:38:58.065246+00:00"
+  },
+  "38466": {
+    "title": "Maas Aero",
+    "location": "Cleverdale, NY (US)",
+    "date": "March 12, 2026",
+    "first_seen": "2026-03-12T19:35:47.032220+00:00"
+  },
+  "38302": {
+    "title": "Resolute 8+ 2008, $7k",
+    "location": "Marietta, GA (US)",
+    "date": "March 12, 2026",
+    "first_seen": "2026-03-12T19:35:47.032220+00:00"
   }
 }
