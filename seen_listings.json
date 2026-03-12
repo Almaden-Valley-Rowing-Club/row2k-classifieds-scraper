@@ -1,10 +1,4 @@
 {
-  "38378": {
-    "title": "2008 Maas Aero 21' 1X",
-    "location": "Carbondale, IL (US)",
-    "date": "February 28, 2026",
-    "first_seen": "2026-03-01T13:32:50.164900+00:00"
-  },
   "38380": {
     "title": "Free Little River Sprint",
     "location": "Venice, FL (US)",
@@ -298,5 +292,11 @@
     "location": "Winter park, FL (US)",
     "date": "March 11, 2026",
     "first_seen": "2026-03-12T01:03:37.522959+00:00"
+  },
+  "38459": {
+    "title": "Maas Flyweight (carbon) 2013 & Oars",
+    "location": "Olympia, WA (US)",
+    "date": "March 11, 2026",
+    "first_seen": "2026-03-12T05:43:19.778877+00:00"
   }
 }
