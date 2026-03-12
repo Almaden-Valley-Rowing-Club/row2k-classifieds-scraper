@@ -1,10 +1,4 @@
 {
-  "38382": {
-    "title": "1987 Sharrow Midweight (165\u2013185 lb.) 2X Available for Purchase",
-    "location": "Ann Arbor, MI (US)",
-    "date": "March 1, 2026",
-    "first_seen": "2026-03-01T20:15:16.176555+00:00"
-  },
   "38168": {
     "title": "Hudson Lightweight 1x",
     "location": "Lambertville, NJ (US)",
@@ -298,5 +292,11 @@
     "location": "Wayland, MA (US)",
     "date": "March 11, 2026",
     "first_seen": "2026-03-12T12:35:20.484463+00:00"
+  },
+  "38462": {
+    "title": "Coffey Lightweight 1X  $1300",
+    "location": "Bernardston, MA (US)",
+    "date": "March 12, 2026",
+    "first_seen": "2026-03-12T15:46:54.549735+00:00"
   }
 }
