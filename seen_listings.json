@@ -1,10 +1,4 @@
 {
-  "38380": {
-    "title": "Free Little River Sprint",
-    "location": "Venice, FL (US)",
-    "date": "March 1, 2026",
-    "first_seen": "2026-03-01T16:16:01.568066+00:00"
-  },
   "38382": {
     "title": "1987 Sharrow Midweight (165\u2013185 lb.) 2X Available for Purchase",
     "location": "Ann Arbor, MI (US)",
@@ -298,5 +292,11 @@
     "location": "Olympia, WA (US)",
     "date": "March 11, 2026",
     "first_seen": "2026-03-12T05:43:19.778877+00:00"
+  },
+  "38460": {
+    "title": "2008 Peinert X25 lightweight 1x",
+    "location": "Wayland, MA (US)",
+    "date": "March 11, 2026",
+    "first_seen": "2026-03-12T12:35:20.484463+00:00"
   }
 }
