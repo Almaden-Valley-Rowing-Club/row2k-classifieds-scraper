@@ -1,10 +1,4 @@
 {
-  "38398": {
-    "title": "Annapolis Wherry (AND TRAILER) for Sale $4000 OBO in Duluth MN",
-    "location": null,
-    "date": "March 4, 2026",
-    "first_seen": "2026-03-04T16:30:55.145358+00:00"
-  },
   "38402": {
     "title": "Medium Filippi 2x for Sale",
     "location": "Seattle, WA (US)",
@@ -298,5 +292,11 @@
     "location": "Princeton Junction, NJ (US)",
     "date": "March 13, 2026",
     "first_seen": "2026-03-13T12:34:41.286164+00:00"
+  },
+  "38473": {
+    "title": "2017 Wintech International 1x MW \u2013 Nashville, TN",
+    "location": "Nashville, TN (US)",
+    "date": "March 13, 2026",
+    "first_seen": "2026-03-13T15:33:43.549189+00:00"
   }
 }
