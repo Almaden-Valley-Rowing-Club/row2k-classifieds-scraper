@@ -1,16 +1,4 @@
 {
-  "38221": {
-    "title": "Annapolis Wherry",
-    "location": "Bluffton, SC (US)",
-    "date": "March 3, 2026",
-    "first_seen": "2026-03-03T15:38:49.457967+00:00"
-  },
-  "38394": {
-    "title": "$5250 Wintech International MW 1x 2018 - New Haven, CT",
-    "location": "New Haven, CT (US)",
-    "date": "March 3, 2026",
-    "first_seen": "2026-03-04T01:08:26.466474+00:00"
-  },
   "38399": {
     "title": "Tandem Annapolis Wherry",
     "location": "Hendersonville, NC (US)",
@@ -298,5 +286,17 @@
     "location": "JENSEN BEACH, FL (US)",
     "date": "March 12, 2026",
     "first_seen": "2026-03-12T20:23:45.389950+00:00"
+  },
+  "38469": {
+    "title": "2014 Vespoli Ltwt 4+",
+    "location": "Jacksonville, FL (US)",
+    "date": "March 12, 2026",
+    "first_seen": "2026-03-13T11:23:40.716641+00:00"
+  },
+  "38468": {
+    "title": "2014 Empacher X10 1X",
+    "location": null,
+    "date": "March 12, 2026",
+    "first_seen": "2026-03-13T11:23:40.716641+00:00"
   }
 }
