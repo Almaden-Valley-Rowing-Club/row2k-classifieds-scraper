@@ -1,10 +1,4 @@
 {
-  "38413": {
-    "title": "1987 Van Dusen Ltwt 1x",
-    "location": "Long Beach, CA (US)",
-    "date": "March 6, 2026",
-    "first_seen": "2026-03-06T23:18:42.422755+00:00"
-  },
   "38259": {
     "title": "2023 Filippi F15 1x (143-165 lbs)",
     "location": "Arlington, VA (US)",
@@ -298,5 +292,11 @@
     "location": "Mercer Island, WA (US)",
     "date": "March 14, 2026",
     "first_seen": "2026-03-14T18:23:06.130349+00:00"
+  },
+  "38491": {
+    "title": "2002 DL Vespoli 4x for sale, $1200 OBO",
+    "location": "Burlington, NJ (US)",
+    "date": "March 14, 2026",
+    "first_seen": "2026-03-15T10:19:39.872725+00:00"
   }
 }
