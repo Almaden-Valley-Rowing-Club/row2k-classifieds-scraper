@@ -1,10 +1,4 @@
 {
-  "38434": {
-    "title": "Two Early 2000's Vespoli DS 8+'s",
-    "location": "Cleveland, OH",
-    "date": "March 9, 2026",
-    "first_seen": "2026-03-09T16:46:21.556441+00:00"
-  },
   "38435": {
     "title": "2019 Filippi F15",
     "location": "Cumming, GA (US)",
@@ -298,5 +292,11 @@
     "location": "Philadelphia, PA (US)",
     "date": "March 17, 2026",
     "first_seen": "2026-03-17T15:54:55.804250+00:00"
+  },
+  "38515": {
+    "title": "2001 Vespoli Millennium DM 8+ with Oars \u2013 Ann Arbor, MI",
+    "location": "Dexter, MI (US)",
+    "date": "March 17, 2026",
+    "first_seen": "2026-03-17T16:55:24.292361+00:00"
   }
 }
