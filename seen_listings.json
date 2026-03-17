@@ -1,10 +1,4 @@
 {
-  "38435": {
-    "title": "2019 Filippi F15",
-    "location": "Cumming, GA (US)",
-    "date": "March 9, 2026",
-    "first_seen": "2026-03-09T17:40:03.123991+00:00"
-  },
   "38267": {
     "title": "SDRC Boats for Sale",
     "location": "San Diego, CA (US)",
@@ -298,5 +292,11 @@
     "location": "Dexter, MI (US)",
     "date": "March 17, 2026",
     "first_seen": "2026-03-17T16:55:24.292361+00:00"
+  },
+  "38516": {
+    "title": "1998 Flyweight Sharrow",
+    "location": "Portland, OR (US)",
+    "date": "March 17, 2026",
+    "first_seen": "2026-03-17T17:52:37.209965+00:00"
   }
 }
