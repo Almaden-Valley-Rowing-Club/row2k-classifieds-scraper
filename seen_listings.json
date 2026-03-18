@@ -1,10 +1,4 @@
 {
-  "38439": {
-    "title": "Pocock Training 1x - $250 in Everett, WA",
-    "location": "Everett, WA (US)",
-    "date": "March 9, 2026",
-    "first_seen": "2026-03-10T12:36:09.905472+00:00"
-  },
   "38340": {
     "title": "2017 Filippi F49 8+ for 185-220lbs avg",
     "location": "Philadelphia, PA (US)",
@@ -298,5 +292,11 @@
     "location": "Fairport, NY (US)",
     "date": "March 18, 2026",
     "first_seen": "2026-03-18T12:44:36.036382+00:00"
+  },
+  "38528": {
+    "title": "King Single",
+    "location": "Surrey, BC (CA)",
+    "date": "March 18, 2026",
+    "first_seen": "2026-03-18T23:22:26.777290+00:00"
   }
 }
