@@ -1,10 +1,4 @@
 {
-  "38440": {
-    "title": "2003 Pocock C8+ - $5,000 Everett, WA",
-    "location": "Everett, WA (US)",
-    "date": "March 9, 2026",
-    "first_seen": "2026-03-10T12:36:09.905472+00:00"
-  },
   "38439": {
     "title": "Pocock Training 1x - $250 in Everett, WA",
     "location": "Everett, WA (US)",
@@ -298,5 +292,11 @@
     "location": "VA (US)",
     "date": "March 17, 2026",
     "first_seen": "2026-03-18T04:13:55.888971+00:00"
+  },
+  "38336": {
+    "title": "2010 Vespoli Ultralite rowing shell For Sale",
+    "location": "Fairport, NY (US)",
+    "date": "March 18, 2026",
+    "first_seen": "2026-03-18T12:44:36.036382+00:00"
   }
 }
