@@ -1,10 +1,4 @@
 {
-  "38267": {
-    "title": "SDRC Boats for Sale",
-    "location": "San Diego, CA (US)",
-    "date": "March 9, 2026",
-    "first_seen": "2026-03-09T17:40:03.123991+00:00"
-  },
   "38440": {
     "title": "2003 Pocock C8+ - $5,000 Everett, WA",
     "location": "Everett, WA (US)",
@@ -298,5 +292,11 @@
     "location": "Portland, OR (US)",
     "date": "March 17, 2026",
     "first_seen": "2026-03-17T17:52:37.209965+00:00"
+  },
+  "38519": {
+    "title": "Older Vespoli 4+\u2019s for sale",
+    "location": "VA (US)",
+    "date": "March 17, 2026",
+    "first_seen": "2026-03-18T04:13:55.888971+00:00"
   }
 }
