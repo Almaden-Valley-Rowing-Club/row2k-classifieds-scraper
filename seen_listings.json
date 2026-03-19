@@ -1,16 +1,4 @@
 {
-  "38287": {
-    "title": "Wherry,  beautiful wood/fiberglass",
-    "location": "Arroyo Grande, CA (US)",
-    "date": "March 10, 2026",
-    "first_seen": "2026-03-10T23:18:29.009085+00:00"
-  },
-  "38448": {
-    "title": "2023 Fluidesign FluidMax 2X Mid Weight Rowing Shell",
-    "location": "Anacortes, WA (US)",
-    "date": "March 10, 2026",
-    "first_seen": "2026-03-11T01:06:32.538519+00:00"
-  },
   "38447": {
     "title": "2018 Fluidesign FluidMax 1X Heavyweight Rowing Shell",
     "location": "Anacortes, WA (US)",
@@ -298,5 +286,17 @@
     "location": "St. Charles, IL (US)",
     "date": "March 19, 2026",
     "first_seen": "2026-03-19T15:42:41.109088+00:00"
+  },
+  "38540": {
+    "title": "Classic Owen wood racing shell",
+    "location": "Oakland, CA (US)",
+    "date": "March 19, 2026",
+    "first_seen": "2026-03-19T22:17:39.893793+00:00"
+  },
+  "38539": {
+    "title": "Single EXO 24 racing shell",
+    "location": "Chestermere , AB (CA)",
+    "date": "March 19, 2026",
+    "first_seen": "2026-03-19T22:17:39.893793+00:00"
   }
 }
