@@ -1,10 +1,4 @@
 {
-  "38443": {
-    "title": "Boat for Sale",
-    "location": "Mt Sinai, NY (US)",
-    "date": "March 10, 2026",
-    "first_seen": "2026-03-10T17:38:59.551308+00:00"
-  },
   "38287": {
     "title": "Wherry,  beautiful wood/fiberglass",
     "location": "Arroyo Grande, CA (US)",
@@ -298,5 +292,11 @@
     "location": "Philadelphia, PA (US)",
     "date": "March 18, 2026",
     "first_seen": "2026-03-19T04:12:57.338727+00:00"
+  },
+  "38534": {
+    "title": "2015 Super Rowing 75 KG MW Single $5K OBO",
+    "location": "St. Charles, IL (US)",
+    "date": "March 19, 2026",
+    "first_seen": "2026-03-19T15:42:41.109088+00:00"
   }
 }
