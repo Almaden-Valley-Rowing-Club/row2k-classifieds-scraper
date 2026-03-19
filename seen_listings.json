@@ -1,10 +1,4 @@
 {
-  "38445": {
-    "title": "2010 vespoli 8+",
-    "location": "Stockton, CA (US)",
-    "date": "March 10, 2026",
-    "first_seen": "2026-03-10T17:38:59.551308+00:00"
-  },
   "38443": {
     "title": "Boat for Sale",
     "location": "Mt Sinai, NY (US)",
@@ -298,5 +292,11 @@
     "location": "Darien, CT (US)",
     "date": "March 18, 2026",
     "first_seen": "2026-03-19T01:15:04.773195+00:00"
+  },
+  "38339": {
+    "title": "2012 Filippi F25 4X 191lbs avg.: $12,999",
+    "location": "Philadelphia, PA (US)",
+    "date": "March 18, 2026",
+    "first_seen": "2026-03-19T04:12:57.338727+00:00"
   }
 }
