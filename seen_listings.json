@@ -1,16 +1,4 @@
 {
-  "38455": {
-    "title": "Sea shell little river double",
-    "location": "Winter park, FL (US)",
-    "date": "March 11, 2026",
-    "first_seen": "2026-03-12T01:03:37.522959+00:00"
-  },
-  "38459": {
-    "title": "Maas Flyweight (carbon) 2013 & Oars",
-    "location": "Olympia, WA (US)",
-    "date": "March 11, 2026",
-    "first_seen": "2026-03-12T05:43:19.778877+00:00"
-  },
   "38460": {
     "title": "2008 Peinert X25 lightweight 1x",
     "location": "Wayland, MA (US)",
@@ -298,5 +286,17 @@
     "location": "Philadelphia, PA (US)",
     "date": "March 22, 2026",
     "first_seen": "2026-03-23T11:36:55.871339+00:00"
+  },
+  "38376": {
+    "title": "2005 Kaschper International 4+ Price Reduced $1000",
+    "location": "YORK HAVEN, PA (US)",
+    "date": "March 23, 2026",
+    "first_seen": "2026-03-23T14:07:38.394663+00:00"
+  },
+  "38375": {
+    "title": "2005 Kaschper 4+ Price Reduced $1000",
+    "location": "YORK HAVEN, PA (US)",
+    "date": "March 23, 2026",
+    "first_seen": "2026-03-23T14:07:38.394663+00:00"
   }
 }
