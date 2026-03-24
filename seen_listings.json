@@ -1,22 +1,4 @@
 {
-  "38462": {
-    "title": "Coffey Lightweight 1X  $1300",
-    "location": "Bernardston, MA (US)",
-    "date": "March 12, 2026",
-    "first_seen": "2026-03-12T15:46:54.549735+00:00"
-  },
-  "38464": {
-    "title": "2008 Hudson Predator 60-75kg Coxed Four/Quad",
-    "location": "Summerland, BC (CA)",
-    "date": "March 12, 2026",
-    "first_seen": "2026-03-12T16:49:37.327555+00:00"
-  },
-  "38465": {
-    "title": "WinTech Racing 1x 2023 Cobra for sale in Charlotte, NC",
-    "location": "Charlotte, NC (US)",
-    "date": "March 12, 2026",
-    "first_seen": "2026-03-12T18:38:58.065246+00:00"
-  },
   "38466": {
     "title": "Maas Aero",
     "location": "Cleverdale, NY (US)",
@@ -298,5 +280,23 @@
     "location": "Minneapolis, MN (US)",
     "date": "March 23, 2026",
     "first_seen": "2026-03-23T22:21:33.114111+00:00"
+  },
+  "38562": {
+    "title": "2021 Lightweight Wintech International 2x/-",
+    "location": "Norwalk, CT (US)",
+    "date": "March 23, 2026",
+    "first_seen": "2026-03-24T12:45:14.029879+00:00"
+  },
+  "38561": {
+    "title": "2023 Midweight Wintech International 4x",
+    "location": "Norwalk, CT (US)",
+    "date": "March 23, 2026",
+    "first_seen": "2026-03-24T12:45:14.029879+00:00"
+  },
+  "38560": {
+    "title": "FREE Vintage Wood 8+",
+    "location": "Los Angeles, CA (US)",
+    "date": "March 23, 2026",
+    "first_seen": "2026-03-24T12:45:14.029879+00:00"
   }
 }
