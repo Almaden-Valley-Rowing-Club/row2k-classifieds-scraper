@@ -1,10 +1,4 @@
 {
-  "38302": {
-    "title": "Resolute 8+ 2008, $7k",
-    "location": "Marietta, GA (US)",
-    "date": "March 12, 2026",
-    "first_seen": "2026-03-12T19:35:47.032220+00:00"
-  },
   "38390": {
     "title": "2021 VHP 175 1x with carbon rigger",
     "location": "JENSEN BEACH, FL (US)",
@@ -298,5 +292,11 @@
     "location": "Philadelphia, PA (US)",
     "date": "March 24, 2026",
     "first_seen": "2026-03-24T14:13:24.426673+00:00"
+  },
+  "38564": {
+    "title": "2010 Hudson 8+ for sale",
+    "location": "Lewiston, ME (US)",
+    "date": "March 24, 2026",
+    "first_seen": "2026-03-24T15:56:29.233470+00:00"
   }
 }
