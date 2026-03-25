@@ -1,10 +1,4 @@
 {
-  "38468": {
-    "title": "2014 Empacher X10 1X",
-    "location": null,
-    "date": "March 12, 2026",
-    "first_seen": "2026-03-13T11:23:40.716641+00:00"
-  },
   "38470": {
     "title": "2013 Vespoli ultralite DM8+",
     "location": "Princeton Junction, NJ (US)",
@@ -298,5 +292,11 @@
     "location": "Beaufort, SC (US)",
     "date": "March 25, 2026",
     "first_seen": "2026-03-25T15:59:55.524628+00:00"
+  },
+  "38573": {
+    "title": "Mid-weight Single Racing Shell (Northshore/Boston)",
+    "location": "Beverly , MA (US)",
+    "date": "March 25, 2026",
+    "first_seen": "2026-03-25T22:25:29.618168+00:00"
   }
 }
