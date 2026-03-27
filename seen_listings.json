@@ -1,16 +1,4 @@
 {
-  "38478": {
-    "title": "2021 Empacher Racing Single",
-    "location": "West Palm Beach, FL (US)",
-    "date": "March 13, 2026",
-    "first_seen": "2026-03-13T22:19:21.276681+00:00"
-  },
-  "38312": {
-    "title": "Maas Flyweight 1X",
-    "location": "Franklin, TN (US)",
-    "date": "March 13, 2026",
-    "first_seen": "2026-03-14T01:08:52.741385+00:00"
-  },
   "38316": {
     "title": "Classic wood 1x, restored",
     "location": "MADISON, WI (US)",
@@ -298,5 +286,17 @@
     "location": "Scottsdale, AZ (US)",
     "date": "March 27, 2026",
     "first_seen": "2026-03-27T15:42:01.751533+00:00"
+  },
+  "38587": {
+    "title": "2015 Sykes 2x/- 80kg/175lbs - $3,500 OBO",
+    "location": "DC",
+    "date": "March 27, 2026",
+    "first_seen": "2026-03-27T16:42:06.398328+00:00"
+  },
+  "38586": {
+    "title": "2017 SP Hudson 8+",
+    "location": "Syracuse, NY (US)",
+    "date": "March 27, 2026",
+    "first_seen": "2026-03-27T16:42:06.398328+00:00"
   }
 }
