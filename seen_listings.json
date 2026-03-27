@@ -1,10 +1,4 @@
 {
-  "38476": {
-    "title": "Edon TS515 Ready to Go - $1950",
-    "location": "Knoxville, TN (US)",
-    "date": "March 13, 2026",
-    "first_seen": "2026-03-13T16:28:05.156210+00:00"
-  },
   "38481": {
     "title": "2020 Hudson 1X Shark Predator S142.1X",
     "location": "Orchard Park, NY (US)",
@@ -298,5 +292,11 @@
     "location": "NORTHPORT, NY (US)",
     "date": "March 26, 2026",
     "first_seen": "2026-03-26T17:52:23.744877+00:00"
+  },
+  "38399": {
+    "title": "Tandem Annapolis Wherry",
+    "location": "Hendersonville, NC (US)",
+    "date": "March 27, 2026",
+    "first_seen": "2026-03-27T12:39:08.361297+00:00"
   }
 }
