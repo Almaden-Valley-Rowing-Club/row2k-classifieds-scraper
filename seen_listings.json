@@ -1,10 +1,4 @@
 {
-  "38316": {
-    "title": "Classic wood 1x, restored",
-    "location": "MADISON, WI (US)",
-    "date": "March 14, 2026",
-    "first_seen": "2026-03-14T10:17:42.162819+00:00"
-  },
   "38486": {
     "title": "Sculling single 23 ft single Fiberglass with Oars",
     "location": "Va Beach, VA (US)",
@@ -298,5 +292,11 @@
     "location": "Syracuse, NY (US)",
     "date": "March 27, 2026",
     "first_seen": "2026-03-27T16:42:06.398328+00:00"
+  },
+  "38588": {
+    "title": "2017 SP Hudson 8+",
+    "location": "Syracuse, NY (US)",
+    "date": "March 27, 2026",
+    "first_seen": "2026-03-27T17:41:43.997382+00:00"
   }
 }
