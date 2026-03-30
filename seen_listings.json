@@ -1,10 +1,4 @@
 {
-  "38341": {
-    "title": "2011 Filippi F17 2- 198lbs avg.: $8,499",
-    "location": "Philadelphia, PA (US)",
-    "date": "March 17, 2026",
-    "first_seen": "2026-03-17T15:54:55.804250+00:00"
-  },
   "38338": {
     "title": "2012 Filippi F25 4- 198lbs avg.: $12,999",
     "location": "Philadelphia, PA (US)",
@@ -298,5 +292,11 @@
     "location": "Chicago, IL (US)",
     "date": "March 29, 2026",
     "first_seen": "2026-03-29T21:22:29.807055+00:00"
+  },
+  "38599": {
+    "title": "2006 Fluidesign Lightweight (68kg crew) Single - $4500",
+    "location": null,
+    "date": "March 29, 2026",
+    "first_seen": "2026-03-30T11:47:03.605046+00:00"
   }
 }
