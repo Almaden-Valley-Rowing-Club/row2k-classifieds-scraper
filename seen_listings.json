@@ -1,10 +1,4 @@
 {
-  "38338": {
-    "title": "2012 Filippi F25 4- 198lbs avg.: $12,999",
-    "location": "Philadelphia, PA (US)",
-    "date": "March 17, 2026",
-    "first_seen": "2026-03-17T15:54:55.804250+00:00"
-  },
   "38515": {
     "title": "2001 Vespoli Millennium DM 8+ with Oars \u2013 Ann Arbor, MI",
     "location": "Dexter, MI (US)",
@@ -298,5 +292,11 @@
     "location": null,
     "date": "March 29, 2026",
     "first_seen": "2026-03-30T11:47:03.605046+00:00"
+  },
+  "38606": {
+    "title": "2023 Hudson Ltwt 2x [Like-New]",
+    "location": "Rochester, NY (US)",
+    "date": "March 30, 2026",
+    "first_seen": "2026-03-30T16:58:55.528898+00:00"
   }
 }
