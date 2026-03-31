@@ -1,10 +1,4 @@
 {
-  "38515": {
-    "title": "2001 Vespoli Millennium DM 8+ with Oars \u2013 Ann Arbor, MI",
-    "location": "Dexter, MI (US)",
-    "date": "March 17, 2026",
-    "first_seen": "2026-03-17T16:55:24.292361+00:00"
-  },
   "38516": {
     "title": "1998 Flyweight Sharrow",
     "location": "Portland, OR (US)",
@@ -298,5 +292,11 @@
     "location": "Rochester, NY (US)",
     "date": "March 30, 2026",
     "first_seen": "2026-03-30T16:58:55.528898+00:00"
+  },
+  "38168": {
+    "title": "Hudson Lightweight 1x",
+    "location": "Lambertville, NJ (US)",
+    "date": "March 31, 2026",
+    "first_seen": "2026-03-31T12:52:24.415995+00:00"
   }
 }
