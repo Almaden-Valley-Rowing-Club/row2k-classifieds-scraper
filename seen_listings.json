@@ -1,10 +1,4 @@
 {
-  "38516": {
-    "title": "1998 Flyweight Sharrow",
-    "location": "Portland, OR (US)",
-    "date": "March 17, 2026",
-    "first_seen": "2026-03-17T17:52:37.209965+00:00"
-  },
   "38519": {
     "title": "Older Vespoli 4+\u2019s for sale",
     "location": "VA (US)",
@@ -298,5 +292,11 @@
     "location": "Lambertville, NJ (US)",
     "date": "March 31, 2026",
     "first_seen": "2026-03-31T12:52:24.415995+00:00"
+  },
+  "38404": {
+    "title": "2009 Vespoli M24 1x",
+    "location": "Greenville, WI (US)",
+    "date": "March 31, 2026",
+    "first_seen": "2026-03-31T15:58:33.650064+00:00"
   }
 }
