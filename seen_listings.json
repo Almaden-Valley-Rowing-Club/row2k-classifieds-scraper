@@ -1,10 +1,4 @@
 {
-  "38339": {
-    "title": "2012 Filippi F25 4X 191lbs avg.: $12,999",
-    "location": "Philadelphia, PA (US)",
-    "date": "March 18, 2026",
-    "first_seen": "2026-03-19T04:12:57.338727+00:00"
-  },
   "38534": {
     "title": "2015 Super Rowing 75 KG MW Single $5K OBO",
     "location": "St. Charles, IL (US)",
@@ -298,5 +292,11 @@
     "location": "Bluffton, SC (US)",
     "date": "April 1, 2026",
     "first_seen": "2026-04-01T16:01:28.743418+00:00"
+  },
+  "38440": {
+    "title": "2003 Pocock C8+ - $4,000 Everett, WA",
+    "location": "Everett, WA (US)",
+    "date": "April 1, 2026",
+    "first_seen": "2026-04-01T17:41:33.465967+00:00"
   }
 }
