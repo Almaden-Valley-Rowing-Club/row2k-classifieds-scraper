@@ -1,16 +1,4 @@
 {
-  "38547": {
-    "title": "Filippi F50 75 kg single",
-    "location": "Cambridge, MA (US)",
-    "date": "March 20, 2026",
-    "first_seen": "2026-03-20T21:21:21.994155+00:00"
-  },
-  "38546": {
-    "title": "Filippi F15 single, 70 kg ave weight crew",
-    "location": "Cambridge, MA (US)",
-    "date": "March 20, 2026",
-    "first_seen": "2026-03-20T21:21:21.994155+00:00"
-  },
   "38545": {
     "title": "2018 Filippi F15 single 70kg",
     "location": "Cambridge, MA (US)",
@@ -298,5 +286,17 @@
     "location": "Little Canada, MN (US)",
     "date": "April 1, 2026",
     "first_seen": "2026-04-02T12:47:43.858760+00:00"
+  },
+  "38625": {
+    "title": "Hudson flyweight 1X 2002 Elite",
+    "location": "Seattle, WA (US)",
+    "date": "April 2, 2026",
+    "first_seen": "2026-04-02T15:51:02.103342+00:00"
+  },
+  "38624": {
+    "title": "2016 Fluidesign Elite lwt 1x racing shell (140 lbs)",
+    "location": "Arlington, MA (US)",
+    "date": "April 2, 2026",
+    "first_seen": "2026-04-02T15:51:02.103342+00:00"
   }
 }
