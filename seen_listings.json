@@ -1,22 +1,4 @@
 {
-  "38545": {
-    "title": "2018 Filippi F15 single 70kg",
-    "location": "Cambridge, MA (US)",
-    "date": "March 20, 2026",
-    "first_seen": "2026-03-20T21:21:21.994155+00:00"
-  },
-  "38544": {
-    "title": "Filippi F13 double",
-    "location": "Cambridge, MA (US)",
-    "date": "March 20, 2026",
-    "first_seen": "2026-03-20T21:21:21.994155+00:00"
-  },
-  "38548": {
-    "title": "2016 Sykes 4+ 85kg",
-    "location": "Shrewsbury, MA (US)",
-    "date": "March 20, 2026",
-    "first_seen": "2026-03-21T01:06:34.580541+00:00"
-  },
   "38550": {
     "title": "2013 Hudson SP8.21 - $11,000",
     "location": null,
@@ -298,5 +280,23 @@
     "location": "Arlington, MA (US)",
     "date": "April 2, 2026",
     "first_seen": "2026-04-02T15:51:02.103342+00:00"
+  },
+  "38628": {
+    "title": "Alden Appledore 16",
+    "location": "Mystic, CT (US)",
+    "date": "April 2, 2026",
+    "first_seen": "2026-04-02T19:41:55.881090+00:00"
+  },
+  "38627": {
+    "title": "2014 Maas 24",
+    "location": "SOUTH WALTHAM, MA (US)",
+    "date": "April 2, 2026",
+    "first_seen": "2026-04-02T19:41:55.881090+00:00"
+  },
+  "38626": {
+    "title": "1997 Carl Douglas 1x (MW)",
+    "location": "Wellesley, MA",
+    "date": "April 2, 2026",
+    "first_seen": "2026-04-02T19:41:55.881090+00:00"
   }
 }
