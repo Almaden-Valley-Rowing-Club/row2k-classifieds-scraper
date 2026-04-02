@@ -1,10 +1,4 @@
 {
-  "38540": {
-    "title": "Classic Owen wood racing shell",
-    "location": "Oakland, CA (US)",
-    "date": "March 19, 2026",
-    "first_seen": "2026-03-19T22:17:39.893793+00:00"
-  },
   "38539": {
     "title": "Single EXO 24 racing shell",
     "location": "Chestermere , AB (CA)",
@@ -298,5 +292,11 @@
     "location": "Toronto, ON (CA)",
     "date": "April 1, 2026",
     "first_seen": "2026-04-01T23:28:00.992704+00:00"
+  },
+  "38621": {
+    "title": "1987 Van Dusen Ltwt 1x, Long Beach, CA",
+    "location": "Long Beach, CA (US)",
+    "date": "April 1, 2026",
+    "first_seen": "2026-04-02T01:17:31.860214+00:00"
   }
 }
