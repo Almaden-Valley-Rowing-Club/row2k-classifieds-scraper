@@ -1,10 +1,4 @@
 {
-  "38539": {
-    "title": "Single EXO 24 racing shell",
-    "location": "Chestermere , AB (CA)",
-    "date": "March 19, 2026",
-    "first_seen": "2026-03-19T22:17:39.893793+00:00"
-  },
   "38547": {
     "title": "Filippi F50 75 kg single",
     "location": "Cambridge, MA (US)",
@@ -298,5 +292,11 @@
     "location": "Long Beach, CA (US)",
     "date": "April 1, 2026",
     "first_seen": "2026-04-02T01:17:31.860214+00:00"
+  },
+  "38622": {
+    "title": "2022 Filippi F39 - $12k",
+    "location": "Little Canada, MN (US)",
+    "date": "April 1, 2026",
+    "first_seen": "2026-04-02T12:47:43.858760+00:00"
   }
 }
