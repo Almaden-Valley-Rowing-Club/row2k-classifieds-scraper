@@ -1,10 +1,4 @@
 {
-  "38550": {
-    "title": "2013 Hudson SP8.21 - $11,000",
-    "location": null,
-    "date": "March 21, 2026",
-    "first_seen": "2026-03-21T15:16:30.751248+00:00"
-  },
   "38549": {
     "title": "BBG Olympia Single in excellent condition",
     "location": "Seattle, WA (US)",
@@ -298,5 +292,11 @@
     "location": "Wellesley, MA",
     "date": "April 2, 2026",
     "first_seen": "2026-04-02T19:41:55.881090+00:00"
+  },
+  "38430": {
+    "title": "Alden Martin and Oarmaster I  $500",
+    "location": "California, MD (US)",
+    "date": "April 3, 2026",
+    "first_seen": "2026-04-03T22:22:40.949201+00:00"
   }
 }
