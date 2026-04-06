@@ -1,10 +1,4 @@
 {
-  "38563": {
-    "title": "2020 Fluidesign Heavyweight 1x - $8000",
-    "location": "Philadelphia, PA (US)",
-    "date": "March 24, 2026",
-    "first_seen": "2026-03-24T14:13:24.426673+00:00"
-  },
   "38564": {
     "title": "2010 Hudson 8+ for sale",
     "location": "Lewiston, ME (US)",
@@ -298,5 +292,11 @@
     "location": "Hamilton, ON (CA)",
     "date": "April 6, 2026",
     "first_seen": "2026-04-06T16:35:52.238357+00:00"
+  },
+  "38660": {
+    "title": "Filippi 2x Large For Sale",
+    "location": "Seattle, WA (US)",
+    "date": "April 6, 2026",
+    "first_seen": "2026-04-06T19:44:31.740229+00:00"
   }
 }
