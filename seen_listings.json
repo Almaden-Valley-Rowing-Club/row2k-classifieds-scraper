@@ -1,16 +1,4 @@
 {
-  "38573": {
-    "title": "Mid-weight Single Racing Shell (Northshore/Boston)",
-    "location": "Beverly , MA (US)",
-    "date": "March 25, 2026",
-    "first_seen": "2026-03-25T22:25:29.618168+00:00"
-  },
-  "38578": {
-    "title": "Sea shell double",
-    "location": "Winter park, FL (US)",
-    "date": "March 26, 2026",
-    "first_seen": "2026-03-26T12:50:31.995814+00:00"
-  },
   "38580": {
     "title": "2016 Hudson Single $12,500",
     "location": "NORTHPORT, NY (US)",
@@ -298,5 +286,17 @@
     "location": "Carlsbad, CA (US)",
     "date": "April 7, 2026",
     "first_seen": "2026-04-07T17:48:35.133713+00:00"
+  },
+  "38670": {
+    "title": "2022 Filippi F44 1x  50-60kg",
+    "location": "Cambridge, MA (US)",
+    "date": "April 7, 2026",
+    "first_seen": "2026-04-07T22:28:27.829845+00:00"
+  },
+  "38669": {
+    "title": "Midweight Ave Single for Sale",
+    "location": "CA (US)",
+    "date": "April 7, 2026",
+    "first_seen": "2026-04-07T22:28:27.829845+00:00"
   }
 }
