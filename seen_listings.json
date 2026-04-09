@@ -1,10 +1,4 @@
 {
-  "38584": {
-    "title": "Vespoli Rowing Shell",
-    "location": "Scottsdale, AZ (US)",
-    "date": "March 27, 2026",
-    "first_seen": "2026-03-27T15:42:01.751533+00:00"
-  },
   "38587": {
     "title": "2015 Sykes 2x/- 80kg/175lbs - $3,500 OBO",
     "location": "DC",
@@ -298,5 +292,11 @@
     "location": "Tacoma, WA (US)",
     "date": "April 8, 2026",
     "first_seen": "2026-04-08T16:07:52.664319+00:00"
+  },
+  "38504": {
+    "title": "1973 Alden Ocean Shell Single / fixed-track version",
+    "location": "Princeton, NJ (US)",
+    "date": "April 8, 2026",
+    "first_seen": "2026-04-09T01:12:51.065957+00:00"
   }
 }
