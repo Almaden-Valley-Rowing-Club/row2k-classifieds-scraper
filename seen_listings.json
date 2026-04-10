@@ -1,10 +1,4 @@
 {
-  "38588": {
-    "title": "2017 SP Hudson 8+",
-    "location": "Syracuse, NY (US)",
-    "date": "March 27, 2026",
-    "first_seen": "2026-03-27T17:41:43.997382+00:00"
-  },
   "38590": {
     "title": "Wintech Explorer 21",
     "location": "Rio Verde, AZ (US)",
@@ -298,5 +292,11 @@
     "location": "Hamilton, ON (CA)",
     "date": "April 8, 2026",
     "first_seen": "2026-04-09T12:58:29.100340+00:00"
+  },
+  "38497": {
+    "title": "Salani Lightweight Single Scull \u2013 Azure Blue \u2013 Italian Craftsmanship (2015)",
+    "location": "Washington, DC (US)",
+    "date": "April 10, 2026",
+    "first_seen": "2026-04-10T11:39:24.621392+00:00"
   }
 }
