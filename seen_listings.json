@@ -1,10 +1,4 @@
 {
-  "38594": {
-    "title": "2024 Hudson SP Bow Coxed 4+",
-    "location": "Philadelphia, PA",
-    "date": "March 28, 2026",
-    "first_seen": "2026-03-28T21:20:56.227061+00:00"
-  },
   "38596": {
     "title": "TS515 Single",
     "location": "Belmont , NC (US)",
@@ -298,5 +292,11 @@
     "location": "Arroyo Grande, CA (US)",
     "date": "April 10, 2026",
     "first_seen": "2026-04-10T22:26:02.324456+00:00"
+  },
+  "38540": {
+    "title": "Classic Owen wood racing shell",
+    "location": "Oakland, CA (US)",
+    "date": "April 11, 2026",
+    "first_seen": "2026-04-11T17:23:08.875974+00:00"
   }
 }
