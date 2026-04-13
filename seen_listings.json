@@ -1,16 +1,4 @@
 {
-  "38414": {
-    "title": "Hudson 2X lightweight",
-    "location": "Chicago, IL (US)",
-    "date": "March 29, 2026",
-    "first_seen": "2026-03-29T21:22:29.807055+00:00"
-  },
-  "38599": {
-    "title": "2006 Fluidesign Lightweight (68kg crew) Single - $4500",
-    "location": null,
-    "date": "March 29, 2026",
-    "first_seen": "2026-03-30T11:47:03.605046+00:00"
-  },
   "38606": {
     "title": "2023 Hudson Ltwt 2x [Like-New]",
     "location": "Rochester, NY (US)",
@@ -298,5 +286,17 @@
     "location": "Seattle, WA (US)",
     "date": "April 12, 2026",
     "first_seen": "2026-04-12T18:32:42.096009+00:00"
+  },
+  "38707": {
+    "title": "Filippi Midweight Single for Sale out of Philly",
+    "location": "Philadelphia, PA (US)",
+    "date": "April 13, 2026",
+    "first_seen": "2026-04-13T17:51:42.162004+00:00"
+  },
+  "38706": {
+    "title": "Filippi Midweight Double for Sale out of Philly",
+    "location": "Philadelphia, PA (US)",
+    "date": "April 13, 2026",
+    "first_seen": "2026-04-13T17:51:42.162004+00:00"
   }
 }
