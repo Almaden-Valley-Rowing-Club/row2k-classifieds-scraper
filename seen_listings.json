@@ -1,10 +1,4 @@
 {
-  "38606": {
-    "title": "2023 Hudson Ltwt 2x [Like-New]",
-    "location": "Rochester, NY (US)",
-    "date": "March 30, 2026",
-    "first_seen": "2026-03-30T16:58:55.528898+00:00"
-  },
   "38168": {
     "title": "Hudson Lightweight 1x",
     "location": "Lambertville, NJ (US)",
@@ -298,5 +292,11 @@
     "location": "Philadelphia, PA (US)",
     "date": "April 13, 2026",
     "first_seen": "2026-04-13T17:51:42.162004+00:00"
+  },
+  "38711": {
+    "title": "Heritage double rowing shell",
+    "location": "land o lakes, FL (US)",
+    "date": "April 13, 2026",
+    "first_seen": "2026-04-13T23:34:08.738868+00:00"
   }
 }
