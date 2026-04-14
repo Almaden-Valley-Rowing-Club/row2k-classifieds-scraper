@@ -1,10 +1,4 @@
 {
-  "38168": {
-    "title": "Hudson Lightweight 1x",
-    "location": "Lambertville, NJ (US)",
-    "date": "March 31, 2026",
-    "first_seen": "2026-03-31T12:52:24.415995+00:00"
-  },
   "38404": {
     "title": "2009 Vespoli M24 1x",
     "location": "Greenville, WI (US)",
@@ -298,5 +292,11 @@
     "location": "land o lakes, FL (US)",
     "date": "April 13, 2026",
     "first_seen": "2026-04-13T23:34:08.738868+00:00"
+  },
+  "38712": {
+    "title": "Maas Aero Sculling Shell w/ oars and slings",
+    "location": "Lakeland, FL (US)",
+    "date": "April 13, 2026",
+    "first_seen": "2026-04-14T01:26:43.344395+00:00"
   }
 }
