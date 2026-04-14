@@ -1,10 +1,4 @@
 {
-  "38221": {
-    "title": "Annapolis Wherry",
-    "location": "Bluffton, SC (US)",
-    "date": "April 1, 2026",
-    "first_seen": "2026-04-01T16:01:28.743418+00:00"
-  },
   "38440": {
     "title": "2003 Pocock C8+ - $4,000 Everett, WA",
     "location": "Everett, WA (US)",
@@ -298,5 +292,11 @@
     "location": "Chestermere , AB (CA)",
     "date": "April 14, 2026",
     "first_seen": "2026-04-14T19:09:40.513324+00:00"
+  },
+  "38719": {
+    "title": "Hudson 2x/2- Heavyweight",
+    "location": "Ridgefield, WA (US)",
+    "date": "April 14, 2026",
+    "first_seen": "2026-04-14T22:36:41.565146+00:00"
   }
 }
