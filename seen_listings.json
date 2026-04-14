@@ -1,10 +1,4 @@
 {
-  "38407": {
-    "title": "2020 Midweight Fluid Max 1x- Northern Virginia",
-    "location": "Falls Church, VA (US)",
-    "date": "March 31, 2026",
-    "first_seen": "2026-04-01T04:39:42.577555+00:00"
-  },
   "38221": {
     "title": "Annapolis Wherry",
     "location": "Bluffton, SC (US)",
@@ -298,5 +292,11 @@
     "location": "Seattle, WA (US)",
     "date": "April 13, 2026",
     "first_seen": "2026-04-14T13:00:23.727730+00:00"
+  },
+  "38539": {
+    "title": "Single EXO 24 racing shell",
+    "location": "Chestermere , AB (CA)",
+    "date": "April 14, 2026",
+    "first_seen": "2026-04-14T19:09:40.513324+00:00"
   }
 }
