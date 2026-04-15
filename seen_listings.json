@@ -1,10 +1,4 @@
 {
-  "38440": {
-    "title": "2003 Pocock C8+ - $4,000 Everett, WA",
-    "location": "Everett, WA (US)",
-    "date": "April 1, 2026",
-    "first_seen": "2026-04-01T17:41:33.465967+00:00"
-  },
   "38176": {
     "title": "1993 Hudson 1x (length 315 in) (~140-165 lbs)- $4000 CAD if paid and picked up before Feb28",
     "location": "Toronto, ON (CA)",
@@ -298,5 +292,11 @@
     "location": "Ridgefield, WA (US)",
     "date": "April 14, 2026",
     "first_seen": "2026-04-14T22:36:41.565146+00:00"
+  },
+  "38720": {
+    "title": "2021 Levator 1X",
+    "location": "Springfield, VA (US)",
+    "date": "April 14, 2026",
+    "first_seen": "2026-04-15T04:37:40.940132+00:00"
   }
 }
