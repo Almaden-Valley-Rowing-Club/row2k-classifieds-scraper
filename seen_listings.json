@@ -1,16 +1,4 @@
 {
-  "38627": {
-    "title": "2014 Maas 24",
-    "location": "SOUTH WALTHAM, MA (US)",
-    "date": "April 2, 2026",
-    "first_seen": "2026-04-02T19:41:55.881090+00:00"
-  },
-  "38626": {
-    "title": "1997 Carl Douglas 1x (MW)",
-    "location": "Wellesley, MA",
-    "date": "April 2, 2026",
-    "first_seen": "2026-04-02T19:41:55.881090+00:00"
-  },
   "38430": {
     "title": "Alden Martin and Oarmaster I  $500",
     "location": "California, MD (US)",
@@ -298,5 +286,17 @@
     "location": "Orlando, FL (US)",
     "date": "April 16, 2026",
     "first_seen": "2026-04-16T15:17:47.007321+00:00"
+  },
+  "38732": {
+    "title": "$500 or Best Offer - Vespoli & Filippi Boats",
+    "location": "Milton , MA (US)",
+    "date": "April 16, 2026",
+    "first_seen": "2026-04-16T17:02:34.260809+00:00"
+  },
+  "38729": {
+    "title": "Maas 24 for Sale",
+    "location": "East Brookfield, MA (US)",
+    "date": "April 16, 2026",
+    "first_seen": "2026-04-16T17:02:34.260809+00:00"
   }
 }
