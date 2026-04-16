@@ -1,10 +1,4 @@
 {
-  "38622": {
-    "title": "2022 Filippi F39 - $12k",
-    "location": "Little Canada, MN (US)",
-    "date": "April 1, 2026",
-    "first_seen": "2026-04-02T12:47:43.858760+00:00"
-  },
   "38625": {
     "title": "Hudson flyweight 1X 2002 Elite",
     "location": "Seattle, WA (US)",
@@ -298,5 +292,11 @@
     "location": "Durham, NH (US)",
     "date": "April 15, 2026",
     "first_seen": "2026-04-15T23:33:21.253739+00:00"
+  },
+  "38563": {
+    "title": "2020 Fluidesign Heavyweight 1x - $8000",
+    "location": "Philadelphia, PA (US)",
+    "date": "April 16, 2026",
+    "first_seen": "2026-04-16T10:06:40.038340+00:00"
   }
 }
