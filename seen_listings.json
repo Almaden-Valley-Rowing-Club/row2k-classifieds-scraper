@@ -1,22 +1,4 @@
 {
-  "38625": {
-    "title": "Hudson flyweight 1X 2002 Elite",
-    "location": "Seattle, WA (US)",
-    "date": "April 2, 2026",
-    "first_seen": "2026-04-02T15:51:02.103342+00:00"
-  },
-  "38624": {
-    "title": "2016 Fluidesign Elite lwt 1x racing shell (140 lbs)",
-    "location": "Arlington, MA (US)",
-    "date": "April 2, 2026",
-    "first_seen": "2026-04-02T15:51:02.103342+00:00"
-  },
-  "38628": {
-    "title": "Alden Appledore 16",
-    "location": "Mystic, CT (US)",
-    "date": "April 2, 2026",
-    "first_seen": "2026-04-02T19:41:55.881090+00:00"
-  },
   "38627": {
     "title": "2014 Maas 24",
     "location": "SOUTH WALTHAM, MA (US)",
@@ -298,5 +280,23 @@
     "location": "Philadelphia, PA (US)",
     "date": "April 16, 2026",
     "first_seen": "2026-04-16T10:06:40.038340+00:00"
+  },
+  "38728": {
+    "title": "Boat for Sale/Fleet Turnover",
+    "location": "Mt Sinai, NY (US)",
+    "date": "April 16, 2026",
+    "first_seen": "2026-04-16T15:17:47.007321+00:00"
+  },
+  "38727": {
+    "title": "2011 Kaschper Raven (68-84 kg) $5300",
+    "location": "East Hampton, CT (US)",
+    "date": "April 16, 2026",
+    "first_seen": "2026-04-16T15:17:47.007321+00:00"
+  },
+  "38567": {
+    "title": "Vespoli DXL 8+ Racing Shell",
+    "location": "Orlando, FL (US)",
+    "date": "April 16, 2026",
+    "first_seen": "2026-04-16T15:17:47.007321+00:00"
   }
 }
