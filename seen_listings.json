@@ -1,10 +1,4 @@
 {
-  "38430": {
-    "title": "Alden Martin and Oarmaster I  $500",
-    "location": "California, MD (US)",
-    "date": "April 3, 2026",
-    "first_seen": "2026-04-03T22:22:40.949201+00:00"
-  },
   "38462": {
     "title": "Coffey Lightweight 1X  $1300",
     "location": "Bernardston, MA (US)",
@@ -298,5 +292,11 @@
     "location": "East Brookfield, MA (US)",
     "date": "April 16, 2026",
     "first_seen": "2026-04-16T17:02:34.260809+00:00"
+  },
+  "38564": {
+    "title": "2010 Hudson 8+ for sale",
+    "location": "Lewiston, ME (US)",
+    "date": "April 16, 2026",
+    "first_seen": "2026-04-16T18:57:55.004716+00:00"
   }
 }
