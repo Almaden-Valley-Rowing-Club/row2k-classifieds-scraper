@@ -1,16 +1,4 @@
 {
-  "38462": {
-    "title": "Coffey Lightweight 1X  $1300",
-    "location": "Bernardston, MA (US)",
-    "date": "April 4, 2026",
-    "first_seen": "2026-04-04T10:23:04.929621+00:00"
-  },
-  "38640": {
-    "title": "2001 Empacher Hwy X10 single 85-100kg",
-    "location": "Mystic, CT (US)",
-    "date": "April 3, 2026",
-    "first_seen": "2026-04-04T11:21:05.030897+00:00"
-  },
   "38638": {
     "title": "2001 Lightweight Van Dusen Advantage 1x (140-175#)",
     "location": "Nevada City, CA (US)",
@@ -298,5 +286,17 @@
     "location": "Lewiston, ME (US)",
     "date": "April 16, 2026",
     "first_seen": "2026-04-16T18:57:55.004716+00:00"
+  },
+  "38735": {
+    "title": "Whitehall Spirit\u00ae Solo 14\u00ae Slide Seat Sculling Rowboat - $8,500 (Tacoma)",
+    "location": "Tacoma, WA (US)",
+    "date": "April 16, 2026",
+    "first_seen": "2026-04-16T23:31:34.550171+00:00"
+  },
+  "38734": {
+    "title": "Fluidesign midweight 1x",
+    "location": "San Diego, CA",
+    "date": "April 16, 2026",
+    "first_seen": "2026-04-16T23:31:34.550171+00:00"
   }
 }
