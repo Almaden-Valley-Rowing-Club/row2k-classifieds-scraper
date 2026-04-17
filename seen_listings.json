@@ -1,10 +1,4 @@
 {
-  "38638": {
-    "title": "2001 Lightweight Van Dusen Advantage 1x (140-175#)",
-    "location": "Nevada City, CA (US)",
-    "date": "April 3, 2026",
-    "first_seen": "2026-04-04T11:21:05.030897+00:00"
-  },
   "38646": {
     "title": "Empacher Lightweight 1X",
     "location": "Bryn Mawr, PA (US)",
@@ -298,5 +292,11 @@
     "location": "San Diego, CA",
     "date": "April 16, 2026",
     "first_seen": "2026-04-16T23:31:34.550171+00:00"
+  },
+  "38740": {
+    "title": "Fluidesign Intermediate 1x",
+    "location": "Cape Coral, FL (US)",
+    "date": "April 17, 2026",
+    "first_seen": "2026-04-17T15:49:58.261159+00:00"
   }
 }
