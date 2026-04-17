@@ -1,10 +1,4 @@
 {
-  "38647": {
-    "title": "Rowboat - LiteBoat 2x Duo",
-    "location": "Austin, TX (US)",
-    "date": "April 4, 2026",
-    "first_seen": "2026-04-05T01:23:35.372030+00:00"
-  },
   "38651": {
     "title": "Fluidesign lt-mid/weight 1x racing shell",
     "location": "West Linn, OR (US)",
@@ -298,5 +292,11 @@
     "location": "Annapolis, MD",
     "date": "April 17, 2026",
     "first_seen": "2026-04-17T17:40:00.087632+00:00"
+  },
+  "38747": {
+    "title": "Whitehall Tango 17 Open Water - $10,500 (South Florida)",
+    "location": "Key Largo, FL",
+    "date": "April 17, 2026",
+    "first_seen": "2026-04-17T22:28:20.442642+00:00"
   }
 }
