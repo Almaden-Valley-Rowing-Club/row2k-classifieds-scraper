@@ -1,16 +1,4 @@
 {
-  "38646": {
-    "title": "Empacher Lightweight 1X",
-    "location": "Bryn Mawr, PA (US)",
-    "date": "April 4, 2026",
-    "first_seen": "2026-04-04T17:21:52.222315+00:00"
-  },
-  "38639": {
-    "title": "WINTECH COMPETITOR ROWING SHELL MODEL W70",
-    "location": "Lakeland, FL (US)",
-    "date": "April 3, 2026",
-    "first_seen": "2026-04-04T17:21:52.222315+00:00"
-  },
   "38647": {
     "title": "Rowboat - LiteBoat 2x Duo",
     "location": "Austin, TX (US)",
@@ -298,5 +286,17 @@
     "location": "Cape Coral, FL (US)",
     "date": "April 17, 2026",
     "first_seen": "2026-04-17T15:49:58.261159+00:00"
+  },
+  "38743": {
+    "title": "2020 HUDSON Shark Predator 1X mid-weight CLEARWATER (Sarasota/Tampa) FLORIDA",
+    "location": "Sarasota, FL (US)",
+    "date": "April 17, 2026",
+    "first_seen": "2026-04-17T17:40:00.087632+00:00"
+  },
+  "38742": {
+    "title": "Little River Cambridge Shell",
+    "location": "Annapolis, MD",
+    "date": "April 17, 2026",
+    "first_seen": "2026-04-17T17:40:00.087632+00:00"
   }
 }
