@@ -1,10 +1,4 @@
 {
-  "38486": {
-    "title": "Sculling single 23 ft single Fiberglass with Oars",
-    "location": "Va Beach, VA (US)",
-    "date": "April 8, 2026",
-    "first_seen": "2026-04-08T10:56:33.594682+00:00"
-  },
   "38673": {
     "title": "Open Water Maas 1x and 2x",
     "location": "Tacoma, WA (US)",
@@ -298,5 +292,11 @@
     "location": "Philadelphia, PA (US)",
     "date": "April 20, 2026",
     "first_seen": "2026-04-20T15:08:55.253794+00:00"
+  },
+  "38759": {
+    "title": "$3,500 - Hudson Elite Heavyweight Single",
+    "location": "Charlotte, NC (US)",
+    "date": "April 20, 2026",
+    "first_seen": "2026-04-20T16:53:57.735326+00:00"
   }
 }
