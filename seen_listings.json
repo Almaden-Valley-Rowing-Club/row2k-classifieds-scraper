@@ -1,10 +1,4 @@
 {
-  "38678": {
-    "title": "2005 Vespoli ES 8+",
-    "location": "Richmond, VA (US)",
-    "date": "April 8, 2026",
-    "first_seen": "2026-04-09T12:58:29.100340+00:00"
-  },
   "38676": {
     "title": "2010 Filippi F14 90kg",
     "location": "Hamilton, ON (CA)",
@@ -298,5 +292,11 @@
     "location": "Durham, NH (US)",
     "date": "April 21, 2026",
     "first_seen": "2026-04-21T12:59:29.204956+00:00"
+  },
+  "38774": {
+    "title": "Scullcraft single (rowing canoe)",
+    "location": "Stewartstown, PA (US)",
+    "date": "April 21, 2026",
+    "first_seen": "2026-04-21T16:04:06.383044+00:00"
   }
 }
