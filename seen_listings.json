@@ -1,16 +1,4 @@
 {
-  "38673": {
-    "title": "Open Water Maas 1x and 2x",
-    "location": "Tacoma, WA (US)",
-    "date": "April 8, 2026",
-    "first_seen": "2026-04-08T16:07:52.664319+00:00"
-  },
-  "38504": {
-    "title": "1973 Alden Ocean Shell Single / fixed-track version",
-    "location": "Princeton, NJ (US)",
-    "date": "April 8, 2026",
-    "first_seen": "2026-04-09T01:12:51.065957+00:00"
-  },
   "38678": {
     "title": "2005 Vespoli ES 8+",
     "location": "Richmond, VA (US)",
@@ -298,5 +286,17 @@
     "location": "Charlotte, NC (US)",
     "date": "April 20, 2026",
     "first_seen": "2026-04-20T16:53:57.735326+00:00"
+  },
+  "38771": {
+    "title": "Peinert 25, C2 and Dreher Oars, Slings, and Cover",
+    "location": null,
+    "date": "April 21, 2026",
+    "first_seen": "2026-04-21T12:59:29.204956+00:00"
+  },
+  "38770": {
+    "title": "2 Echo Rowing Boats + Trailer + Oars",
+    "location": "Durham, NH (US)",
+    "date": "April 21, 2026",
+    "first_seen": "2026-04-21T12:59:29.204956+00:00"
   }
 }
