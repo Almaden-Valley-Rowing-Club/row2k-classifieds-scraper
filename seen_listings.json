@@ -1,10 +1,4 @@
 {
-  "38497": {
-    "title": "Salani Lightweight Single Scull \u2013 Azure Blue \u2013 Italian Craftsmanship (2015)",
-    "location": "Washington, DC (US)",
-    "date": "April 10, 2026",
-    "first_seen": "2026-04-10T11:39:24.621392+00:00"
-  },
   "38687": {
     "title": "2016 Hudson 1x Lwt",
     "location": "(US)",
@@ -298,5 +292,11 @@
     "location": "Oak View, CA (US)",
     "date": "April 21, 2026",
     "first_seen": "2026-04-21T17:51:49.137326+00:00"
+  },
+  "38594": {
+    "title": "2024 Hudson SP Bow Coxed 4+",
+    "location": "Philadelphia, PA",
+    "date": "April 22, 2026",
+    "first_seen": "2026-04-22T14:47:47.338918+00:00"
   }
 }
