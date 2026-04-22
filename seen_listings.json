@@ -1,16 +1,4 @@
 {
-  "38687": {
-    "title": "2016 Hudson 1x Lwt",
-    "location": "(US)",
-    "date": "April 10, 2026",
-    "first_seen": "2026-04-10T12:44:44.026205+00:00"
-  },
-  "38692": {
-    "title": "2002 Sykes 1x $2500",
-    "location": "Titusville, NJ (US)",
-    "date": "April 10, 2026",
-    "first_seen": "2026-04-10T22:26:02.324456+00:00"
-  },
   "38689": {
     "title": "Wherry - two station with trailer & cover",
     "location": "Arroyo Grande, CA (US)",
@@ -298,5 +286,17 @@
     "location": "Philadelphia, PA",
     "date": "April 22, 2026",
     "first_seen": "2026-04-22T14:47:47.338918+00:00"
+  },
+  "38779": {
+    "title": "2013 Sykes Classic Shell w Accessories   $5000",
+    "location": "Marblehead, MA (US)",
+    "date": "April 22, 2026",
+    "first_seen": "2026-04-22T16:02:35.019218+00:00"
+  },
+  "38778": {
+    "title": "Empacher Eights and Fours",
+    "location": "Derby, CT (US)",
+    "date": "April 22, 2026",
+    "first_seen": "2026-04-22T16:02:35.019218+00:00"
   }
 }
