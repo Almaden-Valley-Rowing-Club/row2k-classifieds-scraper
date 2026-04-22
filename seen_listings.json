@@ -1,10 +1,4 @@
 {
-  "38689": {
-    "title": "Wherry - two station with trailer & cover",
-    "location": "Arroyo Grande, CA (US)",
-    "date": "April 10, 2026",
-    "first_seen": "2026-04-10T22:26:02.324456+00:00"
-  },
   "38540": {
     "title": "Classic Owen wood racing shell",
     "location": "Oakland, CA (US)",
@@ -298,5 +292,11 @@
     "location": "Derby, CT (US)",
     "date": "April 22, 2026",
     "first_seen": "2026-04-22T16:02:35.019218+00:00"
+  },
+  "38780": {
+    "title": "2007 Resolute 8+ MW",
+    "location": "ALEXANDRIA, VA (US)",
+    "date": "April 22, 2026",
+    "first_seen": "2026-04-22T17:51:50.096256+00:00"
   }
 }
