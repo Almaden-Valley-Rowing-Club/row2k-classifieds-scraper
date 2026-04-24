@@ -1,10 +1,4 @@
 {
-  "38549": {
-    "title": "BBG Olympia Single in excellent condition",
-    "location": "Seattle, WA (US)",
-    "date": "April 12, 2026",
-    "first_seen": "2026-04-12T18:32:42.096009+00:00"
-  },
   "38707": {
     "title": "Filippi Midweight Single for Sale out of Philly",
     "location": "Philadelphia, PA (US)",
@@ -298,5 +292,11 @@
     "location": "Stewartstown, PA (US)",
     "date": "April 23, 2026",
     "first_seen": "2026-04-23T18:54:35.531564+00:00"
+  },
+  "38792": {
+    "title": "2019 Levator 1x \u2013 Midweight (145\u2013175 lbs) \u2013 $3,850",
+    "location": "Johns Island, SC",
+    "date": "April 23, 2026",
+    "first_seen": "2026-04-24T01:29:55.992633+00:00"
   }
 }
