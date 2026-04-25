@@ -1,10 +1,4 @@
 {
-  "38539": {
-    "title": "Single EXO 24 racing shell",
-    "location": "Chestermere , AB (CA)",
-    "date": "April 14, 2026",
-    "first_seen": "2026-04-14T19:09:40.513324+00:00"
-  },
   "38719": {
     "title": "Hudson 2x/2- Heavyweight",
     "location": "Ridgefield, WA (US)",
@@ -298,5 +292,11 @@
     "location": "Sunapee, (US)",
     "date": "April 25, 2026",
     "first_seen": "2026-04-25T22:25:07.504396+00:00"
+  },
+  "38803": {
+    "title": "2022 Peinert Zephyr - Gorgeous!",
+    "location": "Wilmington, DE (US)",
+    "date": "April 25, 2026",
+    "first_seen": "2026-04-25T23:28:14.795531+00:00"
   }
 }
