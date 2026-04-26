@@ -1,10 +1,4 @@
 {
-  "38563": {
-    "title": "2020 Fluidesign Heavyweight 1x - $8000",
-    "location": "Philadelphia, PA (US)",
-    "date": "April 16, 2026",
-    "first_seen": "2026-04-16T10:06:40.038340+00:00"
-  },
   "38728": {
     "title": "Boat for Sale/Fleet Turnover",
     "location": "Mt Sinai, NY (US)",
@@ -298,5 +292,11 @@
     "location": "East Falmouth, MA (US)",
     "date": "April 26, 2026",
     "first_seen": "2026-04-26T14:41:34.547843+00:00"
+  },
+  "38812": {
+    "title": "Vespoli midweight V1 8+",
+    "location": "Westford, MA (US)",
+    "date": "April 26, 2026",
+    "first_seen": "2026-04-26T16:31:09.510445+00:00"
   }
 }
