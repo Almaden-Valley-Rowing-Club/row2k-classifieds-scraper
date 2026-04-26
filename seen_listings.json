@@ -1,10 +1,4 @@
 {
-  "38720": {
-    "title": "2021 Levator 1X",
-    "location": "Springfield, VA (US)",
-    "date": "April 14, 2026",
-    "first_seen": "2026-04-15T04:37:40.940132+00:00"
-  },
   "38722": {
     "title": "Peinert 26 single lightly used",
     "location": "Chippewa Lake, OH (US)",
@@ -298,5 +292,11 @@
     "location": "Rochester, NY (US)",
     "date": "April 25, 2026",
     "first_seen": "2026-04-26T01:44:07.254502+00:00"
+  },
+  "38639": {
+    "title": "WINTECH COMPETITOR ROWING SHELL MODEL W70",
+    "location": "Lakeland, FL (US)",
+    "date": "April 26, 2026",
+    "first_seen": "2026-04-26T11:32:11.987688+00:00"
   }
 }
