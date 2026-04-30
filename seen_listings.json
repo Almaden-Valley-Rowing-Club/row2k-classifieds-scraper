@@ -1,10 +1,4 @@
 {
-  "38742": {
-    "title": "Little River Cambridge Shell",
-    "location": "Annapolis, MD",
-    "date": "April 17, 2026",
-    "first_seen": "2026-04-17T17:40:00.087632+00:00"
-  },
   "38747": {
     "title": "Whitehall Tango 17 Open Water - $10,500 (South Florida)",
     "location": "Key Largo, FL",
@@ -298,5 +292,11 @@
     "location": "Cape Coral, FL (US)",
     "date": "April 29, 2026",
     "first_seen": "2026-04-29T19:07:57.610562+00:00"
+  },
+  "38840": {
+    "title": "2019 Filippi 8+ / 75-85kg / Great condition",
+    "location": "Oklahoma City, OK (US)",
+    "date": "April 30, 2026",
+    "first_seen": "2026-04-30T16:17:52.473542+00:00"
   }
 }
