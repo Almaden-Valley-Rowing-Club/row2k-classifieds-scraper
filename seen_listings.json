@@ -1,10 +1,4 @@
 {
-  "38750": {
-    "title": "Whitehallspirit Tango17 rowing boat",
-    "location": "Levis, QC (CA)",
-    "date": "April 18, 2026",
-    "first_seen": "2026-04-18T15:28:56.202129+00:00"
-  },
   "38748": {
     "title": "CLC Annapolis Wherry Rowing Shell + Piantedosi Sliding Seat & Dreher Carbon Oars",
     "location": "Utica, OH (US)",
@@ -298,5 +292,11 @@
     "location": "Philadelphia, PA (US)",
     "date": "April 30, 2026",
     "first_seen": "2026-04-30T20:04:24.411379+00:00"
+  },
+  "38842": {
+    "title": "Empacher 4x - R44- 80Kg",
+    "location": "Philadelphia, PA (US)",
+    "date": "April 30, 2026",
+    "first_seen": "2026-04-30T22:41:01.143754+00:00"
   }
 }
