@@ -1,10 +1,4 @@
 {
-  "38590": {
-    "title": "Wintech Explorer 21",
-    "location": "Rio Verde, AZ (US)",
-    "date": "April 19, 2026",
-    "first_seen": "2026-04-19T13:53:18.157823+00:00"
-  },
   "38753": {
     "title": "2012 Hudson Shark Predator 1x",
     "location": null,
@@ -298,5 +292,11 @@
     "location": "East Brookfield, MA (US)",
     "date": "April 30, 2026",
     "first_seen": "2026-05-01T12:54:20.914741+00:00"
+  },
+  "38621": {
+    "title": "1987 Van Dusen Ltwt 1x, Long Beach, CA",
+    "location": "Long Beach, CA (US)",
+    "date": "May 1, 2026",
+    "first_seen": "2026-05-01T21:42:34.007108+00:00"
   }
 }
