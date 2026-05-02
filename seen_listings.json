@@ -1,10 +1,4 @@
 {
-  "38753": {
-    "title": "2012 Hudson Shark Predator 1x",
-    "location": null,
-    "date": "April 19, 2026",
-    "first_seen": "2026-04-19T17:27:30.182594+00:00"
-  },
   "38756": {
     "title": "$$9500 Swift Carbon Pro W1X + C2 Smoothie2 Vortex",
     "location": "Tampa, FL (US)",
@@ -298,5 +292,11 @@
     "location": "Long Beach, CA (US)",
     "date": "May 1, 2026",
     "first_seen": "2026-05-01T21:42:34.007108+00:00"
+  },
+  "38849": {
+    "title": "Filippi 1X Single 88K HW/MW",
+    "location": "Chelmsford, MA (US)",
+    "date": "May 1, 2026",
+    "first_seen": "2026-05-02T01:48:04.813509+00:00"
   }
 }
