@@ -1,10 +1,4 @@
 {
-  "38759": {
-    "title": "$3,500 - Hudson Elite Heavyweight Single",
-    "location": "Charlotte, NC (US)",
-    "date": "April 20, 2026",
-    "first_seen": "2026-04-20T16:53:57.735326+00:00"
-  },
   "38771": {
     "title": "Peinert 25, C2 and Dreher Oars, Slings, and Cover",
     "location": null,
@@ -298,5 +292,11 @@
     "location": "North Vancouver, BC (CA)",
     "date": "May 2, 2026",
     "first_seen": "2026-05-02T18:42:17.471294+00:00"
+  },
+  "38855": {
+    "title": "Empacher K30 2x",
+    "location": "PA (US)",
+    "date": "May 2, 2026",
+    "first_seen": "2026-05-02T19:46:05.068100+00:00"
   }
 }
