@@ -1,10 +1,4 @@
 {
-  "38597": {
-    "title": "Adirondack 18' 2 Or 1 man sculling boat",
-    "location": "Oak View, CA (US)",
-    "date": "April 21, 2026",
-    "first_seen": "2026-04-21T17:51:49.137326+00:00"
-  },
   "38594": {
     "title": "2024 Hudson SP Bow Coxed 4+",
     "location": "Philadelphia, PA",
@@ -298,5 +292,11 @@
     "location": "Philadelphia, PA",
     "date": "May 3, 2026",
     "first_seen": "2026-05-03T19:45:19.022635+00:00"
+  },
+  "38770": {
+    "title": "2 Echo Rowing Boats + Trailer + Oars",
+    "location": "Durham, NH (US)",
+    "date": "May 2, 2026",
+    "first_seen": "2026-05-03T20:32:05.082707+00:00"
   }
 }
