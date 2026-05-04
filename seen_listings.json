@@ -1,10 +1,4 @@
 {
-  "38778": {
-    "title": "Empacher Eights and Fours",
-    "location": "Derby, CT (US)",
-    "date": "April 22, 2026",
-    "first_seen": "2026-04-22T16:02:35.019218+00:00"
-  },
   "38780": {
     "title": "2007 Resolute 8+ MW",
     "location": "ALEXANDRIA, VA (US)",
@@ -298,5 +292,11 @@
     "location": "Bernardston, MA (US)",
     "date": "May 4, 2026",
     "first_seen": "2026-05-04T15:02:48.908908+00:00"
+  },
+  "38868": {
+    "title": "Sykes Midweight 1x Oakland/Alameda, CA",
+    "location": "Alameda, CA (US)",
+    "date": "May 4, 2026",
+    "first_seen": "2026-05-04T20:57:44.118162+00:00"
   }
 }
