@@ -1,16 +1,4 @@
 {
-  "38780": {
-    "title": "2007 Resolute 8+ MW",
-    "location": "ALEXANDRIA, VA (US)",
-    "date": "April 22, 2026",
-    "first_seen": "2026-04-22T17:51:50.096256+00:00"
-  },
-  "38783": {
-    "title": "Two 80s/90s Vespoli 8+s $200/ea OBO",
-    "location": "Manhattan, KS (US)",
-    "date": "April 22, 2026",
-    "first_seen": "2026-04-22T20:02:39.180339+00:00"
-  },
   "38599": {
     "title": "2006 Fluidesign Lightweight (68kg crew) Single - $4500",
     "location": null,
@@ -298,5 +286,17 @@
     "location": "Alameda, CA (US)",
     "date": "May 4, 2026",
     "first_seen": "2026-05-04T20:57:44.118162+00:00"
+  },
+  "38871": {
+    "title": "1999 Vespoli 8+ (150-180lbs)",
+    "location": "Broomfield, CO (US)",
+    "date": "May 4, 2026",
+    "first_seen": "2026-05-04T21:57:06.312809+00:00"
+  },
+  "38870": {
+    "title": "2002 Vespoli 8+ (135-165lbs)",
+    "location": "Broomfield, CO (US)",
+    "date": "May 4, 2026",
+    "first_seen": "2026-05-04T21:57:06.312809+00:00"
   }
 }
