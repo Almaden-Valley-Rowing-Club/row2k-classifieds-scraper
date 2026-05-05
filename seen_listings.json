@@ -1,10 +1,4 @@
 {
-  "38792": {
-    "title": "2019 Levator 1x \u2013 Midweight (145\u2013175 lbs) \u2013 $3,850",
-    "location": "Johns Island, SC",
-    "date": "April 23, 2026",
-    "first_seen": "2026-04-24T01:29:55.992633+00:00"
-  },
   "38797": {
     "title": "2011 Wintech international lightweight 1X",
     "location": "Norwalk, CT (US)",
@@ -298,5 +292,11 @@
     "location": "Jacksonville, FL (US)",
     "date": "May 5, 2026",
     "first_seen": "2026-05-05T15:38:00.697198+00:00"
+  },
+  "38884": {
+    "title": "Vespoli sectional 4+",
+    "location": "Milwaukee, WI (US)",
+    "date": "May 5, 2026",
+    "first_seen": "2026-05-05T22:45:13.845339+00:00"
   }
 }
