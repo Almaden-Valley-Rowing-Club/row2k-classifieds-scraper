@@ -1,10 +1,4 @@
 {
-  "38788": {
-    "title": "Scullcraft single \"canoe\" shell",
-    "location": "Stewartstown, PA (US)",
-    "date": "April 23, 2026",
-    "first_seen": "2026-04-23T18:54:35.531564+00:00"
-  },
   "38792": {
     "title": "2019 Levator 1x \u2013 Midweight (145\u2013175 lbs) \u2013 $3,850",
     "location": "Johns Island, SC",
@@ -298,5 +292,11 @@
     "location": "Tacoma, WA (US)",
     "date": "May 4, 2026",
     "first_seen": "2026-05-05T01:52:30.715587+00:00"
+  },
+  "38879": {
+    "title": "2014 Vespoli Ltwt 4+",
+    "location": "Jacksonville, FL (US)",
+    "date": "May 5, 2026",
+    "first_seen": "2026-05-05T15:38:00.697198+00:00"
   }
 }
