@@ -1,10 +1,4 @@
 {
-  "38798": {
-    "title": "2005 Hudson Elite Heavyweight 8+ $4000",
-    "location": "Knoxville, TN (US)",
-    "date": "April 24, 2026",
-    "first_seen": "2026-04-24T22:31:45.015097+00:00"
-  },
   "38625": {
     "title": "Hudson flyweight 1X 2002 Elite",
     "location": "Seattle, WA (US)",
@@ -298,5 +292,11 @@
     "location": "CA (US)",
     "date": "May 6, 2026",
     "first_seen": "2026-05-06T10:55:40.093034+00:00"
+  },
+  "38890": {
+    "title": "Nelo Racing single",
+    "location": "Lower Gwynedd, PA (US)",
+    "date": "May 6, 2026",
+    "first_seen": "2026-05-06T12:23:02.547431+00:00"
   }
 }
