@@ -1,10 +1,4 @@
 {
-  "38801": {
-    "title": "Garofalo single",
-    "location": "Sunapee, (US)",
-    "date": "April 25, 2026",
-    "first_seen": "2026-04-25T22:25:07.504396+00:00"
-  },
   "38803": {
     "title": "2022 Peinert Zephyr - Gorgeous!",
     "location": "Wilmington, DE (US)",
@@ -298,5 +292,11 @@
     "location": "Easton, MD (US)",
     "date": "May 6, 2026",
     "first_seen": "2026-05-07T01:55:33.570005+00:00"
+  },
+  "38712": {
+    "title": "Maas Aero Sculling Shell w/ oars and slings",
+    "location": "Lakeland, FL (US)",
+    "date": "May 7, 2026",
+    "first_seen": "2026-05-07T19:24:45.291828+00:00"
   }
 }
