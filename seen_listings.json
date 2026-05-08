@@ -1,10 +1,4 @@
 {
-  "38817": {
-    "title": "2018 Fluidesign 1x 200-225 Package Deal",
-    "location": "Arlington, VA (US)",
-    "date": "April 27, 2026",
-    "first_seen": "2026-04-27T14:56:43.729481+00:00"
-  },
   "38818": {
     "title": "1980 Garofolo single 155lbs",
     "location": "Wolfeboro, NH",
@@ -298,5 +292,11 @@
     "location": "Va Beach, VA (US)",
     "date": "May 8, 2026",
     "first_seen": "2026-05-08T20:44:42.494252+00:00"
+  },
+  "38919": {
+    "title": "Hudson Elite lightweight 2x, 2004",
+    "location": "Lewisburg, PA (US)",
+    "date": "May 8, 2026",
+    "first_seen": "2026-05-08T21:49:30.130107+00:00"
   }
 }
