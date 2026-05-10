@@ -1,10 +1,4 @@
 {
-  "38627": {
-    "title": "2014 Maas 24 (updated!)",
-    "location": "SOUTH WALTHAM, MA (US)",
-    "date": "April 28, 2026",
-    "first_seen": "2026-04-28T19:18:30.640359+00:00"
-  },
   "38833": {
     "title": "Empacher 1X Forsale",
     "location": "New Canaan, CT (US)",
@@ -298,5 +292,11 @@
     "location": "Boston, MA (US)",
     "date": "May 9, 2026",
     "first_seen": "2026-05-09T23:36:51.073842+00:00"
+  },
+  "38932": {
+    "title": "1970 Lightweight Stampfli 1x -- $3,000",
+    "location": "Portland, OR (US)",
+    "date": "May 9, 2026",
+    "first_seen": "2026-05-10T01:54:05.221143+00:00"
   }
 }
