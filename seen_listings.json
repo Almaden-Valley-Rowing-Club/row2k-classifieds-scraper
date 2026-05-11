@@ -1,10 +1,4 @@
 {
-  "38846": {
-    "title": "1983 Kaschper Carbon Fibre Single Scull",
-    "location": "Canmore, Alberta (Canada)",
-    "date": "April 30, 2026",
-    "first_seen": "2026-05-01T12:54:20.914741+00:00"
-  },
   "38845": {
     "title": "Wenonah Spirit II Kevlar Canoe - like new!",
     "location": "East Brookfield, MA (US)",
@@ -298,5 +292,11 @@
     "location": "Springfield, VA (US)",
     "date": "May 11, 2026",
     "first_seen": "2026-05-11T20:25:51.731110+00:00"
+  },
+  "38947": {
+    "title": "2023 U1.32 Hudson USP 1x (165-195 lbs)",
+    "location": "Philadelphia, PA (US)",
+    "date": "May 11, 2026",
+    "first_seen": "2026-05-11T23:46:20.278044+00:00"
   }
 }
