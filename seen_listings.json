@@ -1,10 +1,4 @@
 {
-  "38841": {
-    "title": "Empacher 4x - R44- 80Kg",
-    "location": "Philadelphia, PA (US)",
-    "date": "April 30, 2026",
-    "first_seen": "2026-04-30T20:04:24.411379+00:00"
-  },
   "38842": {
     "title": "Empacher 4x - R44- 80Kg",
     "location": "Philadelphia, PA (US)",
@@ -298,5 +292,11 @@
     "location": "Chippewa Lake, OH (US)",
     "date": "May 11, 2026",
     "first_seen": "2026-05-11T10:27:35.539711+00:00"
+  },
+  "38750": {
+    "title": "Whitehallspirit Tango17 rowing boat",
+    "location": "Levis, QC (CA)",
+    "date": "May 11, 2026",
+    "first_seen": "2026-05-11T13:36:35.310679+00:00"
   }
 }
