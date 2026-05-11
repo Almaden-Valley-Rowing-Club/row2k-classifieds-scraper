@@ -1,10 +1,4 @@
 {
-  "38844": {
-    "title": "Heavyweight 2017 Fluid Single $6000",
-    "location": "Sparta, MI (US)",
-    "date": "April 30, 2026",
-    "first_seen": "2026-05-01T01:59:01.691360+00:00"
-  },
   "38846": {
     "title": "1983 Kaschper Carbon Fibre Single Scull",
     "location": "Canmore, Alberta (Canada)",
@@ -298,5 +292,11 @@
     "location": "(US)",
     "date": "May 11, 2026",
     "first_seen": "2026-05-11T16:23:35.303901+00:00"
+  },
+  "38720": {
+    "title": "2021 Levator 1X",
+    "location": "Springfield, VA (US)",
+    "date": "May 11, 2026",
+    "first_seen": "2026-05-11T20:25:51.731110+00:00"
   }
 }
