@@ -1,16 +1,4 @@
 {
-  "38621": {
-    "title": "1987 Van Dusen Ltwt 1x, Long Beach, CA",
-    "location": "Long Beach, CA (US)",
-    "date": "May 1, 2026",
-    "first_seen": "2026-05-01T21:42:34.007108+00:00"
-  },
-  "38849": {
-    "title": "Filippi 1X Single 88K HW/MW",
-    "location": "Chelmsford, MA (US)",
-    "date": "May 1, 2026",
-    "first_seen": "2026-05-02T01:48:04.813509+00:00"
-  },
   "38725": {
     "title": "28ft Dirigo Single + Skinnies - $2400",
     "location": "Durham, NH (US)",
@@ -298,5 +286,17 @@
     "location": "Hingham, MA",
     "date": "May 12, 2026",
     "first_seen": "2026-05-12T13:52:24.415965+00:00"
+  },
+  "38957": {
+    "title": "Vespoli Eight for sale",
+    "location": "Lebanon, NH (US)",
+    "date": "May 12, 2026",
+    "first_seen": "2026-05-12T18:29:54.086683+00:00"
+  },
+  "38954": {
+    "title": "Classic Staempfli Single Scull--1976",
+    "location": "Newton Highlands, MA (US)",
+    "date": "May 12, 2026",
+    "first_seen": "2026-05-12T18:29:54.086683+00:00"
   }
 }
