@@ -1,10 +1,4 @@
 {
-  "38856": {
-    "title": "1998 Sharrow Flyweight",
-    "location": "Portland, OR (US)",
-    "date": "May 2, 2026",
-    "first_seen": "2026-05-02T22:29:34.831609+00:00"
-  },
   "38859": {
     "title": "FISA single. Made in France",
     "location": "Slinerlands, NY (US)",
@@ -298,5 +292,11 @@
     "location": "Kingston, NJ (US)",
     "date": "May 13, 2026",
     "first_seen": "2026-05-13T14:04:33.840622+00:00"
+  },
+  "38966": {
+    "title": "Restored Garofalo (?) wooden single 1x",
+    "location": "Meredith, NH (US)",
+    "date": "May 13, 2026",
+    "first_seen": "2026-05-13T17:07:31.211657+00:00"
   }
 }
