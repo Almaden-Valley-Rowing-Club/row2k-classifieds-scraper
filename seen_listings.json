@@ -1,10 +1,4 @@
 {
-  "38855": {
-    "title": "Empacher K30 2x",
-    "location": "PA (US)",
-    "date": "May 2, 2026",
-    "first_seen": "2026-05-02T19:46:05.068100+00:00"
-  },
   "38856": {
     "title": "1998 Sharrow Flyweight",
     "location": "Portland, OR (US)",
@@ -298,5 +292,11 @@
     "location": "Seattle, WA (US)",
     "date": "May 12, 2026",
     "first_seen": "2026-05-13T02:05:43.482232+00:00"
+  },
+  "38965": {
+    "title": "Vespoli 27 xl  1x  ( 185-215 lbs )  2009",
+    "location": "Kingston, NJ (US)",
+    "date": "May 13, 2026",
+    "first_seen": "2026-05-13T14:04:33.840622+00:00"
   }
 }
