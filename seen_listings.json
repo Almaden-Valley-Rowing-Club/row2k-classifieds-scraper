@@ -1,10 +1,4 @@
 {
-  "38868": {
-    "title": "Sykes Midweight 1x Oakland/Alameda, CA",
-    "location": "Alameda, CA (US)",
-    "date": "May 4, 2026",
-    "first_seen": "2026-05-04T20:57:44.118162+00:00"
-  },
   "38871": {
     "title": "1999 Vespoli 8+ (150-180lbs)",
     "location": "Broomfield, CO (US)",
@@ -298,5 +292,11 @@
     "location": "JENSEN BEACH, FL (US)",
     "date": "May 13, 2026",
     "first_seen": "2026-05-13T22:56:06.058394+00:00"
+  },
+  "38973": {
+    "title": "Owen \u201986",
+    "location": "Vancouver, WA (US)",
+    "date": "May 13, 2026",
+    "first_seen": "2026-05-14T02:08:14.891341+00:00"
   }
 }
