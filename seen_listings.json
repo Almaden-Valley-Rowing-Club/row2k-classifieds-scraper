@@ -1,10 +1,4 @@
 {
-  "38900": {
-    "title": "MAAS Aero Classic for slae",
-    "location": "Saratoga Springs, NY (US)",
-    "date": "May 6, 2026",
-    "first_seen": "2026-05-06T22:39:13.482721+00:00"
-  },
   "38899": {
     "title": "Fluidesign 2022 LIghtweight Elite Single with Blades $10K",
     "location": "New Boston, NH (US)",
@@ -298,5 +292,11 @@
     "location": "Oklahoma City, OK (US)",
     "date": "May 15, 2026",
     "first_seen": "2026-05-15T17:21:31.507156+00:00"
+  },
+  "38989": {
+    "title": "ISO Hudson, Empacher Single Scull ~75-85kg",
+    "location": "West Newton, MA (US)",
+    "date": "May 15, 2026",
+    "first_seen": "2026-05-15T19:15:52.583485+00:00"
   }
 }
