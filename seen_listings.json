@@ -1,10 +1,4 @@
 {
-  "38899": {
-    "title": "Fluidesign 2022 LIghtweight Elite Single with Blades $10K",
-    "location": "New Boston, NH (US)",
-    "date": "May 6, 2026",
-    "first_seen": "2026-05-06T22:39:13.482721+00:00"
-  },
   "38898": {
     "title": "2013 fluid single $8000",
     "location": "Nokomis, FL (US)",
@@ -298,5 +292,11 @@
     "location": "West Newton, MA (US)",
     "date": "May 15, 2026",
     "first_seen": "2026-05-15T19:15:52.583485+00:00"
+  },
+  "38742": {
+    "title": "Little River Cambridge Shell",
+    "location": "Annapolis, MD",
+    "date": "May 16, 2026",
+    "first_seen": "2026-05-16T12:57:02.429165+00:00"
   }
 }
