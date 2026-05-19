@@ -1,10 +1,4 @@
 {
-  "38914": {
-    "title": "2021 Off Lease LightWeight Elite Single Racing Shell",
-    "location": "Camden, ME (US)",
-    "date": "May 8, 2026",
-    "first_seen": "2026-05-08T13:06:36.401264+00:00"
-  },
   "38486": {
     "title": "Sculling single 23 ft single Fiberglass with Oars",
     "location": "Va Beach, VA (US)",
@@ -298,5 +292,11 @@
     "location": "palm beach gardens, FL (US)",
     "date": "May 18, 2026",
     "first_seen": "2026-05-18T22:48:28.755532+00:00"
+  },
+  "39010": {
+    "title": "Bangor Packet \u2013 20' Rowing Wherry, 2024 | Seattle, WA",
+    "location": "Seattle, WA (US)",
+    "date": "May 18, 2026",
+    "first_seen": "2026-05-19T13:49:25.834512+00:00"
   }
 }
