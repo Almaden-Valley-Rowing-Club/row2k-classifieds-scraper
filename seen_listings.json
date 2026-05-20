@@ -1,10 +1,4 @@
 {
-  "38486": {
-    "title": "Sculling single 23 ft single Fiberglass with Oars",
-    "location": "Va Beach, VA (US)",
-    "date": "May 8, 2026",
-    "first_seen": "2026-05-08T20:44:42.494252+00:00"
-  },
   "38919": {
     "title": "Hudson Elite lightweight 2x, 2004",
     "location": "Lewisburg, PA (US)",
@@ -298,5 +292,11 @@
     "location": "Seattle, WA (US)",
     "date": "May 18, 2026",
     "first_seen": "2026-05-19T13:49:25.834512+00:00"
+  },
+  "39026": {
+    "title": "2005 Van Dusen Advantage Heavyweight Single in Maine",
+    "location": "Brunswick, ME (US)",
+    "date": "May 20, 2026",
+    "first_seen": "2026-05-20T16:44:10.193879+00:00"
   }
 }
