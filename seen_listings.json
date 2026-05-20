@@ -1,10 +1,4 @@
 {
-  "38932": {
-    "title": "1970 Lightweight Stampfli 1x -- $3,000",
-    "location": "Portland, OR (US)",
-    "date": "May 9, 2026",
-    "first_seen": "2026-05-10T01:54:05.221143+00:00"
-  },
   "38936": {
     "title": "Little River Heritage 15 Classic",
     "location": "Fairfield, CT (US)",
@@ -298,5 +292,11 @@
     "location": "Reston, VA (US)",
     "date": "May 20, 2026",
     "first_seen": "2026-05-20T21:41:16.300986+00:00"
+  },
+  "39033": {
+    "title": "Annapolis Wherry with Oars and Trailer$3950",
+    "location": "Winter Harbor, ME (US)",
+    "date": "May 20, 2026",
+    "first_seen": "2026-05-20T23:04:14.095714+00:00"
   }
 }
