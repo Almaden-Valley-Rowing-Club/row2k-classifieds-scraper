@@ -1,10 +1,4 @@
 {
-  "38939": {
-    "title": "Lightweight 1x",
-    "location": "(US)",
-    "date": "May 11, 2026",
-    "first_seen": "2026-05-11T16:23:35.303901+00:00"
-  },
   "38720": {
     "title": "2021 Levator 1X",
     "location": "Springfield, VA (US)",
@@ -298,5 +292,11 @@
     "location": "West Palm Beach, FL (US)",
     "date": "May 21, 2026",
     "first_seen": "2026-05-21T23:51:05.488805+00:00"
+  },
+  "39043": {
+    "title": "2020 Liteboat LightSport 1X EVO",
+    "location": "Knoxville , TN (US)",
+    "date": "May 21, 2026",
+    "first_seen": "2026-05-22T02:12:48.131619+00:00"
   }
 }
