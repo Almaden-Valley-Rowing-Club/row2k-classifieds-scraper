@@ -1,10 +1,4 @@
 {
-  "38960": {
-    "title": "Levator Torque 1x",
-    "location": "Concord, NH (US)",
-    "date": "May 12, 2026",
-    "first_seen": "2026-05-12T23:50:18.451123+00:00"
-  },
   "38714": {
     "title": "Pocock Open Water 1x",
     "location": "Seattle, WA (US)",
@@ -298,5 +292,11 @@
     "location": "Saint Inigoes, MD (US)",
     "date": "May 23, 2026",
     "first_seen": "2026-05-23T18:54:00.947899+00:00"
+  },
+  "38931": {
+    "title": "2002 Maas 24 Carbon single",
+    "location": "Eden, UT (US)",
+    "date": "May 23, 2026",
+    "first_seen": "2026-05-23T22:42:07.252158+00:00"
   }
 }
