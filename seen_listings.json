@@ -1,10 +1,4 @@
 {
-  "38983": {
-    "title": "Edon coastal recreational rowing shell with numerous accessories",
-    "location": "Virginia Beach, VA (US)",
-    "date": "May 14, 2026",
-    "first_seen": "2026-05-14T22:59:02.302211+00:00"
-  },
   "38981": {
     "title": "Echo Classic Rowing Shell",
     "location": "Marblehead, MA (US)",
@@ -298,5 +292,11 @@
     "location": "NC (US)",
     "date": "May 25, 2026",
     "first_seen": "2026-05-25T22:00:43.274418+00:00"
+  },
+  "39080": {
+    "title": "MAAS 24 Rowing Shell (Single) - Fair Condition",
+    "location": "Summit, NJ (US)",
+    "date": "May 25, 2026",
+    "first_seen": "2026-05-25T23:55:22.837599+00:00"
   }
 }
