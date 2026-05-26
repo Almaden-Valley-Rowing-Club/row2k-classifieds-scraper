@@ -1,10 +1,4 @@
 {
-  "38988": {
-    "title": "Pocock HyperCarbon Comp (Small) 2013 and 2012",
-    "location": "Oklahoma City, OK (US)",
-    "date": "May 15, 2026",
-    "first_seen": "2026-05-15T17:21:31.507156+00:00"
-  },
   "38840": {
     "title": "Price drop: 2019 Filippi 8+ / 75-85kg / Great condition",
     "location": "Oklahoma City, OK (US)",
@@ -298,5 +292,11 @@
     "location": "Etna, NH (US)",
     "date": "May 25, 2026",
     "first_seen": "2026-05-26T13:46:24.665351+00:00"
+  },
+  "38846": {
+    "title": "1983 Kaschper Carbon Fibre Single Scull",
+    "location": "Canmore, Alberta (Canada)",
+    "date": "May 26, 2026",
+    "first_seen": "2026-05-26T17:19:26.154784+00:00"
   }
 }
