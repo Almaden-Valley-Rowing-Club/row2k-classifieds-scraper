@@ -1,10 +1,4 @@
 {
-  "39026": {
-    "title": "2005 Van Dusen Advantage Heavyweight Single in Maine",
-    "location": "Brunswick, ME (US)",
-    "date": "May 20, 2026",
-    "first_seen": "2026-05-20T16:44:10.193879+00:00"
-  },
   "39029": {
     "title": "Fluid flyweight single",
     "location": "Farragut, TN (US)",
@@ -298,5 +292,11 @@
     "location": "Orleans, MA (US)",
     "date": "May 27, 2026",
     "first_seen": "2026-05-27T17:50:21.690496+00:00"
+  },
+  "39109": {
+    "title": "Fluid Max",
+    "location": "Mohnton, PA (US)",
+    "date": "May 27, 2026",
+    "first_seen": "2026-05-27T21:51:53.403282+00:00"
   }
 }
