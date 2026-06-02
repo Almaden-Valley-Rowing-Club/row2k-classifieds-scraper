@@ -1,10 +1,4 @@
 {
-  "39056": {
-    "title": "wanted Alden 16 ft ocean shell",
-    "location": "Saint Inigoes, MD (US)",
-    "date": "May 23, 2026",
-    "first_seen": "2026-05-23T18:54:00.947899+00:00"
-  },
   "38931": {
     "title": "2002 Maas 24 Carbon single",
     "location": "Eden, UT (US)",
@@ -298,5 +292,11 @@
     "location": "San Francisco, CA (US)",
     "date": "June 2, 2026",
     "first_seen": "2026-06-02T18:30:31.692532+00:00"
+  },
+  "38936": {
+    "title": "Little River Heritage 15 Classic",
+    "location": "Fairfield, CT (US)",
+    "date": "June 2, 2026",
+    "first_seen": "2026-06-02T21:40:31.771547+00:00"
   }
 }
