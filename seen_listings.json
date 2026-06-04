@@ -1,10 +1,4 @@
 {
-  "39065": {
-    "title": "Essentially new Maas Carbon Aero",
-    "location": "Boca raton, FL (US)",
-    "date": "May 24, 2026",
-    "first_seen": "2026-05-24T12:58:38.514313+00:00"
-  },
   "39068": {
     "title": "King ltwt Women's 1x",
     "location": "Milton, MA (US)",
@@ -298,5 +292,11 @@
     "location": "Seattle, WA (US)",
     "date": "June 3, 2026",
     "first_seen": "2026-06-04T02:39:09.912184+00:00"
+  },
+  "39177": {
+    "title": "2008 Sykes Midweight Single $2000",
+    "location": "Hoodsport, WA (US)",
+    "date": "June 3, 2026",
+    "first_seen": "2026-06-04T13:52:01.179419+00:00"
   }
 }
