@@ -1,16 +1,4 @@
 {
-  "39067": {
-    "title": "Echo Islander",
-    "location": "Durham, NH (US)",
-    "date": "May 24, 2026",
-    "first_seen": "2026-05-24T17:51:49.943609+00:00"
-  },
-  "39066": {
-    "title": "Cambridge Racer 2026 1x",
-    "location": "Orchard Park, NY (US)",
-    "date": "May 24, 2026",
-    "first_seen": "2026-05-25T02:28:30.522496+00:00"
-  },
   "39073": {
     "title": "Kaschper coxless sculling quad midweight rowing shell",
     "location": "Port Townsend, WA (US)",
@@ -298,5 +286,17 @@
     "location": "Newton Highlands, MA (US)",
     "date": "June 4, 2026",
     "first_seen": "2026-06-04T16:42:44.753830+00:00"
+  },
+  "39182": {
+    "title": "Hudson Super Predator 1X HW",
+    "location": "Orleans, ON (CA)",
+    "date": "June 4, 2026",
+    "first_seen": "2026-06-04T19:12:18.084690+00:00"
+  },
+  "38830": {
+    "title": "Pocock heavy weight coxed 4 with oars good condition",
+    "location": "Saratoga Springs, NY (US)",
+    "date": "June 4, 2026",
+    "first_seen": "2026-06-04T19:12:18.084690+00:00"
   }
 }
