@@ -1,10 +1,4 @@
 {
-  "39068": {
-    "title": "King ltwt Women's 1x",
-    "location": "Milton, MA (US)",
-    "date": "May 24, 2026",
-    "first_seen": "2026-05-24T17:51:49.943609+00:00"
-  },
   "39067": {
     "title": "Echo Islander",
     "location": "Durham, NH (US)",
@@ -298,5 +292,11 @@
     "location": "Hoodsport, WA (US)",
     "date": "June 3, 2026",
     "first_seen": "2026-06-04T13:52:01.179419+00:00"
+  },
+  "38954": {
+    "title": "Classic Staempfli Single Scull--1976",
+    "location": "Newton Highlands, MA (US)",
+    "date": "June 4, 2026",
+    "first_seen": "2026-06-04T16:42:44.753830+00:00"
   }
 }
