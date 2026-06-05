@@ -1,10 +1,4 @@
 {
-  "38937": {
-    "title": "Dirigo 1x + Concept2 Skinnies",
-    "location": "Durham, NH (US)",
-    "date": "May 25, 2026",
-    "first_seen": "2026-05-25T20:18:29.591362+00:00"
-  },
   "39079": {
     "title": "1993 Vespoli D-Hull 4+",
     "location": "NC (US)",
@@ -298,5 +292,11 @@
     "location": "Knoxville, TN",
     "date": "June 4, 2026",
     "first_seen": "2026-06-05T05:09:14.474433+00:00"
+  },
+  "39189": {
+    "title": "Liteboat  LiteSport 4.6",
+    "location": "Fremont, CA (US)",
+    "date": "June 5, 2026",
+    "first_seen": "2026-06-05T15:48:12.830141+00:00"
   }
 }
