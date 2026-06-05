@@ -1,16 +1,4 @@
 {
-  "39073": {
-    "title": "Kaschper coxless sculling quad midweight rowing shell",
-    "location": "Port Townsend, WA (US)",
-    "date": "May 25, 2026",
-    "first_seen": "2026-05-25T14:32:43.752835+00:00"
-  },
-  "39074": {
-    "title": "1984 Kaspcher 1X midweight shell #82-132",
-    "location": "Dunkirk, NY (US)",
-    "date": "May 25, 2026",
-    "first_seen": "2026-05-25T18:23:35.352979+00:00"
-  },
   "38937": {
     "title": "Dirigo 1x + Concept2 Skinnies",
     "location": "Durham, NH (US)",
@@ -298,5 +286,17 @@
     "location": "Saratoga Springs, NY (US)",
     "date": "June 4, 2026",
     "first_seen": "2026-06-04T19:12:18.084690+00:00"
+  },
+  "39185": {
+    "title": "Midweight Hudson shark 1x",
+    "location": "Sarasota, FL (US)",
+    "date": "June 4, 2026",
+    "first_seen": "2026-06-05T05:09:14.474433+00:00"
+  },
+  "39180": {
+    "title": "Eights and Fours Available Immediately",
+    "location": "Knoxville, TN",
+    "date": "June 4, 2026",
+    "first_seen": "2026-06-05T05:09:14.474433+00:00"
   }
 }
