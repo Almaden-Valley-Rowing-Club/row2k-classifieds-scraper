@@ -1,10 +1,4 @@
 {
-  "39079": {
-    "title": "1993 Vespoli D-Hull 4+",
-    "location": "NC (US)",
-    "date": "May 25, 2026",
-    "first_seen": "2026-05-25T22:00:43.274418+00:00"
-  },
   "39078": {
     "title": "Little River Rec 1x",
     "location": "NC (US)",
@@ -298,5 +292,11 @@
     "location": "Fremont, CA (US)",
     "date": "June 5, 2026",
     "first_seen": "2026-06-05T15:48:12.830141+00:00"
+  },
+  "38699": {
+    "title": "Expedition Wherry",
+    "location": "Easton, MD (US)",
+    "date": "June 5, 2026",
+    "first_seen": "2026-06-05T21:16:41.211857+00:00"
   }
 }
