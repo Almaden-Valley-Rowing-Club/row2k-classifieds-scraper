@@ -1,10 +1,4 @@
 {
-  "39084": {
-    "title": "Single EXO 24 racing shell",
-    "location": "Chestermere , AB (CA)",
-    "date": "May 26, 2026",
-    "first_seen": "2026-05-26T13:46:24.665351+00:00"
-  },
   "39082": {
     "title": "Van Dusen Advantage Lightweight 1999",
     "location": "Etna, NH (US)",
@@ -298,5 +292,11 @@
     "location": "Mays Landing, NJ (US)",
     "date": "June 5, 2026",
     "first_seen": "2026-06-06T00:03:29.408014+00:00"
+  },
+  "39197": {
+    "title": "Pocock 1x 140-180lb $500 obo",
+    "location": "Olympia, WA (US)",
+    "date": "June 5, 2026",
+    "first_seen": "2026-06-06T13:06:24.744954+00:00"
   }
 }
