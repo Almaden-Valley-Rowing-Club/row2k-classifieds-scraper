@@ -1,16 +1,4 @@
 {
-  "39089": {
-    "title": "2012 Filippi F25 4X 191lbs avg.: $12,999",
-    "location": "Philadelphia, PA (US)",
-    "date": "May 26, 2026",
-    "first_seen": "2026-05-26T19:54:59.050289+00:00"
-  },
-  "39088": {
-    "title": "2011 Filippi F17 2- 198lbs avg.: $8,499",
-    "location": "Philadelphia, PA (US)",
-    "date": "May 26, 2026",
-    "first_seen": "2026-05-26T19:54:59.050289+00:00"
-  },
   "39096": {
     "title": "2020-Sykes Accelerator 1X",
     "location": "Franklin, TN (US)",
@@ -298,5 +286,17 @@
     "location": "Osprey, FL (US)",
     "date": "June 6, 2026",
     "first_seen": "2026-06-06T23:55:53.586260+00:00"
+  },
+  "39218": {
+    "title": "Filippi 1x. 2025. F15",
+    "location": "Shorewood, MN (US)",
+    "date": "June 7, 2026",
+    "first_seen": "2026-06-07T19:05:09.276727+00:00"
+  },
+  "39215": {
+    "title": "van Dusen Advantage LW single for sale",
+    "location": "Goleta, CA (US)",
+    "date": "June 7, 2026",
+    "first_seen": "2026-06-07T19:05:09.276727+00:00"
   }
 }
