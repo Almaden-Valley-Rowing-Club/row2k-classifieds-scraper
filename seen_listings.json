@@ -1,10 +1,4 @@
 {
-  "39134": {
-    "title": "2010 Wintech Competitor Midweight 1x",
-    "location": "Flagler Beach, FL (US)",
-    "date": "May 30, 2026",
-    "first_seen": "2026-05-30T21:50:23.816188+00:00"
-  },
   "39136": {
     "title": "2013 Vespoli1 EXL 8+",
     "location": "Orlando, FL (US)",
@@ -298,5 +292,11 @@
     "location": "Greenville, WI (US)",
     "date": "June 8, 2026",
     "first_seen": "2026-06-08T19:14:17.217745+00:00"
+  },
+  "39238": {
+    "title": "MAAS 24",
+    "location": "Little Egg Harbor, NJ (US)",
+    "date": "June 8, 2026",
+    "first_seen": "2026-06-08T21:43:33.449808+00:00"
   }
 }
