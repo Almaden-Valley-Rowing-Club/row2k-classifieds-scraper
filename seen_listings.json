@@ -1,10 +1,4 @@
 {
-  "38898": {
-    "title": "2013 fluid single 185-205lbs $8000",
-    "location": "Nokomis, FL (US)",
-    "date": "May 30, 2026",
-    "first_seen": "2026-05-30T17:56:19.657705+00:00"
-  },
   "39134": {
     "title": "2010 Wintech Competitor Midweight 1x",
     "location": "Flagler Beach, FL (US)",
@@ -298,5 +292,11 @@
     "location": "Indianapolis, IN (US)",
     "date": "June 8, 2026",
     "first_seen": "2026-06-08T16:44:54.960524+00:00"
+  },
+  "39235": {
+    "title": "2009 Vespoli M24 1x",
+    "location": "Greenville, WI (US)",
+    "date": "June 8, 2026",
+    "first_seen": "2026-06-08T19:14:17.217745+00:00"
   }
 }
