@@ -1,10 +1,4 @@
 {
-  "38935": {
-    "title": "Alden Appledore Pod 16 ft - $2200",
-    "location": "Oriental, NC (US)",
-    "date": "June 2, 2026",
-    "first_seen": "2026-06-02T14:41:42.724534+00:00"
-  },
   "39164": {
     "title": "2014 Peinert Dolphin - Excellent condition",
     "location": "Watertown, CT (US)",
@@ -298,5 +292,11 @@
     "location": "Wilmington, NC (US)",
     "date": "June 9, 2026",
     "first_seen": "2026-06-09T19:06:22.324178+00:00"
+  },
+  "39139": {
+    "title": "2013 Vespoli Matrix 27 Single Scull, Complete Package, Oars, Custom Burnham Covers",
+    "location": "Chapel Hill, NC (US)",
+    "date": "June 9, 2026",
+    "first_seen": "2026-06-09T21:29:24.293952+00:00"
   }
 }
