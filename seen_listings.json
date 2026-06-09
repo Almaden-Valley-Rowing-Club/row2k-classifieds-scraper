@@ -1,10 +1,4 @@
 {
-  "39136": {
-    "title": "2013 Vespoli1 EXL 8+",
-    "location": "Orlando, FL (US)",
-    "date": "May 31, 2026",
-    "first_seen": "2026-05-31T16:55:21.859784+00:00"
-  },
   "39139": {
     "title": "2013 Vespoli Matrix 27 Single Scull, Complete Package, Oars, Custom Burnham Covers",
     "location": "Chapel Hill, NC (US)",
@@ -298,5 +292,11 @@
     "location": "Little Egg Harbor, NJ (US)",
     "date": "June 8, 2026",
     "first_seen": "2026-06-08T21:43:33.449808+00:00"
+  },
+  "39240": {
+    "title": "Vespoli M2 EL 8+",
+    "location": "Waterville, ME (US)",
+    "date": "June 9, 2026",
+    "first_seen": "2026-06-09T13:36:21.219777+00:00"
   }
 }
