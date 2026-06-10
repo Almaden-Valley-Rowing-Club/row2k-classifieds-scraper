@@ -1,10 +1,4 @@
 {
-  "39176": {
-    "title": "Olympic Edition X88 Empacher -  Available Now",
-    "location": "Seattle, WA (US)",
-    "date": "June 3, 2026",
-    "first_seen": "2026-06-04T02:39:09.912184+00:00"
-  },
   "39177": {
     "title": "2008 Sykes Midweight Single $2000",
     "location": "Hoodsport, WA (US)",
@@ -298,5 +292,11 @@
     "location": null,
     "date": "June 10, 2026",
     "first_seen": "2026-06-10T20:09:58.507766+00:00"
+  },
+  "38720": {
+    "title": "2021 Levator 1X",
+    "location": "Springfield, VA (US)",
+    "date": "June 10, 2026",
+    "first_seen": "2026-06-10T22:46:29.064298+00:00"
   }
 }
