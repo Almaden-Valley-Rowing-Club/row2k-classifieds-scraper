@@ -1,16 +1,4 @@
 {
-  "38911": {
-    "title": "Peinert Zephtr",
-    "location": "San Francisco, CA (US)",
-    "date": "June 2, 2026",
-    "first_seen": "2026-06-02T18:30:31.692532+00:00"
-  },
-  "38936": {
-    "title": "Little River Heritage 15 Classic",
-    "location": "Fairfield, CT (US)",
-    "date": "June 2, 2026",
-    "first_seen": "2026-06-02T21:40:31.771547+00:00"
-  },
   "38973": {
     "title": "Owen \u201986",
     "location": "Vancouver, WA (US)",
@@ -298,5 +286,17 @@
     "location": "WILBRAHAM, MA (US)",
     "date": "June 9, 2026",
     "first_seen": "2026-06-10T02:14:32.253617+00:00"
+  },
+  "38972": {
+    "title": "2000 Empacher 1x  6k OBO",
+    "location": "VA (US)",
+    "date": "June 10, 2026",
+    "first_seen": "2026-06-10T10:53:18.237242+00:00"
+  },
+  "39259": {
+    "title": "Women's Lightweight WinTech Competitor Single Rowing Shell (60 kg) - Excellent Condition",
+    "location": null,
+    "date": "June 9, 2026",
+    "first_seen": "2026-06-10T10:53:18.237242+00:00"
   }
 }
