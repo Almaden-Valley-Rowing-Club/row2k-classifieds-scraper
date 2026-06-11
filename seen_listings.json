@@ -1,16 +1,4 @@
 {
-  "38830": {
-    "title": "Pocock heavy weight coxed 4 with oars good condition",
-    "location": "Saratoga Springs, NY (US)",
-    "date": "June 4, 2026",
-    "first_seen": "2026-06-04T19:12:18.084690+00:00"
-  },
-  "39185": {
-    "title": "Midweight Hudson shark 1x",
-    "location": "Sarasota, FL (US)",
-    "date": "June 4, 2026",
-    "first_seen": "2026-06-05T05:09:14.474433+00:00"
-  },
   "39180": {
     "title": "Eights and Fours Available Immediately",
     "location": "Knoxville, TN",
@@ -298,5 +286,17 @@
     "location": "Lebanon, NH (US)",
     "date": "June 11, 2026",
     "first_seen": "2026-06-11T14:28:51.151165+00:00"
+  },
+  "39275": {
+    "title": "1987 Van Dusen (Heavyweight) 1x",
+    "location": "Ardmore, PA (US)",
+    "date": "June 11, 2026",
+    "first_seen": "2026-06-11T18:02:51.646770+00:00"
+  },
+  "39273": {
+    "title": "SELLING Filippi 4+, Wintech King 8, Vespoli Quad",
+    "location": "Fairport, NY (US)",
+    "date": "June 11, 2026",
+    "first_seen": "2026-06-11T18:02:51.646770+00:00"
   }
 }
