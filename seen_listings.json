@@ -1,10 +1,4 @@
 {
-  "39180": {
-    "title": "Eights and Fours Available Immediately",
-    "location": "Knoxville, TN",
-    "date": "June 4, 2026",
-    "first_seen": "2026-06-05T05:09:14.474433+00:00"
-  },
   "39189": {
     "title": "Liteboat  LiteSport 4.6",
     "location": "Fremont, CA (US)",
@@ -298,5 +292,11 @@
     "location": "Fairport, NY (US)",
     "date": "June 11, 2026",
     "first_seen": "2026-06-11T18:02:51.646770+00:00"
+  },
+  "39278": {
+    "title": "2019 Hudson USP 1x 1.42 Refurb 2025 **Like New**",
+    "location": "Manassas , VA (US)",
+    "date": "June 11, 2026",
+    "first_seen": "2026-06-12T07:12:03.815088+00:00"
   }
 }
