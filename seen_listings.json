@@ -1,10 +1,4 @@
 {
-  "39209": {
-    "title": "Filippi 1x 2025 F15",
-    "location": "Mound, MN (US)",
-    "date": "June 6, 2026",
-    "first_seen": "2026-06-06T23:55:53.586260+00:00"
-  },
   "39208": {
     "title": "Restored  Antique Thames River Skiff",
     "location": "Westminster, VT (US)",
@@ -298,5 +292,11 @@
     "location": "South Chatham, MA (US)",
     "date": "June 12, 2026",
     "first_seen": "2026-06-12T21:23:17.169024+00:00"
+  },
+  "39289": {
+    "title": "Vespoli 2021 Bow Mounted VHP29 2x $10,500",
+    "location": "Larchmont, NY (US)",
+    "date": "June 13, 2026",
+    "first_seen": "2026-06-13T19:06:50.342854+00:00"
   }
 }
