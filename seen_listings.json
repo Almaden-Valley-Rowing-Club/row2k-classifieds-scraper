@@ -1,16 +1,4 @@
 {
-  "39222": {
-    "title": "Liteboat Rowing Shell \u2013 Ready for the Water",
-    "location": "Harriman, TN (US)",
-    "date": "June 7, 2026",
-    "first_seen": "2026-06-07T22:05:02.116247+00:00"
-  },
-  "39224": {
-    "title": "2 single skulling rowboats",
-    "location": "Redding, CA (US)",
-    "date": "June 7, 2026",
-    "first_seen": "2026-06-07T23:57:46.019879+00:00"
-  },
   "39223": {
     "title": "1999 Van Dusen Heavyweight single - $2500",
     "location": "Sutton, MA (US)",
@@ -298,5 +286,17 @@
     "location": "Stirling, ON (CA)",
     "date": "June 14, 2026",
     "first_seen": "2026-06-15T12:56:22.779815+00:00"
+  },
+  "39312": {
+    "title": "Durham Boat Co. Rec-Racer II Single $3500",
+    "location": "Sunapee, NH",
+    "date": "June 15, 2026",
+    "first_seen": "2026-06-15T20:43:40.904796+00:00"
+  },
+  "39309": {
+    "title": "Edon TS515 scull with Braca oars",
+    "location": "NC",
+    "date": "June 15, 2026",
+    "first_seen": "2026-06-15T20:43:40.904796+00:00"
   }
 }
