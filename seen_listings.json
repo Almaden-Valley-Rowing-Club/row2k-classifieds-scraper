@@ -1,10 +1,4 @@
 {
-  "39238": {
-    "title": "MAAS 24",
-    "location": "Little Egg Harbor, NJ (US)",
-    "date": "June 8, 2026",
-    "first_seen": "2026-06-08T21:43:33.449808+00:00"
-  },
   "39240": {
     "title": "Vespoli M2 EL 8+",
     "location": "Waterville, ME (US)",
@@ -298,5 +292,11 @@
     "location": "Dunkirk, NY (US)",
     "date": "June 17, 2026",
     "first_seen": "2026-06-17T14:24:23.341939+00:00"
+  },
+  "39334": {
+    "title": "2007 Vespoli EM8+ Performer",
+    "location": null,
+    "date": "June 17, 2026",
+    "first_seen": "2026-06-17T17:43:50.222500+00:00"
   }
 }
