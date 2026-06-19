@@ -1,28 +1,4 @@
 {
-  "39252": {
-    "title": "Free Boats for donation",
-    "location": "Redding, CA (US)",
-    "date": "June 9, 2026",
-    "first_seen": "2026-06-09T19:06:22.324178+00:00"
-  },
-  "39250": {
-    "title": "Carl Douglas Wood racing shell",
-    "location": "Toronto, ON (CA)",
-    "date": "June 9, 2026",
-    "first_seen": "2026-06-09T19:06:22.324178+00:00"
-  },
-  "39247": {
-    "title": "Two 4+ Boats- Heavyweight Vespoli, Lightweight Kaschper",
-    "location": "Hopewell Junction, NY (US)",
-    "date": "June 9, 2026",
-    "first_seen": "2026-06-09T19:06:22.324178+00:00"
-  },
-  "39246": {
-    "title": "2004 Wintech 4+",
-    "location": "Wilmington, NC (US)",
-    "date": "June 9, 2026",
-    "first_seen": "2026-06-09T19:06:22.324178+00:00"
-  },
   "39139": {
     "title": "2013 Vespoli Matrix 27 Single Scull, Complete Package, Oars, Custom Burnham Covers",
     "location": "Chapel Hill, NC (US)",
@@ -298,5 +274,29 @@
     "location": "Broomfield, CO (US)",
     "date": "June 18, 2026",
     "first_seen": "2026-06-18T17:54:30.345606+00:00"
+  },
+  "39091": {
+    "title": "2012 Filippi F25 4- 198lbs avg.: $12,999",
+    "location": "Philadelphia, PA (US)",
+    "date": "June 19, 2026",
+    "first_seen": "2026-06-19T19:24:07.944046+00:00"
+  },
+  "39090": {
+    "title": "2017 Filippi F49 8+: $22,999",
+    "location": "Philadelphia, PA (US)",
+    "date": "June 19, 2026",
+    "first_seen": "2026-06-19T19:24:07.944046+00:00"
+  },
+  "39089": {
+    "title": "2012 Filippi F25 4X 191lbs avg.: $12,999",
+    "location": "Philadelphia, PA (US)",
+    "date": "June 19, 2026",
+    "first_seen": "2026-06-19T19:24:07.944046+00:00"
+  },
+  "39088": {
+    "title": "2011 Filippi F17 2- 198lbs avg.: $8,499",
+    "location": "Philadelphia, PA (US)",
+    "date": "June 19, 2026",
+    "first_seen": "2026-06-19T19:24:07.944046+00:00"
   }
 }
