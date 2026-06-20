@@ -1,10 +1,4 @@
 {
-  "39139": {
-    "title": "2013 Vespoli Matrix 27 Single Scull, Complete Package, Oars, Custom Burnham Covers",
-    "location": "Chapel Hill, NC (US)",
-    "date": "June 9, 2026",
-    "first_seen": "2026-06-09T21:29:24.293952+00:00"
-  },
   "39258": {
     "title": "MAAS Aero Classic 21'",
     "location": "Gainesville, GA (US)",
@@ -298,5 +292,11 @@
     "location": "Philadelphia, PA (US)",
     "date": "June 19, 2026",
     "first_seen": "2026-06-19T19:24:07.944046+00:00"
+  },
+  "39354": {
+    "title": "Annapolis Wherry",
+    "location": "Grand Lake, CO (US)",
+    "date": "June 19, 2026",
+    "first_seen": "2026-06-20T12:22:34.811786+00:00"
   }
 }
