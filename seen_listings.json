@@ -1,10 +1,4 @@
 {
-  "39157": {
-    "title": "YOUTH NATIONALS PICKUP - 2017 Filippi F15 (65-75kg) $7,700",
-    "location": null,
-    "date": "June 10, 2026",
-    "first_seen": "2026-06-10T20:09:58.507766+00:00"
-  },
   "38720": {
     "title": "2021 Levator 1X",
     "location": "Springfield, VA (US)",
@@ -298,5 +292,11 @@
     "location": "Indianapolis, IN (US)",
     "date": "June 21, 2026",
     "first_seen": "2026-06-22T00:11:30.171019+00:00"
+  },
+  "39364": {
+    "title": "2024 LightWeight Elite Single $11,000",
+    "location": "Seattle, WA (US)",
+    "date": "June 21, 2026",
+    "first_seen": "2026-06-22T12:42:04.627304+00:00"
   }
 }
