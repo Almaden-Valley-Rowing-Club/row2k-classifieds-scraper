@@ -1,16 +1,4 @@
 {
-  "39267": {
-    "title": "2015 Sykes 1x (single)",
-    "location": "Arlington, VA (US)",
-    "date": "June 10, 2026",
-    "first_seen": "2026-06-11T05:20:06.184723+00:00"
-  },
-  "38846": {
-    "title": "1983 Kaschper Carbon Fibre Single Scull",
-    "location": "Canmore, Alberta (Canada)",
-    "date": "June 10, 2026",
-    "first_seen": "2026-06-11T05:20:06.184723+00:00"
-  },
   "38957": {
     "title": "Vespoli Eight for sale",
     "location": "Lebanon, NH (US)",
@@ -298,5 +286,17 @@
     "location": "Saratoga Springs, NY (US)",
     "date": "June 22, 2026",
     "first_seen": "2026-06-22T17:24:47.431785+00:00"
+  },
+  "39372": {
+    "title": "Pocock Bay 21 rowing shell and equipment",
+    "location": "Meredith, NH (US)",
+    "date": "June 22, 2026",
+    "first_seen": "2026-06-22T20:32:43.551302+00:00"
+  },
+  "39370": {
+    "title": "23' single scull complete",
+    "location": "Va Beach, VA (US)",
+    "date": "June 22, 2026",
+    "first_seen": "2026-06-22T20:32:43.551302+00:00"
   }
 }
