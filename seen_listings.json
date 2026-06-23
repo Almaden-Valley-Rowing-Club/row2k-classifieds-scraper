@@ -1,10 +1,4 @@
 {
-  "39279": {
-    "title": "MAAS 24 2021 with Bailer",
-    "location": "South Chatham, MA (US)",
-    "date": "June 12, 2026",
-    "first_seen": "2026-06-12T14:32:48.418019+00:00"
-  },
   "39156": {
     "title": "2012 International WinTech 8+",
     "location": "Minneapolis, MN (US)",
@@ -298,5 +292,11 @@
     "location": "Seattle, WA (US)",
     "date": "June 22, 2026",
     "first_seen": "2026-06-23T03:36:50.214946+00:00"
+  },
+  "39391": {
+    "title": "Alden 18 Ocean Shell",
+    "location": "Hyattsville, MD (US)",
+    "date": "June 23, 2026",
+    "first_seen": "2026-06-23T16:19:38.943370+00:00"
   }
 }
