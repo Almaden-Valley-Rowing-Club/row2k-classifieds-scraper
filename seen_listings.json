@@ -1,16 +1,4 @@
 {
-  "39156": {
-    "title": "2012 International WinTech 8+",
-    "location": "Minneapolis, MN (US)",
-    "date": "June 12, 2026",
-    "first_seen": "2026-06-12T14:32:48.418019+00:00"
-  },
-  "39283": {
-    "title": "Mint Empacher double / pair",
-    "location": "Kingston , ON (CA)",
-    "date": "June 12, 2026",
-    "first_seen": "2026-06-12T17:30:17.265695+00:00"
-  },
   "39281": {
     "title": "2021 SHWeight FluidMax Single Racing Shell-$10k",
     "location": "MD (US)",
@@ -298,5 +286,17 @@
     "location": "Hyattsville, MD (US)",
     "date": "June 23, 2026",
     "first_seen": "2026-06-23T16:19:38.943370+00:00"
+  },
+  "39395": {
+    "title": "2022 Filippi 1X for sale",
+    "location": "Springfield, VA (US)",
+    "date": "June 23, 2026",
+    "first_seen": "2026-06-23T21:22:37.185719+00:00"
+  },
+  "39392": {
+    "title": "2013 M2 -Side Mounts",
+    "location": "Bryn Mawr , PA (US)",
+    "date": "June 23, 2026",
+    "first_seen": "2026-06-23T21:22:37.185719+00:00"
   }
 }
