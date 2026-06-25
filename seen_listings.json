@@ -1,10 +1,4 @@
 {
-  "39194": {
-    "title": "Echo Islander + Oars and Trailer",
-    "location": "Durham, NH (US)",
-    "date": "June 14, 2026",
-    "first_seen": "2026-06-15T06:13:15.610505+00:00"
-  },
   "39302": {
     "title": "Alden for Sale",
     "location": "Wilmington, NC (US)",
@@ -298,5 +292,11 @@
     "location": "Winter park, FL (US)",
     "date": "June 25, 2026",
     "first_seen": "2026-06-25T13:09:54.156440+00:00"
+  },
+  "39167": {
+    "title": "Resolute Intrepid HW 1x 2017",
+    "location": "Madison, CT (US)",
+    "date": "June 25, 2026",
+    "first_seen": "2026-06-25T16:14:19.693537+00:00"
   }
 }
