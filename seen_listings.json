@@ -1,10 +1,4 @@
 {
-  "39312": {
-    "title": "Durham Boat Co. Rec-Racer II Single $3500",
-    "location": "Sunapee, NH",
-    "date": "June 15, 2026",
-    "first_seen": "2026-06-15T20:43:40.904796+00:00"
-  },
   "39309": {
     "title": "Edon TS515 scull with Braca oars",
     "location": "NC",
@@ -298,5 +292,11 @@
     "location": "Hartford, CT (USA)",
     "date": "June 25, 2026",
     "first_seen": "2026-06-25T19:00:36.138988+00:00"
+  },
+  "39424": {
+    "title": "Like New Levator Racer",
+    "location": "Pittsfield, MA (US)",
+    "date": "June 25, 2026",
+    "first_seen": "2026-06-25T21:20:47.489007+00:00"
   }
 }
