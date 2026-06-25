@@ -1,16 +1,4 @@
 {
-  "39302": {
-    "title": "Alden for Sale",
-    "location": "Wilmington, NC (US)",
-    "date": "June 14, 2026",
-    "first_seen": "2026-06-15T12:56:22.779815+00:00"
-  },
-  "39301": {
-    "title": "Single (hull only) for sale $300",
-    "location": "Stirling, ON (CA)",
-    "date": "June 14, 2026",
-    "first_seen": "2026-06-15T12:56:22.779815+00:00"
-  },
   "39312": {
     "title": "Durham Boat Co. Rec-Racer II Single $3500",
     "location": "Sunapee, NH",
@@ -298,5 +286,17 @@
     "location": "Madison, CT (US)",
     "date": "June 25, 2026",
     "first_seen": "2026-06-25T16:14:19.693537+00:00"
+  },
+  "39419": {
+    "title": "1986 Van Dusen Lightweight 1X",
+    "location": "Brunswick, ME (US)",
+    "date": "June 25, 2026",
+    "first_seen": "2026-06-25T19:00:36.138988+00:00"
+  },
+  "39417": {
+    "title": "2011 Hudson SP S8.31",
+    "location": "Hartford, CT (USA)",
+    "date": "June 25, 2026",
+    "first_seen": "2026-06-25T19:00:36.138988+00:00"
   }
 }
