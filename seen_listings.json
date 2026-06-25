@@ -1,22 +1,4 @@
 {
-  "39289": {
-    "title": "Vespoli 2021 Bow Mounted VHP29 2x $10,500",
-    "location": "Larchmont, NY (US)",
-    "date": "June 13, 2026",
-    "first_seen": "2026-06-13T19:06:50.342854+00:00"
-  },
-  "39291": {
-    "title": "1973 Alden Ocean Shell Single / fixed-track version",
-    "location": "Princeton, NJ (US)",
-    "date": "June 13, 2026",
-    "first_seen": "2026-06-13T21:01:38.103944+00:00"
-  },
-  "39296": {
-    "title": "2024 Fluidesign Elite Ultralight Single",
-    "location": "Sarasota , FL (US)",
-    "date": "June 14, 2026",
-    "first_seen": "2026-06-14T13:27:52.547940+00:00"
-  },
   "39297": {
     "title": "Filippi 1X  F50  2019",
     "location": "Annapolis , MD (USA)",
@@ -298,5 +280,23 @@
     "location": "Chestermere , AB (CA)",
     "date": "June 24, 2026",
     "first_seen": "2026-06-24T18:26:43.093384+00:00"
+  },
+  "39411": {
+    "title": "2003 Mid weight Vespoli 8+ - 2 available",
+    "location": "Indianapolis, IN (US)",
+    "date": "June 24, 2026",
+    "first_seen": "2026-06-25T02:53:02.303637+00:00"
+  },
+  "39408": {
+    "title": "2010 Wintech Competitor Midweight 1x",
+    "location": "Flagler Beach, FL (US)",
+    "date": "June 24, 2026",
+    "first_seen": "2026-06-25T02:53:02.303637+00:00"
+  },
+  "39406": {
+    "title": "Alden Appledore 16",
+    "location": "Mystic, CT (US)",
+    "date": "June 24, 2026",
+    "first_seen": "2026-06-25T02:53:02.303637+00:00"
   }
 }
