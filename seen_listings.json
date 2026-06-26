@@ -1,10 +1,4 @@
 {
-  "39316": {
-    "title": "Does anyone know where we might be able to find parts for this old 1X trainer?",
-    "location": "Kansas City, MO (US)",
-    "date": "June 15, 2026",
-    "first_seen": "2026-06-16T00:22:27.014757+00:00"
-  },
   "39099": {
     "title": "2023 Lightweight Fluidesign Elite 1x - $11,500",
     "location": "Asheville , NC (US)",
@@ -298,5 +292,11 @@
     "location": "Georgetown, TX (US)",
     "date": "June 25, 2026",
     "first_seen": "2026-06-26T06:42:09.465672+00:00"
+  },
+  "39123": {
+    "title": "1989 Vespoli 8",
+    "location": "Salisbury, CT (US)",
+    "date": "June 26, 2026",
+    "first_seen": "2026-06-26T16:05:34.328427+00:00"
   }
 }
