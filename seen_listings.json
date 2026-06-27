@@ -1,10 +1,4 @@
 {
-  "39310": {
-    "title": "Shell for Sale",
-    "location": "NEW CASTLE, IN (US)",
-    "date": "June 15, 2026",
-    "first_seen": "2026-06-16T06:23:13.684032+00:00"
-  },
   "39065": {
     "title": "Essentially new Maas Carbon Aero",
     "location": "Boca raton, FL (US)",
@@ -298,5 +292,11 @@
     "location": "Minneapolis, MN (US)",
     "date": "June 26, 2026",
     "first_seen": "2026-06-26T22:01:36.979445+00:00"
+  },
+  "39438": {
+    "title": "Race1 Olympic single",
+    "location": "Sausalito, CA (US)",
+    "date": "June 26, 2026",
+    "first_seen": "2026-06-27T06:20:35.916379+00:00"
   }
 }
