@@ -1,22 +1,4 @@
 {
-  "39332": {
-    "title": "2008 Stern-Coxed Vespoli 4+",
-    "location": "Pittsburgh, PA (US)",
-    "date": "June 17, 2026",
-    "first_seen": "2026-06-17T14:24:23.341939+00:00"
-  },
-  "39074": {
-    "title": "1982 Kaschper  1X midweight shell #82-132 $1,500",
-    "location": "Dunkirk, NY (US)",
-    "date": "June 17, 2026",
-    "first_seen": "2026-06-17T14:24:23.341939+00:00"
-  },
-  "39334": {
-    "title": "2007 Vespoli EM8+ Performer",
-    "location": null,
-    "date": "June 17, 2026",
-    "first_seen": "2026-06-17T17:43:50.222500+00:00"
-  },
   "39082": {
     "title": "Van Dusen Advantage Lightweight 1996",
     "location": "Etna, NH (US)",
@@ -298,5 +280,23 @@
     "location": "Durham, NH (US)",
     "date": "June 27, 2026",
     "first_seen": "2026-06-27T20:49:26.853997+00:00"
+  },
+  "39449": {
+    "title": "Van Dusen Midweight/Hwt 2X $7500",
+    "location": "Craftsbury Common, VT (US)",
+    "date": "June 28, 2026",
+    "first_seen": "2026-06-28T15:10:49.402410+00:00"
+  },
+  "39448": {
+    "title": "WinTech Racing Medalist Heavyweight Single Rowing Shell (1x)",
+    "location": "NEW SMYRNA BEACH, FL (US)",
+    "date": "June 28, 2026",
+    "first_seen": "2026-06-28T15:10:49.402410+00:00"
+  },
+  "39447": {
+    "title": "Peinert 26",
+    "location": "San Ramon, CA (US)",
+    "date": "June 28, 2026",
+    "first_seen": "2026-06-28T15:10:49.402410+00:00"
   }
 }
