@@ -1,22 +1,4 @@
 {
-  "39340": {
-    "title": "2007 Wintech racing scull",
-    "location": "Forest Grove, OR (US)",
-    "date": "June 17, 2026",
-    "first_seen": "2026-06-18T07:26:04.168329+00:00"
-  },
-  "39339": {
-    "title": "Alden for Sale",
-    "location": "Wilmington, NC (US)",
-    "date": "June 17, 2026",
-    "first_seen": "2026-06-18T07:26:04.168329+00:00"
-  },
-  "39345": {
-    "title": "2021 Ultimate U1.11 SHARK Predator Single (120\u2013154 lbs) \u2014 with oars + car rack",
-    "location": "Moorestown, NJ (US)",
-    "date": "June 18, 2026",
-    "first_seen": "2026-06-18T17:54:30.345606+00:00"
-  },
   "39344": {
     "title": "2011 Hudson 2x 145-175lbs",
     "location": "Broomfield, CO (US)",
@@ -298,5 +280,23 @@
     "location": "Osage Beach, MO (US)",
     "date": "June 28, 2026",
     "first_seen": "2026-06-29T13:57:05.981395+00:00"
+  },
+  "39460": {
+    "title": "Sharrow Racing Single",
+    "location": "Fort Edward, NY (US)",
+    "date": "June 29, 2026",
+    "first_seen": "2026-06-29T16:53:18.408236+00:00"
+  },
+  "39459": {
+    "title": "Vespoli 4+, 2009",
+    "location": "Middleton, WI (US)",
+    "date": "June 29, 2026",
+    "first_seen": "2026-06-29T16:53:18.408236+00:00"
+  },
+  "39458": {
+    "title": "2016 Win Tech 1X Medalist SLW - $6,000",
+    "location": "Orlando, FL (US)",
+    "date": "June 29, 2026",
+    "first_seen": "2026-06-29T16:53:18.408236+00:00"
   }
 }
