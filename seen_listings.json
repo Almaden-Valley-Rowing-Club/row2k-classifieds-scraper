@@ -1,16 +1,4 @@
 {
-  "39090": {
-    "title": "2017 Filippi F49 8+: $22,999",
-    "location": "Philadelphia, PA (US)",
-    "date": "June 19, 2026",
-    "first_seen": "2026-06-19T19:24:07.944046+00:00"
-  },
-  "39089": {
-    "title": "2012 Filippi F25 4X 191lbs avg.: $12,999",
-    "location": "Philadelphia, PA (US)",
-    "date": "June 19, 2026",
-    "first_seen": "2026-06-19T19:24:07.944046+00:00"
-  },
   "39088": {
     "title": "2011 Filippi F17 2- 198lbs avg.: $8,499",
     "location": "Philadelphia, PA (US)",
@@ -298,5 +286,17 @@
     "location": "Melbourne Beach, FL (US)",
     "date": "June 29, 2026",
     "first_seen": "2026-06-29T23:52:47.832272+00:00"
+  },
+  "39467": {
+    "title": "4 Hudson 1x + 1 Empacher 1x For Sale \u2013 Pick Up At Cascadia!",
+    "location": "Vancouver, BC (CA)",
+    "date": "June 30, 2026",
+    "first_seen": "2026-06-30T06:45:14.123290+00:00"
+  },
+  "38856": {
+    "title": "1998 Sharrow Flyweight",
+    "location": "Portland, OR (US)",
+    "date": "June 30, 2026",
+    "first_seen": "2026-06-30T06:45:14.123290+00:00"
   }
 }
