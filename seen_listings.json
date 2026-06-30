@@ -1,10 +1,4 @@
 {
-  "39224": {
-    "title": "2 single skulling rowboats",
-    "location": "Redding, CA (US)",
-    "date": "June 21, 2026",
-    "first_seen": "2026-06-21T22:59:00.275498+00:00"
-  },
   "39234": {
     "title": "2015 Swift Adaptive 2x",
     "location": "Indianapolis, IN (US)",
@@ -298,5 +292,11 @@
     "location": "Goleta, CA (US)",
     "date": "June 30, 2026",
     "first_seen": "2026-06-30T18:27:55.566549+00:00"
+  },
+  "39475": {
+    "title": "Bay Twenty One Recreational Scull",
+    "location": "Carlsbad, CA",
+    "date": "June 30, 2026",
+    "first_seen": "2026-06-30T20:50:16.118925+00:00"
   }
 }
