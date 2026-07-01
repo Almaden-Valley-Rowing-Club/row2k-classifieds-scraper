@@ -1,10 +1,4 @@
 {
-  "39234": {
-    "title": "2015 Swift Adaptive 2x",
-    "location": "Indianapolis, IN (US)",
-    "date": "June 21, 2026",
-    "first_seen": "2026-06-22T00:11:30.171019+00:00"
-  },
   "39233": {
     "title": "2013 Swift Adaptive 1x",
     "location": "Indianapolis, IN (US)",
@@ -298,5 +292,11 @@
     "location": "Carlsbad, CA",
     "date": "June 30, 2026",
     "first_seen": "2026-06-30T20:50:16.118925+00:00"
+  },
+  "38911": {
+    "title": "Peinert Zephtr",
+    "location": "San Francisco, CA (US)",
+    "date": "July 1, 2026",
+    "first_seen": "2026-07-01T21:16:36.820969+00:00"
   }
 }
