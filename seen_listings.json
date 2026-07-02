@@ -1,10 +1,4 @@
 {
-  "39227": {
-    "title": "2003 Vespoli 8 Mid Weight",
-    "location": "Indianapolis, IN (US)",
-    "date": "June 21, 2026",
-    "first_seen": "2026-06-22T00:11:30.171019+00:00"
-  },
   "39364": {
     "title": "2024 LightWeight Elite Single $11,000",
     "location": "Seattle, WA (US)",
@@ -298,5 +292,11 @@
     "location": "eden prairie, MN (US)",
     "date": "July 1, 2026",
     "first_seen": "2026-07-02T06:29:14.148445+00:00"
+  },
+  "39497": {
+    "title": "Swift Adaptive 2x",
+    "location": "Indianapolis, IN (US)",
+    "date": "July 2, 2026",
+    "first_seen": "2026-07-02T12:01:20.712164+00:00"
   }
 }
