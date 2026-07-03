@@ -1,10 +1,4 @@
 {
-  "39369": {
-    "title": "Empacher C13 1x (2008 57-75kg)",
-    "location": "Saratoga Springs, NY (US)",
-    "date": "June 22, 2026",
-    "first_seen": "2026-06-22T17:24:47.431785+00:00"
-  },
   "39372": {
     "title": "Pocock Bay 21 rowing shell and equipment",
     "location": "Meredith, NH (US)",
@@ -298,5 +292,11 @@
     "location": "Yardley, PA (US)",
     "date": "July 2, 2026",
     "first_seen": "2026-07-02T15:04:32.571672+00:00"
+  },
+  "39505": {
+    "title": "1x  Fluidesign Midweight FluidElite $4,750",
+    "location": "WAKEFIELD, MA (US)",
+    "date": "July 2, 2026",
+    "first_seen": "2026-07-03T13:40:41.792282+00:00"
   }
 }
