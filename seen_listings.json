@@ -1,10 +1,4 @@
 {
-  "39372": {
-    "title": "Pocock Bay 21 rowing shell and equipment",
-    "location": "Meredith, NH (US)",
-    "date": "June 22, 2026",
-    "first_seen": "2026-06-22T20:32:43.551302+00:00"
-  },
   "39370": {
     "title": "23' single scull complete",
     "location": "Va Beach, VA (US)",
@@ -298,5 +292,11 @@
     "location": "WAKEFIELD, MA (US)",
     "date": "July 2, 2026",
     "first_seen": "2026-07-03T13:40:41.792282+00:00"
+  },
+  "39507": {
+    "title": "Maas 24 Single Scull",
+    "location": "Portland, OR (US)",
+    "date": "July 3, 2026",
+    "first_seen": "2026-07-03T20:16:41.760106+00:00"
   }
 }
