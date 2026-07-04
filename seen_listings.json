@@ -1,10 +1,4 @@
 {
-  "39382": {
-    "title": "2014 HVY King 1x",
-    "location": "Charlestown, MA (US)",
-    "date": "June 22, 2026",
-    "first_seen": "2026-06-23T03:36:50.214946+00:00"
-  },
   "39380": {
     "title": "2006 Lightweight Van Dusen Single",
     "location": "Los Angeles, CA (US)",
@@ -298,5 +292,11 @@
     "location": "Lower Gwynedd, PA (US)",
     "date": "July 3, 2026",
     "first_seen": "2026-07-03T21:55:41.217867+00:00"
+  },
+  "39273": {
+    "title": "SELLING Wintech King 8",
+    "location": "Fairport, NY (US)",
+    "date": "July 4, 2026",
+    "first_seen": "2026-07-04T12:58:01.838051+00:00"
   }
 }
