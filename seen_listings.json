@@ -1,10 +1,4 @@
 {
-  "39380": {
-    "title": "2006 Lightweight Van Dusen Single",
-    "location": "Los Angeles, CA (US)",
-    "date": "June 22, 2026",
-    "first_seen": "2026-06-23T03:36:50.214946+00:00"
-  },
   "39379": {
     "title": "2009 Pocock Hypercarbon K4+",
     "location": "Seattle, WA (US)",
@@ -298,5 +292,11 @@
     "location": "Fairport, NY (US)",
     "date": "July 4, 2026",
     "first_seen": "2026-07-04T12:58:01.838051+00:00"
+  },
+  "39511": {
+    "title": "Vespoli Matrix 24 Single",
+    "location": "Amherst, NH (US)",
+    "date": "July 4, 2026",
+    "first_seen": "2026-07-04T14:27:21.356389+00:00"
   }
 }
