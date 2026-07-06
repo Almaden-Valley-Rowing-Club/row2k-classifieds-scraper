@@ -1,10 +1,4 @@
 {
-  "39419": {
-    "title": "1986 Van Dusen Lightweight 1X",
-    "location": "Brunswick, ME (US)",
-    "date": "June 25, 2026",
-    "first_seen": "2026-06-25T19:00:36.138988+00:00"
-  },
   "39417": {
     "title": "2011 Hudson SP S8.31",
     "location": "Hartford, CT (USA)",
@@ -298,5 +292,11 @@
     "location": "North Saanich, BC (CA)",
     "date": "July 5, 2026",
     "first_seen": "2026-07-06T14:56:36.478851+00:00"
+  },
+  "39247": {
+    "title": "Two 4+ Boats- Heavyweight Vespoli, Lightweight Kaschper",
+    "location": "Hopewell Junction, NY (US)",
+    "date": "July 6, 2026",
+    "first_seen": "2026-07-06T17:36:54.507652+00:00"
   }
 }
