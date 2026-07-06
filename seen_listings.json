@@ -1,22 +1,4 @@
 {
-  "39417": {
-    "title": "2011 Hudson SP S8.31",
-    "location": "Hartford, CT (USA)",
-    "date": "June 25, 2026",
-    "first_seen": "2026-06-25T19:00:36.138988+00:00"
-  },
-  "39424": {
-    "title": "Like New Levator Racer",
-    "location": "Pittsfield, MA (US)",
-    "date": "June 25, 2026",
-    "first_seen": "2026-06-25T21:20:47.489007+00:00"
-  },
-  "39426": {
-    "title": "Two Maas Rowing Shells + Concept2 Sculling Oars + Storage Rack",
-    "location": "Georgetown, TX (US)",
-    "date": "June 25, 2026",
-    "first_seen": "2026-06-26T06:42:09.465672+00:00"
-  },
   "39123": {
     "title": "1989 Vespoli 8",
     "location": "Salisbury, CT (US)",
@@ -298,5 +280,23 @@
     "location": "Hopewell Junction, NY (US)",
     "date": "July 6, 2026",
     "first_seen": "2026-07-06T17:36:54.507652+00:00"
+  },
+  "39537": {
+    "title": "Alden Ocean Shell 18ft (double or single) complete package",
+    "location": "Cambridge , MA",
+    "date": "July 6, 2026",
+    "first_seen": "2026-07-06T19:40:29.096360+00:00"
+  },
+  "39535": {
+    "title": "Hudson Touring quad / 2x / Fisa Rec Racer/ Alden Appledoor",
+    "location": "Centerville, MA (US)",
+    "date": "July 6, 2026",
+    "first_seen": "2026-07-06T19:40:29.096360+00:00"
+  },
+  "39291": {
+    "title": "1973 Alden Ocean Shell Single / fixed-track version",
+    "location": "Princeton, NJ (US)",
+    "date": "July 6, 2026",
+    "first_seen": "2026-07-06T19:40:29.096360+00:00"
   }
 }
