@@ -1,34 +1,4 @@
 {
-  "39411": {
-    "title": "2003 Mid weight Vespoli 8+ - 2 available",
-    "location": "Indianapolis, IN (US)",
-    "date": "June 24, 2026",
-    "first_seen": "2026-06-25T02:53:02.303637+00:00"
-  },
-  "39408": {
-    "title": "2010 Wintech Competitor Midweight 1x",
-    "location": "Flagler Beach, FL (US)",
-    "date": "June 24, 2026",
-    "first_seen": "2026-06-25T02:53:02.303637+00:00"
-  },
-  "39406": {
-    "title": "Alden Appledore 16",
-    "location": "Mystic, CT (US)",
-    "date": "June 24, 2026",
-    "first_seen": "2026-06-25T02:53:02.303637+00:00"
-  },
-  "39416": {
-    "title": "Double towing shell",
-    "location": "Winter park, FL (US)",
-    "date": "June 25, 2026",
-    "first_seen": "2026-06-25T13:09:54.156440+00:00"
-  },
-  "39167": {
-    "title": "Resolute Intrepid HW 1x 2017",
-    "location": "Madison, CT (US)",
-    "date": "June 25, 2026",
-    "first_seen": "2026-06-25T16:14:19.693537+00:00"
-  },
   "39419": {
     "title": "1986 Van Dusen Lightweight 1X",
     "location": "Brunswick, ME (US)",
@@ -298,5 +268,35 @@
     "location": "Essex, MD (US)",
     "date": "July 5, 2026",
     "first_seen": "2026-07-05T19:00:05.139157+00:00"
+  },
+  "39531": {
+    "title": "2004 1X Hudson lightweight men",
+    "location": "Toronto, (CA)",
+    "date": "July 6, 2026",
+    "first_seen": "2026-07-06T14:56:36.478851+00:00"
+  },
+  "39529": {
+    "title": "Little River Sprint",
+    "location": "Neptune, NJ (US)",
+    "date": "July 6, 2026",
+    "first_seen": "2026-07-06T14:56:36.478851+00:00"
+  },
+  "39527": {
+    "title": "Vespoli EM8+",
+    "location": null,
+    "date": "July 6, 2026",
+    "first_seen": "2026-07-06T14:56:36.478851+00:00"
+  },
+  "39279": {
+    "title": "MAAS 24 2021 with Bailer",
+    "location": "South Chatham, MA (US)",
+    "date": "July 6, 2026",
+    "first_seen": "2026-07-06T14:56:36.478851+00:00"
+  },
+  "39526": {
+    "title": "23 foot Cedar Strip Rowing shell",
+    "location": "North Saanich, BC (CA)",
+    "date": "July 5, 2026",
+    "first_seen": "2026-07-06T14:56:36.478851+00:00"
   }
 }
