@@ -1,10 +1,4 @@
 {
-  "39463": {
-    "title": "Hudson Coxed Quad/Four - 4 years old",
-    "location": "Vancouver, BC (CA)",
-    "date": "June 29, 2026",
-    "first_seen": "2026-06-29T20:47:52.457415+00:00"
-  },
   "39465": {
     "title": "2019 LiteBoat LiteSport 2X",
     "location": "Melbourne Beach, FL (US)",
@@ -298,5 +292,11 @@
     "location": "Grand Rapids, MI (US)",
     "date": "July 8, 2026",
     "first_seen": "2026-07-08T20:55:32.679315+00:00"
+  },
+  "39575": {
+    "title": "2021 Fiberglass LiteSport1x5.0",
+    "location": "Bradenton, FL (US)",
+    "date": "July 8, 2026",
+    "first_seen": "2026-07-08T23:04:53.264803+00:00"
   }
 }
