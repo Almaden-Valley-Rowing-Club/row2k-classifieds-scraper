@@ -1,10 +1,4 @@
 {
-  "39459": {
-    "title": "Vespoli 4+, 2009",
-    "location": "Middleton, WI (US)",
-    "date": "June 29, 2026",
-    "first_seen": "2026-06-29T16:53:18.408236+00:00"
-  },
   "39458": {
     "title": "2016 Win Tech 1X Medalist SLW - $6,000",
     "location": "Orlando, FL (US)",
@@ -298,5 +292,11 @@
     "location": "Stirling, ON (CA)",
     "date": "July 7, 2026",
     "first_seen": "2026-07-07T21:14:03.017476+00:00"
+  },
+  "39310": {
+    "title": "Shell for Sale",
+    "location": "NEW CASTLE, IN (US)",
+    "date": "July 8, 2026",
+    "first_seen": "2026-07-08T15:08:01.204915+00:00"
   }
 }
