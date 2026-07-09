@@ -1,10 +1,4 @@
 {
-  "38856": {
-    "title": "1998 Sharrow Flyweight",
-    "location": "Portland, OR (US)",
-    "date": "June 30, 2026",
-    "first_seen": "2026-06-30T06:45:14.123290+00:00"
-  },
   "39471": {
     "title": "Carl Douglas 2x - 85kg",
     "location": "Springfield, MA (US)",
@@ -298,5 +292,11 @@
     "location": "Seattle, WA (US)",
     "date": "July 9, 2026",
     "first_seen": "2026-07-09T12:25:16.264112+00:00"
+  },
+  "39581": {
+    "title": "Beautiful wooden single (needs restoration)",
+    "location": "Amherst, NH (US)",
+    "date": "July 9, 2026",
+    "first_seen": "2026-07-09T15:51:22.051144+00:00"
   }
 }
