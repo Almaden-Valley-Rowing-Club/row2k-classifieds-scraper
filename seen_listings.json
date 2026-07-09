@@ -1,10 +1,4 @@
 {
-  "39467": {
-    "title": "4 Hudson 1x + 1 Empacher 1x For Sale \u2013 Pick Up At Cascadia!",
-    "location": "Vancouver, BC (CA)",
-    "date": "June 30, 2026",
-    "first_seen": "2026-06-30T06:45:14.123290+00:00"
-  },
   "38856": {
     "title": "1998 Sharrow Flyweight",
     "location": "Portland, OR (US)",
@@ -298,5 +292,11 @@
     "location": "VERNON HILLS, IL (US)",
     "date": "July 8, 2026",
     "first_seen": "2026-07-09T01:53:35.839142+00:00"
+  },
+  "39579": {
+    "title": "Pocock C1x",
+    "location": "Seattle, WA (US)",
+    "date": "July 9, 2026",
+    "first_seen": "2026-07-09T12:25:16.264112+00:00"
   }
 }
