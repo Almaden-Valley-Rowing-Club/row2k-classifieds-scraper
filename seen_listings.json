@@ -1,10 +1,4 @@
 {
-  "39471": {
-    "title": "Carl Douglas 2x - 85kg",
-    "location": "Springfield, MA (US)",
-    "date": "June 30, 2026",
-    "first_seen": "2026-06-30T16:14:47.105379+00:00"
-  },
   "39470": {
     "title": "Misson Carbon Fiber",
     "location": "Moultonborough, NH (US)",
@@ -298,5 +292,11 @@
     "location": "Amherst, NH (US)",
     "date": "July 9, 2026",
     "first_seen": "2026-07-09T15:51:22.051144+00:00"
+  },
+  "39583": {
+    "title": "1987 Vespoli Single Heavyweight",
+    "location": "Wolfeboro, NH (US)",
+    "date": "July 9, 2026",
+    "first_seen": "2026-07-09T17:46:47.403752+00:00"
   }
 }
