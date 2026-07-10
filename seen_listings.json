@@ -1,16 +1,4 @@
 {
-  "39505": {
-    "title": "1x  Fluidesign Midweight FluidElite $4,750",
-    "location": "WAKEFIELD, MA (US)",
-    "date": "July 2, 2026",
-    "first_seen": "2026-07-03T13:40:41.792282+00:00"
-  },
-  "39507": {
-    "title": "Maas 24 Single Scull",
-    "location": "Portland, OR (US)",
-    "date": "July 3, 2026",
-    "first_seen": "2026-07-03T20:16:41.760106+00:00"
-  },
   "39509": {
     "title": "Sharrow 1x",
     "location": "De Soto, MO (US)",
@@ -298,5 +286,17 @@
     "location": "Westford, MA (US)",
     "date": "July 10, 2026",
     "first_seen": "2026-07-10T19:14:08.998953+00:00"
+  },
+  "39605": {
+    "title": "2017 Vespoli Matrix 24 Lightweight 1x",
+    "location": "Pittsburgh, PA (US)",
+    "date": "July 10, 2026",
+    "first_seen": "2026-07-10T22:00:56.333176+00:00"
+  },
+  "39603": {
+    "title": "Maas Aero  $950",
+    "location": "El Cerrito, CA (US)",
+    "date": "July 10, 2026",
+    "first_seen": "2026-07-10T22:00:56.333176+00:00"
   }
 }
