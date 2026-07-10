@@ -1,10 +1,4 @@
 {
-  "38911": {
-    "title": "Peinert Zephtr",
-    "location": "San Francisco, CA (US)",
-    "date": "July 1, 2026",
-    "first_seen": "2026-07-01T21:16:36.820969+00:00"
-  },
   "39496": {
     "title": "Nordic Explorer Sculling Boat",
     "location": "eden prairie, MN (US)",
@@ -298,5 +292,11 @@
     "location": "Seattle, WA (US)",
     "date": "July 9, 2026",
     "first_seen": "2026-07-09T21:11:49.118307+00:00"
+  },
+  "39595": {
+    "title": "Peinert 26 Single 1x",
+    "location": "Nanaimo, BC (CA)",
+    "date": "July 9, 2026",
+    "first_seen": "2026-07-10T12:18:51.087280+00:00"
   }
 }
