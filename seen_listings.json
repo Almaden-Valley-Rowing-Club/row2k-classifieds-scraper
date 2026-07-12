@@ -1,16 +1,4 @@
 {
-  "39273": {
-    "title": "SELLING Wintech King 8",
-    "location": "Fairport, NY (US)",
-    "date": "July 4, 2026",
-    "first_seen": "2026-07-04T12:58:01.838051+00:00"
-  },
-  "39511": {
-    "title": "Vespoli Matrix 24 Single",
-    "location": "Amherst, NH (US)",
-    "date": "July 4, 2026",
-    "first_seen": "2026-07-04T14:27:21.356389+00:00"
-  },
   "39513": {
     "title": "Little River Marine Heritage 15 Classic Single",
     "location": "Crisfield, MD (US)",
@@ -298,5 +286,17 @@
     "location": "Long Beach, CA (US)",
     "date": "July 11, 2026",
     "first_seen": "2026-07-12T14:22:30.266555+00:00"
+  },
+  "39614": {
+    "title": "Maas Carbon 24",
+    "location": "Port Townsend, WA (US)",
+    "date": "July 12, 2026",
+    "first_seen": "2026-07-12T17:50:25.804639+00:00"
+  },
+  "39612": {
+    "title": "Durham Boat Company FISA Carbon 1x Single (NJ)",
+    "location": "Hoboken, NJ (US)",
+    "date": "July 12, 2026",
+    "first_seen": "2026-07-12T17:50:25.804639+00:00"
   }
 }
