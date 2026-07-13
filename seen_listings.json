@@ -1,10 +1,4 @@
 {
-  "39521": {
-    "title": "For Sale 2004 Vespoli DS8: VUADA1713404",
-    "location": "Old Lyme, CT (US)",
-    "date": "July 5, 2026",
-    "first_seen": "2026-07-05T19:00:05.139157+00:00"
-  },
   "39520": {
     "title": "2014 Vespoli Ltwt 4+",
     "location": "Jacksonville, FL (US)",
@@ -298,5 +292,11 @@
     "location": "Seattle, WA (US)",
     "date": "July 12, 2026",
     "first_seen": "2026-07-12T20:00:22.644953+00:00"
+  },
+  "39622": {
+    "title": "Empacher 1x for sale",
+    "location": "Prescott, AZ (US)",
+    "date": "July 12, 2026",
+    "first_seen": "2026-07-13T11:50:23.588434+00:00"
   }
 }
