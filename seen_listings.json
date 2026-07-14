@@ -1,16 +1,4 @@
 {
-  "39529": {
-    "title": "Little River Sprint",
-    "location": "Neptune, NJ (US)",
-    "date": "July 6, 2026",
-    "first_seen": "2026-07-06T14:56:36.478851+00:00"
-  },
-  "39527": {
-    "title": "Vespoli EM8+",
-    "location": null,
-    "date": "July 6, 2026",
-    "first_seen": "2026-07-06T14:56:36.478851+00:00"
-  },
   "39279": {
     "title": "MAAS 24 2021 with Bailer",
     "location": "South Chatham, MA (US)",
@@ -298,5 +286,17 @@
     "location": "Pawcatuck, (US)",
     "date": "July 13, 2026",
     "first_seen": "2026-07-13T20:48:07.926053+00:00"
+  },
+  "39639": {
+    "title": "2017 Vespoli Midweight Matrix 24 Single $8000",
+    "location": "Lake Lure, NC (US)",
+    "date": "July 14, 2026",
+    "first_seen": "2026-07-14T13:05:30.488160+00:00"
+  },
+  "39638": {
+    "title": "15' Heritage Rower",
+    "location": "Davis, CA (US)",
+    "date": "July 13, 2026",
+    "first_seen": "2026-07-14T13:05:30.488160+00:00"
   }
 }
