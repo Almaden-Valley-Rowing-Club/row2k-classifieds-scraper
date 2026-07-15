@@ -1,10 +1,4 @@
 {
-  "39291": {
-    "title": "1973 Alden Ocean Shell Single / fixed-track version",
-    "location": "Princeton, NJ (US)",
-    "date": "July 6, 2026",
-    "first_seen": "2026-07-06T19:40:29.096360+00:00"
-  },
   "39541": {
     "title": "Wintech White Medalist 1x",
     "location": "Norwalk, CT (US)",
@@ -298,5 +292,11 @@
     "location": "NC (US)",
     "date": "July 14, 2026",
     "first_seen": "2026-07-14T23:41:20.657708+00:00"
+  },
+  "39647": {
+    "title": "Small Craft Rec 1x",
+    "location": "NC (US)",
+    "date": "July 14, 2026",
+    "first_seen": "2026-07-15T01:19:43.904198+00:00"
   }
 }
