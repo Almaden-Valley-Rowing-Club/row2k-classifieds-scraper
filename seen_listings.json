@@ -1,10 +1,4 @@
 {
-  "39541": {
-    "title": "Wintech White Medalist 1x",
-    "location": "Norwalk, CT (US)",
-    "date": "July 6, 2026",
-    "first_seen": "2026-07-06T22:56:29.839390+00:00"
-  },
   "39543": {
     "title": "2019 Filippi F22 1x",
     "location": "Columbus, OH (US)",
@@ -298,5 +292,11 @@
     "location": "NC (US)",
     "date": "July 14, 2026",
     "first_seen": "2026-07-15T01:19:43.904198+00:00"
+  },
+  "39649": {
+    "title": "Empacher Eights and Fours, Heavyweight, Lightweight, Women",
+    "location": "Derby, CT (US)",
+    "date": "July 15, 2026",
+    "first_seen": "2026-07-15T11:20:25.286036+00:00"
   }
 }
