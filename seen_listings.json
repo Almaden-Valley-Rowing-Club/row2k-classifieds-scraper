@@ -1,16 +1,4 @@
 {
-  "39551": {
-    "title": "Vespoli Eights and Four",
-    "location": "Orlando, FL",
-    "date": "July 7, 2026",
-    "first_seen": "2026-07-07T17:04:20.933091+00:00"
-  },
-  "39550": {
-    "title": "Fluidesign Intermediate (175lb-205lb) Blue Max 1x",
-    "location": "Gibsonia, PA (US)",
-    "date": "July 7, 2026",
-    "first_seen": "2026-07-07T17:04:20.933091+00:00"
-  },
   "39246": {
     "title": "2004 Wintech 4+",
     "location": "Wilmington, NC (US)",
@@ -298,5 +286,17 @@
     "location": "CT (US)",
     "date": "July 15, 2026",
     "first_seen": "2026-07-15T18:53:43.378940+00:00"
+  },
+  "39662": {
+    "title": "Pocock Cedar 1x",
+    "location": "Seattle, WA (US)",
+    "date": "July 15, 2026",
+    "first_seen": "2026-07-15T21:46:39.739396+00:00"
+  },
+  "39661": {
+    "title": "Filippi",
+    "location": "Westhampton, NY",
+    "date": "July 15, 2026",
+    "first_seen": "2026-07-15T21:46:39.739396+00:00"
   }
 }
