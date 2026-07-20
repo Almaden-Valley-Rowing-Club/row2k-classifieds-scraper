@@ -1,10 +1,4 @@
 {
-  "39605": {
-    "title": "2017 Vespoli Matrix 24 Lightweight 1x",
-    "location": "Pittsburgh, PA (US)",
-    "date": "July 10, 2026",
-    "first_seen": "2026-07-10T22:00:56.333176+00:00"
-  },
   "39603": {
     "title": "Maas Aero  $950",
     "location": "El Cerrito, CA (US)",
@@ -298,5 +292,11 @@
     "location": "Takoma Park, MD (US)",
     "date": "July 20, 2026",
     "first_seen": "2026-07-20T22:01:12.504442+00:00"
+  },
+  "39597": {
+    "title": "2003 Mid Weight Vespoli 8+ - 2 available for best offer",
+    "location": "Indianapolis, IN (US)",
+    "date": "July 20, 2026",
+    "first_seen": "2026-07-20T23:45:49.359643+00:00"
   }
 }
