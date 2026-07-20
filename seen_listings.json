@@ -1,10 +1,4 @@
 {
-  "39592": {
-    "title": "MAAS Flyweight Rowing Shell with Dreher Sculls.  Like New.",
-    "location": "Portland, OR (US)",
-    "date": "July 9, 2026",
-    "first_seen": "2026-07-09T21:11:49.118307+00:00"
-  },
   "39589": {
     "title": "Van Dusen Midweight 1x",
     "location": "Seattle, WA (US)",
@@ -298,5 +292,11 @@
     "location": "Chesapeake, VA (US)",
     "date": "July 19, 2026",
     "first_seen": "2026-07-19T23:45:35.542589+00:00"
+  },
+  "40707": {
+    "title": "Resolute four",
+    "location": "Marstons Mills, MA (US)",
+    "date": "July 20, 2026",
+    "first_seen": "2026-07-20T15:44:02.959761+00:00"
   }
 }
