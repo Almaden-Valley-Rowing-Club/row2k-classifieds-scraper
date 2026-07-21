@@ -1,10 +1,4 @@
 {
-  "39603": {
-    "title": "Maas Aero  $950",
-    "location": "El Cerrito, CA (US)",
-    "date": "July 10, 2026",
-    "first_seen": "2026-07-10T22:00:56.333176+00:00"
-  },
   "38972": {
     "title": "2000 Empacher 1x  6k OBO",
     "location": "VA (US)",
@@ -298,5 +292,11 @@
     "location": "Indianapolis, IN (US)",
     "date": "July 20, 2026",
     "first_seen": "2026-07-20T23:45:49.359643+00:00"
+  },
+  "40720": {
+    "title": "Van Duesen Lightweight Women\u2019s Single",
+    "location": "NEW HAVEN, CT (US)",
+    "date": "July 21, 2026",
+    "first_seen": "2026-07-21T12:18:26.961529+00:00"
   }
 }
