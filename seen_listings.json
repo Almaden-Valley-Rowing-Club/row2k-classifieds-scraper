@@ -1,28 +1,4 @@
 {
-  "38972": {
-    "title": "2000 Empacher 1x  6k OBO",
-    "location": "VA (US)",
-    "date": "July 12, 2026",
-    "first_seen": "2026-07-12T14:22:30.266555+00:00"
-  },
-  "39611": {
-    "title": "2000 Hudson Elite 1x",
-    "location": "Long Beach, CA (US)",
-    "date": "July 11, 2026",
-    "first_seen": "2026-07-12T14:22:30.266555+00:00"
-  },
-  "39614": {
-    "title": "Maas Carbon 24",
-    "location": "Port Townsend, WA (US)",
-    "date": "July 12, 2026",
-    "first_seen": "2026-07-12T17:50:25.804639+00:00"
-  },
-  "39612": {
-    "title": "Durham Boat Company FISA Carbon 1x Single (NJ)",
-    "location": "Hoboken, NJ (US)",
-    "date": "July 12, 2026",
-    "first_seen": "2026-07-12T17:50:25.804639+00:00"
-  },
   "39615": {
     "title": "2025 Filippi F44 Carbon Aliante Like New",
     "location": "Belmont, MI (US)",
@@ -298,5 +274,29 @@
     "location": "NEW HAVEN, CT (US)",
     "date": "July 21, 2026",
     "first_seen": "2026-07-21T12:18:26.961529+00:00"
+  },
+  "39091": {
+    "title": "2012 Filippi F25 4- 198lbs avg.: $12,999",
+    "location": "Philadelphia, PA (US)",
+    "date": "July 21, 2026",
+    "first_seen": "2026-07-21T14:54:38.391486+00:00"
+  },
+  "39090": {
+    "title": "2017 Filippi F49 8+: $22,999",
+    "location": "Philadelphia, PA (US)",
+    "date": "July 21, 2026",
+    "first_seen": "2026-07-21T14:54:38.391486+00:00"
+  },
+  "39089": {
+    "title": "2012 Filippi F25 4X 191lbs avg.: $12,999",
+    "location": "Philadelphia, PA (US)",
+    "date": "July 21, 2026",
+    "first_seen": "2026-07-21T14:54:38.391486+00:00"
+  },
+  "39088": {
+    "title": "2011 Filippi F17 2- 198lbs avg.: $8,499",
+    "location": "Philadelphia, PA (US)",
+    "date": "July 21, 2026",
+    "first_seen": "2026-07-21T14:54:38.391486+00:00"
   }
 }
