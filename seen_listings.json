@@ -1,16 +1,4 @@
 {
-  "39631": {
-    "title": "1978 Garafalo Single",
-    "location": "Pawcatuck, (US)",
-    "date": "July 13, 2026",
-    "first_seen": "2026-07-13T20:48:07.926053+00:00"
-  },
-  "39639": {
-    "title": "2017 Vespoli Midweight Matrix 24 Single $8000",
-    "location": "Lake Lure, NC (US)",
-    "date": "July 14, 2026",
-    "first_seen": "2026-07-14T13:05:30.488160+00:00"
-  },
   "39638": {
     "title": "15' Heritage Rower",
     "location": "Davis, CA (US)",
@@ -298,5 +286,17 @@
     "location": "Winnetka, IL (US)",
     "date": "July 22, 2026",
     "first_seen": "2026-07-22T20:05:33.725324+00:00"
+  },
+  "40752": {
+    "title": "Hudson USP 2X",
+    "location": "Surrey, BC (CA)",
+    "date": "July 22, 2026",
+    "first_seen": "2026-07-22T21:55:43.993534+00:00"
+  },
+  "40750": {
+    "title": "Alden Ocean Shell",
+    "location": "Coventry, CT (US)",
+    "date": "July 22, 2026",
+    "first_seen": "2026-07-22T21:55:43.993534+00:00"
   }
 }
