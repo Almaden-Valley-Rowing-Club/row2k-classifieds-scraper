@@ -1,10 +1,4 @@
 {
-  "39624": {
-    "title": "Well traveled Guideboat for sale",
-    "location": "Tampa, FL (US)",
-    "date": "July 13, 2026",
-    "first_seen": "2026-07-13T14:02:58.247853+00:00"
-  },
   "39634": {
     "title": "2018 Small Pocock Core V8+ - $16,000 (Reduced Price) - Seattle, WA",
     "location": null,
@@ -298,5 +292,11 @@
     "location": "Philadelphia, PA (US)",
     "date": "July 21, 2026",
     "first_seen": "2026-07-22T12:20:47.128491+00:00"
+  },
+  "40746": {
+    "title": "Aero Maas 14 Fiberglass",
+    "location": "Yarmouth, ME (US)",
+    "date": "July 22, 2026",
+    "first_seen": "2026-07-22T18:00:54.082873+00:00"
   }
 }
