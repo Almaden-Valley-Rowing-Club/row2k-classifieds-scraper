@@ -1,10 +1,4 @@
 {
-  "39328": {
-    "title": "Used Pocock 8s and 4+ - Alabama fleet turnover",
-    "location": null,
-    "date": "July 14, 2026",
-    "first_seen": "2026-07-14T15:15:11.707811+00:00"
-  },
   "39646": {
     "title": "Kaschper LW 2x in need of paint job",
     "location": "NC (US)",
@@ -298,5 +292,11 @@
     "location": "Seattle, WA (US)",
     "date": "July 22, 2026",
     "first_seen": "2026-07-22T23:53:55.183636+00:00"
+  },
+  "40759": {
+    "title": "Wintech Medalist 1x for sale (Charlottesville, VA)",
+    "location": "Charlottesville, VA (US)",
+    "date": "July 23, 2026",
+    "first_seen": "2026-07-23T15:00:26.163255+00:00"
   }
 }
