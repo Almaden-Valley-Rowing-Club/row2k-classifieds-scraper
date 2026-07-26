@@ -1,10 +1,4 @@
 {
-  "40689": {
-    "title": "1994 Vespoli HW 4+",
-    "location": "NC (US)",
-    "date": "July 17, 2026",
-    "first_seen": "2026-07-17T20:50:36.893639+00:00"
-  },
   "40686": {
     "title": "2003 Vespoli Ultralite 8+",
     "location": "NC (US)",
@@ -298,5 +292,11 @@
     "location": "Oakmont, PA (US)",
     "date": "July 26, 2026",
     "first_seen": "2026-07-26T20:03:15.680673+00:00"
+  },
+  "40806": {
+    "title": "Pocock midweight 4+ with oars and coxbox",
+    "location": "Saratoga Springs, NY (US)",
+    "date": "July 26, 2026",
+    "first_seen": "2026-07-26T23:51:34.722463+00:00"
   }
 }
