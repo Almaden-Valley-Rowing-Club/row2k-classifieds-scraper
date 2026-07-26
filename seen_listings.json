@@ -1,10 +1,4 @@
 {
-  "39395": {
-    "title": "2022 Filippi FT3 1X for sale",
-    "location": "Springfield, VA (US)",
-    "date": "July 16, 2026",
-    "first_seen": "2026-07-16T22:47:29.030912+00:00"
-  },
   "40685": {
     "title": "1997 Vespoli Advantage MW 4+",
     "location": "NC (US)",
@@ -298,5 +292,11 @@
     "location": "Cambridge, MA (US)",
     "date": "July 25, 2026",
     "first_seen": "2026-07-26T01:46:57.241749+00:00"
+  },
+  "40796": {
+    "title": "Double rowing shell",
+    "location": "Winter park, FL (US)",
+    "date": "July 26, 2026",
+    "first_seen": "2026-07-26T11:53:53.643100+00:00"
   }
 }
