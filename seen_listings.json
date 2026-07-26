@@ -1,16 +1,4 @@
 {
-  "39400": {
-    "title": "2021 WINTECH WindExplorer 24 Competitor Model",
-    "location": null,
-    "date": "July 17, 2026",
-    "first_seen": "2026-07-17T19:57:43.241250+00:00"
-  },
-  "40691": {
-    "title": "1985 Alden Rec 2x",
-    "location": "NC (US)",
-    "date": "July 17, 2026",
-    "first_seen": "2026-07-17T20:50:36.893639+00:00"
-  },
   "40689": {
     "title": "1994 Vespoli HW 4+",
     "location": "NC (US)",
@@ -298,5 +286,17 @@
     "location": "Lower Gwynedd, PA (US)",
     "date": "July 26, 2026",
     "first_seen": "2026-07-26T14:24:32.578400+00:00"
+  },
+  "40803": {
+    "title": "Single EXO 24 racing shell",
+    "location": "Chestermere , AB (CA)",
+    "date": "July 26, 2026",
+    "first_seen": "2026-07-26T20:03:15.680673+00:00"
+  },
+  "40802": {
+    "title": "2024 double Adirondack Series Wherry",
+    "location": "Oakmont, PA (US)",
+    "date": "July 26, 2026",
+    "first_seen": "2026-07-26T20:03:15.680673+00:00"
   }
 }
