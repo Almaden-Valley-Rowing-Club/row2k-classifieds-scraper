@@ -1,16 +1,4 @@
 {
-  "40695": {
-    "title": "Rowing Dory  Nordic Explorer single",
-    "location": "West Yarmouth, MA (US)",
-    "date": "July 18, 2026",
-    "first_seen": "2026-07-19T01:41:30.733067+00:00"
-  },
-  "39074": {
-    "title": "1982 Kaschper  1X midweight shell #82-132 $1,500",
-    "location": "Dunkirk, NY (US)",
-    "date": "July 19, 2026",
-    "first_seen": "2026-07-19T16:43:14.448224+00:00"
-  },
   "40704": {
     "title": "Sykes single",
     "location": "Chesapeake, VA (US)",
@@ -298,5 +286,17 @@
     "location": "Milwaukee, WI (US)",
     "date": "July 26, 2026",
     "first_seen": "2026-07-27T01:53:59.991114+00:00"
+  },
+  "40819": {
+    "title": "Alden Double",
+    "location": "Nahant, MA (US)",
+    "date": "July 27, 2026",
+    "first_seen": "2026-07-27T15:36:06.437358+00:00"
+  },
+  "40811": {
+    "title": "Eights, Fours, Double available to trade for singles",
+    "location": "Middlebury, VT (US)",
+    "date": "July 26, 2026",
+    "first_seen": "2026-07-27T15:36:06.437358+00:00"
   }
 }
