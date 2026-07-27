@@ -1,16 +1,4 @@
 {
-  "40713": {
-    "title": "Wooden Merry Wherry for Sale",
-    "location": "Boston, MA (US)",
-    "date": "July 20, 2026",
-    "first_seen": "2026-07-20T17:20:23.505674+00:00"
-  },
-  "40711": {
-    "title": "BBG 70KG Single",
-    "location": "Nottingham, NH (US)",
-    "date": "July 20, 2026",
-    "first_seen": "2026-07-20T17:20:23.505674+00:00"
-  },
   "40715": {
     "title": "2014 Hudson MWT 1x (S1.21 Super Predator) \u2013 Complete Racing Package \u2013 Excellent Condition \u2013 $9,950 OBO",
     "location": "Port Orange, FL (US)",
@@ -298,5 +286,17 @@
     "location": "Hartford, CT (USA)",
     "date": "July 27, 2026",
     "first_seen": "2026-07-27T19:10:35.815843+00:00"
+  },
+  "40829": {
+    "title": "Hudson Elete Single Mid-Weight 2001 Complete Package",
+    "location": "Ann Arbor, MI (US)",
+    "date": "July 27, 2026",
+    "first_seen": "2026-07-27T22:50:42.959320+00:00"
+  },
+  "39449": {
+    "title": "Van Dusen Midweight/Hwt 2X $6000",
+    "location": "Craftsbury Common, VT (US)",
+    "date": "July 27, 2026",
+    "first_seen": "2026-07-27T22:50:42.959320+00:00"
   }
 }
