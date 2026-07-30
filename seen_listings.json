@@ -1,10 +1,4 @@
 {
-  "40741": {
-    "title": "Vespoli V1 Midweight 8+",
-    "location": "Springfield, MA (US)",
-    "date": "July 22, 2026",
-    "first_seen": "2026-07-22T12:20:47.128491+00:00"
-  },
   "40739": {
     "title": "Empacher 4x - R40- 72Kg 2014",
     "location": "Philadelphia, PA (US)",
@@ -298,5 +292,11 @@
     "location": "Klamath Falls, OR (US)",
     "date": "July 29, 2026",
     "first_seen": "2026-07-30T04:46:49.729794+00:00"
+  },
+  "40862": {
+    "title": "8+ for sale",
+    "location": "SC (US)",
+    "date": "July 30, 2026",
+    "first_seen": "2026-07-30T19:07:29.081657+00:00"
   }
 }
