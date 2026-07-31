@@ -1,16 +1,4 @@
 {
-  "40746": {
-    "title": "Aero Maas 14 Fiberglass",
-    "location": "Yarmouth, ME (US)",
-    "date": "July 22, 2026",
-    "first_seen": "2026-07-22T18:00:54.082873+00:00"
-  },
-  "40747": {
-    "title": "Whitehall Solo 14 Skulling Rowboat, Trailer & Cover - Used Only 5x",
-    "location": "Winnetka, IL (US)",
-    "date": "July 22, 2026",
-    "first_seen": "2026-07-22T20:05:33.725324+00:00"
-  },
   "40752": {
     "title": "Hudson USP 2X",
     "location": "Surrey, BC (CA)",
@@ -298,5 +286,17 @@
     "location": "Charlottesville, VA (US)",
     "date": "July 30, 2026",
     "first_seen": "2026-07-30T21:58:18.752472+00:00"
+  },
+  "40869": {
+    "title": "Vintage 4 man crew boat",
+    "location": "Riverview, FL (US)",
+    "date": "July 30, 2026",
+    "first_seen": "2026-07-31T05:23:52.770398+00:00"
+  },
+  "40868": {
+    "title": "Vintage Laser Shell Recreational Rowing Boat",
+    "location": "White Lake, MI (US)",
+    "date": "July 30, 2026",
+    "first_seen": "2026-07-31T05:23:52.770398+00:00"
   }
 }
