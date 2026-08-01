@@ -1,10 +1,4 @@
 {
-  "40774": {
-    "title": "Van Dosen single skull needs wrapping",
-    "location": "Amherst, NH (US)",
-    "date": "July 24, 2026",
-    "first_seen": "2026-07-24T18:10:05.354164+00:00"
-  },
   "39148": {
     "title": "Kaschper Elite 8+ Midweight for sale",
     "location": "Collingwood, ON (CA)",
@@ -298,5 +292,11 @@
     "location": "Nokomis, FL (US)",
     "date": "July 31, 2026",
     "first_seen": "2026-08-01T17:51:28.288098+00:00"
+  },
+  "39208": {
+    "title": "Restored  Antique Thames River Skiff",
+    "location": "Westminster, VT (US)",
+    "date": "August 1, 2026",
+    "first_seen": "2026-08-01T20:04:20.359249+00:00"
   }
 }
