@@ -1,10 +1,4 @@
 {
-  "40763": {
-    "title": "2013 fluid 7500 obo",
-    "location": "Nokomis, FL (US)",
-    "date": "July 23, 2026",
-    "first_seen": "2026-07-23T17:08:15.332238+00:00"
-  },
   "40767": {
     "title": "Sykes Midweight Single",
     "location": "Yarmouth, ME (United States)",
@@ -298,5 +292,11 @@
     "location": "Hopewell Junction, NY (US)",
     "date": "August 1, 2026",
     "first_seen": "2026-08-01T14:21:21.110701+00:00"
+  },
+  "40883": {
+    "title": "2008 Hudson Great White Predator HW 1x \u2013 $3,900 \u2013 Tempe AZ",
+    "location": "SCOTTSDALE, AZ (US)",
+    "date": "August 1, 2026",
+    "first_seen": "2026-08-01T16:46:47.799303+00:00"
   }
 }
