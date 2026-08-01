@@ -1,10 +1,4 @@
 {
-  "40759": {
-    "title": "Wintech Medalist 1x for sale (Charlottesville, VA)",
-    "location": "Charlottesville, VA (US)",
-    "date": "July 23, 2026",
-    "first_seen": "2026-07-23T15:00:26.163255+00:00"
-  },
   "40763": {
     "title": "2013 fluid 7500 obo",
     "location": "Nokomis, FL (US)",
@@ -298,5 +292,11 @@
     "location": "Waterville, ME (US)",
     "date": "July 31, 2026",
     "first_seen": "2026-08-01T05:17:01.494878+00:00"
+  },
+  "39247": {
+    "title": "Two 4+ Boats- Heavyweight Vespoli, Lightweight Kaschper",
+    "location": "Hopewell Junction, NY (US)",
+    "date": "August 1, 2026",
+    "first_seen": "2026-08-01T14:21:21.110701+00:00"
   }
 }
