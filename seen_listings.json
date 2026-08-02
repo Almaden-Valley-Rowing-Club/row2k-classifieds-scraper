@@ -1,22 +1,4 @@
 {
-  "39148": {
-    "title": "Kaschper Elite 8+ Midweight for sale",
-    "location": "Collingwood, ON (CA)",
-    "date": "July 24, 2026",
-    "first_seen": "2026-07-24T18:10:05.354164+00:00"
-  },
-  "40786": {
-    "title": "Kashper Extreme four - 2010",
-    "location": "Middlebury, VT (US)",
-    "date": "July 24, 2026",
-    "first_seen": "2026-07-25T04:55:34.438260+00:00"
-  },
-  "40784": {
-    "title": "Resolute Fours - 2003",
-    "location": "Middlebury, VT (US)",
-    "date": "July 24, 2026",
-    "first_seen": "2026-07-25T04:55:34.438260+00:00"
-  },
   "40783": {
     "title": "Filippi F49 eight - 2017",
     "location": "Middlebury, VT (US)",
@@ -298,5 +280,23 @@
     "location": "Westminster, VT (US)",
     "date": "August 1, 2026",
     "first_seen": "2026-08-01T20:04:20.359249+00:00"
+  },
+  "40889": {
+    "title": "2005 Pienert 26",
+    "location": "Arlington, MA (US)",
+    "date": "August 1, 2026",
+    "first_seen": "2026-08-02T08:03:30.117508+00:00"
+  },
+  "40888": {
+    "title": "Whitehall Tango 17",
+    "location": "Port Townsend, WA (US)",
+    "date": "August 1, 2026",
+    "first_seen": "2026-08-02T08:03:30.117508+00:00"
+  },
+  "40886": {
+    "title": "Classic collectors item rare Coffey single",
+    "location": "Asheville, NC (US)",
+    "date": "August 1, 2026",
+    "first_seen": "2026-08-02T08:03:30.117508+00:00"
   }
 }
