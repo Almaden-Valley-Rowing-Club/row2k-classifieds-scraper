@@ -1,10 +1,4 @@
 {
-  "40783": {
-    "title": "Filippi F49 eight - 2017",
-    "location": "Middlebury, VT (US)",
-    "date": "July 24, 2026",
-    "first_seen": "2026-07-25T04:55:34.438260+00:00"
-  },
   "40782": {
     "title": "Filippi F49 eight - 2019",
     "location": "Middlebury, VT (US)",
@@ -298,5 +292,11 @@
     "location": "Asheville, NC (US)",
     "date": "August 1, 2026",
     "first_seen": "2026-08-02T08:03:30.117508+00:00"
+  },
+  "40891": {
+    "title": "2014 Echo Rowing Shell (Classic)",
+    "location": "Cos Cob, CT (US)",
+    "date": "August 2, 2026",
+    "first_seen": "2026-08-02T14:24:40.853244+00:00"
   }
 }
