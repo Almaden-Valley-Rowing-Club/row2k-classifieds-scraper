@@ -1,10 +1,4 @@
 {
-  "40782": {
-    "title": "Filippi F49 eight - 2019",
-    "location": "Middlebury, VT (US)",
-    "date": "July 24, 2026",
-    "first_seen": "2026-07-25T04:55:34.438260+00:00"
-  },
   "40781": {
     "title": "King/Wintech SLW eight",
     "location": "Middlebury, VT (US)",
@@ -298,5 +292,11 @@
     "location": "Cos Cob, CT (US)",
     "date": "August 2, 2026",
     "first_seen": "2026-08-02T14:24:40.853244+00:00"
+  },
+  "40896": {
+    "title": "2026 Cambridge Racer 1x",
+    "location": "Orchard Park, NY (US)",
+    "date": "August 2, 2026",
+    "first_seen": "2026-08-03T01:48:33.835685+00:00"
   }
 }
