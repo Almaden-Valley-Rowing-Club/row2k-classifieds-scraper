@@ -1,16 +1,4 @@
 {
-  "40796": {
-    "title": "Double rowing shell",
-    "location": "Winter park, FL (US)",
-    "date": "July 26, 2026",
-    "first_seen": "2026-07-26T11:53:53.643100+00:00"
-  },
-  "39508": {
-    "title": "Nelo racing single",
-    "location": "Lower Gwynedd, PA (US)",
-    "date": "July 26, 2026",
-    "first_seen": "2026-07-26T14:24:32.578400+00:00"
-  },
   "40803": {
     "title": "Single EXO 24 racing shell",
     "location": "Chestermere , AB (CA)",
@@ -298,5 +286,17 @@
     "location": "Marietta, GA (US)",
     "date": "August 3, 2026",
     "first_seen": "2026-08-04T13:45:22.561903+00:00"
+  },
+  "40917": {
+    "title": "Pair Doubles",
+    "location": "Middlebury, VT (US)",
+    "date": "August 4, 2026",
+    "first_seen": "2026-08-04T22:02:28.176974+00:00"
+  },
+  "40915": {
+    "title": "Vespoli 8s and 4s For Sale",
+    "location": "Philadelphia, PA (US)",
+    "date": "August 4, 2026",
+    "first_seen": "2026-08-04T22:02:28.176974+00:00"
   }
 }
