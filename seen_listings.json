@@ -1,16 +1,4 @@
 {
-  "40806": {
-    "title": "Pocock midweight 4+ with oars and coxbox",
-    "location": "Saratoga Springs, NY (US)",
-    "date": "July 26, 2026",
-    "first_seen": "2026-07-26T23:51:34.722463+00:00"
-  },
-  "40807": {
-    "title": "Wooden Pocock Pair",
-    "location": "Milwaukee, WI (US)",
-    "date": "July 26, 2026",
-    "first_seen": "2026-07-27T01:53:59.991114+00:00"
-  },
   "40819": {
     "title": "Alden Double",
     "location": "Nahant, MA (US)",
@@ -298,5 +286,17 @@
     "location": "CA (US)",
     "date": "August 5, 2026",
     "first_seen": "2026-08-05T12:46:24.327894+00:00"
+  },
+  "40924": {
+    "title": "Rowing shell trailer for crew boats",
+    "location": "Westford, MA (US)",
+    "date": "August 5, 2026",
+    "first_seen": "2026-08-05T15:06:43.463816+00:00"
+  },
+  "40923": {
+    "title": "Rolling Shell Trailer 2-Axle with boats shown in photos",
+    "location": "Westford, MA (US)",
+    "date": "August 5, 2026",
+    "first_seen": "2026-08-05T15:06:43.463816+00:00"
   }
 }
