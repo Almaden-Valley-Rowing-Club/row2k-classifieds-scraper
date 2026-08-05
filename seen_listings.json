@@ -1,16 +1,4 @@
 {
-  "40803": {
-    "title": "Single EXO 24 racing shell",
-    "location": "Chestermere , AB (CA)",
-    "date": "July 26, 2026",
-    "first_seen": "2026-07-26T20:03:15.680673+00:00"
-  },
-  "40802": {
-    "title": "2024 double Adirondack Series Wherry",
-    "location": "Oakmont, PA (US)",
-    "date": "July 26, 2026",
-    "first_seen": "2026-07-26T20:03:15.680673+00:00"
-  },
   "40806": {
     "title": "Pocock midweight 4+ with oars and coxbox",
     "location": "Saratoga Springs, NY (US)",
@@ -298,5 +286,17 @@
     "location": "Philadelphia, PA (US)",
     "date": "August 4, 2026",
     "first_seen": "2026-08-04T22:02:28.176974+00:00"
+  },
+  "40922": {
+    "title": "Coreban Phoenix 14 Rowing SUP",
+    "location": "New Durham, NH (US)",
+    "date": "August 5, 2026",
+    "first_seen": "2026-08-05T12:46:24.327894+00:00"
+  },
+  "40921": {
+    "title": "Hudson single scull for sale",
+    "location": "CA (US)",
+    "date": "August 5, 2026",
+    "first_seen": "2026-08-05T12:46:24.327894+00:00"
   }
 }
