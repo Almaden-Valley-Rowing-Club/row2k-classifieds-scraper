@@ -1,16 +1,4 @@
 {
-  "40834": {
-    "title": "2008 Hudson Elite HW $5,000 (Tallahassee FL)",
-    "location": "Tallahassee, FL (US)",
-    "date": "July 28, 2026",
-    "first_seen": "2026-07-28T15:10:51.287950+00:00"
-  },
-  "40833": {
-    "title": "Resolute lightweight four",
-    "location": "Middlebury, VT (US)",
-    "date": "July 28, 2026",
-    "first_seen": "2026-07-28T15:10:51.287950+00:00"
-  },
   "40832": {
     "title": "Resolute midweight four",
     "location": "Middlebury, VT (US)",
@@ -298,5 +286,17 @@
     "location": "Arab, AL (US)",
     "date": "August 6, 2026",
     "first_seen": "2026-08-06T15:05:30.651344+00:00"
+  },
+  "40951": {
+    "title": "***NEW*** EDON TS-515!!",
+    "location": "Portland, OR (US)",
+    "date": "August 6, 2026",
+    "first_seen": "2026-08-06T23:48:31.189248+00:00"
+  },
+  "40947": {
+    "title": "Vespoli EM8+",
+    "location": null,
+    "date": "August 6, 2026",
+    "first_seen": "2026-08-06T23:48:31.189248+00:00"
   }
 }
