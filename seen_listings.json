@@ -1,10 +1,4 @@
 {
-  "39449": {
-    "title": "Van Dusen Midweight/Hwt 2X $6000",
-    "location": "Craftsbury Common, VT (US)",
-    "date": "July 27, 2026",
-    "first_seen": "2026-07-27T22:50:42.959320+00:00"
-  },
   "40834": {
     "title": "2008 Hudson Elite HW $5,000 (Tallahassee FL)",
     "location": "Tallahassee, FL (US)",
@@ -298,5 +292,11 @@
     "location": null,
     "date": "August 6, 2026",
     "first_seen": "2026-08-06T12:49:31.770079+00:00"
+  },
+  "39641": {
+    "title": "2001 Hudson Coxed 8+ Heavyweight\u2013 Huntsville, AL \u2013 $2,000 OBO",
+    "location": "Arab, AL (US)",
+    "date": "August 6, 2026",
+    "first_seen": "2026-08-06T15:05:30.651344+00:00"
   }
 }
