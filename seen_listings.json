@@ -1,10 +1,4 @@
 {
-  "40836": {
-    "title": "Fluid Mid-Weight 1x",
-    "location": "Venice, FL (US)",
-    "date": "July 28, 2026",
-    "first_seen": "2026-07-28T17:17:18.359478+00:00"
-  },
   "40848": {
     "title": "Lightweight kanghua single with oars, slings and car rack",
     "location": "Sarasota, FL (US)",
@@ -298,5 +292,11 @@
     "location": "Springfield, MA (US)",
     "date": "August 7, 2026",
     "first_seen": "2026-08-07T06:03:40.315559+00:00"
+  },
+  "39649": {
+    "title": "Empacher Eights and Fours, Heavyweight, Lightweight, Women",
+    "location": "Derby, CT (US)",
+    "date": "August 7, 2026",
+    "first_seen": "2026-08-07T10:41:27.850538+00:00"
   }
 }
