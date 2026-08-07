@@ -1,10 +1,4 @@
 {
-  "39537": {
-    "title": "Alden Ocean Shell 18ft (double or single) complete package",
-    "location": "Cambridge , MA",
-    "date": "July 29, 2026",
-    "first_seen": "2026-07-29T20:07:15.995983+00:00"
-  },
   "39496": {
     "title": "Nordic Explorer Sculling Boat",
     "location": "eden prairie, MN (US)",
@@ -298,5 +292,11 @@
     "location": "NEW CASTLE, IN (US)",
     "date": "August 7, 2026",
     "first_seen": "2026-08-07T15:42:57.755296+00:00"
+  },
+  "40959": {
+    "title": "Boat - Rowing Barge",
+    "location": "AZ (US)",
+    "date": "August 7, 2026",
+    "first_seen": "2026-08-07T18:38:14.075672+00:00"
   }
 }
