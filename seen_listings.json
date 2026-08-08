@@ -1,16 +1,4 @@
 {
-  "40850": {
-    "title": "Echo Open Water Shell",
-    "location": "atlanta, GA (US)",
-    "date": "July 29, 2026",
-    "first_seen": "2026-07-29T22:48:08.550771+00:00"
-  },
-  "40857": {
-    "title": "wherry double for sale",
-    "location": "Klamath Falls, OR (US)",
-    "date": "July 29, 2026",
-    "first_seen": "2026-07-30T04:46:49.729794+00:00"
-  },
   "40862": {
     "title": "8+ for sale",
     "location": "SC (US)",
@@ -298,5 +286,17 @@
     "location": "Carlsbad, CA",
     "date": "August 8, 2026",
     "first_seen": "2026-08-08T21:19:10.568000+00:00"
+  },
+  "40972": {
+    "title": "Free Pegasus open water 1x",
+    "location": "Nevada City, CA (US)",
+    "date": "August 8, 2026",
+    "first_seen": "2026-08-08T22:16:46.782470+00:00"
+  },
+  "40970": {
+    "title": "Lightweight Van Dusen Advantage 2-/2x 1995",
+    "location": "Nevada City, CA (US)",
+    "date": "August 8, 2026",
+    "first_seen": "2026-08-08T22:16:46.782470+00:00"
   }
 }
