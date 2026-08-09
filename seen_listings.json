@@ -1,10 +1,4 @@
 {
-  "40867": {
-    "title": "King Boatworks Custom Cedar Strip Double Rowing Shell",
-    "location": "Philadelphia, PA (US)",
-    "date": "July 30, 2026",
-    "first_seen": "2026-07-30T21:58:18.752472+00:00"
-  },
   "40865": {
     "title": "2007 WinTec Competitor single $2500.00",
     "location": "Charlottesville, VA (US)",
@@ -298,5 +292,11 @@
     "location": "Nevada City, CA (US)",
     "date": "August 8, 2026",
     "first_seen": "2026-08-08T23:17:20.007538+00:00"
+  },
+  "39449": {
+    "title": "Van Dusen Midweight/Hwt 2X $6000",
+    "location": "Craftsbury Common, VT (US)",
+    "date": "August 8, 2026",
+    "first_seen": "2026-08-09T02:56:30.817650+00:00"
   }
 }
