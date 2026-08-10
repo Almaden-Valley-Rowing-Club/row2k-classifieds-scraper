@@ -1,10 +1,4 @@
 {
-  "40865": {
-    "title": "2007 WinTec Competitor single $2500.00",
-    "location": "Charlottesville, VA (US)",
-    "date": "July 30, 2026",
-    "first_seen": "2026-07-30T21:58:18.752472+00:00"
-  },
   "40869": {
     "title": "Vintage 4 man crew boat",
     "location": "Riverview, FL (US)",
@@ -298,5 +292,11 @@
     "location": "Craftsbury Common, VT (US)",
     "date": "August 8, 2026",
     "first_seen": "2026-08-09T02:56:30.817650+00:00"
+  },
+  "40977": {
+    "title": "1987 Filippi Italia 1x 60kg/130lbs",
+    "location": "Boston, MA (US)",
+    "date": "August 10, 2026",
+    "first_seen": "2026-08-10T12:42:32.046903+00:00"
   }
 }
