@@ -1,10 +1,4 @@
 {
-  "40868": {
-    "title": "Vintage Laser Shell Recreational Rowing Boat",
-    "location": "White Lake, MI (US)",
-    "date": "July 30, 2026",
-    "first_seen": "2026-07-31T05:23:52.770398+00:00"
-  },
   "40878": {
     "title": "2020 Pocock 1x Pristine Condition, Minimal Use",
     "location": "Santee, CA (US)",
@@ -298,5 +292,11 @@
     "location": "Nanaimo, BC (CA)",
     "date": "August 10, 2026",
     "first_seen": "2026-08-10T17:42:24.377660+00:00"
+  },
+  "40983": {
+    "title": "Van Dusen 1995 Lightweight",
+    "location": "Charlottesville, VA (US)",
+    "date": "August 10, 2026",
+    "first_seen": "2026-08-10T18:40:59.013692+00:00"
   }
 }
