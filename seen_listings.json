@@ -1,10 +1,4 @@
 {
-  "40888": {
-    "title": "Whitehall Tango 17",
-    "location": "Port Townsend, WA (US)",
-    "date": "August 1, 2026",
-    "first_seen": "2026-08-02T08:03:30.117508+00:00"
-  },
   "40886": {
     "title": "Classic collectors item rare Coffey single",
     "location": "Asheville, NC (US)",
@@ -298,5 +292,11 @@
     "location": "Norwich, VT (US)",
     "date": "August 11, 2026",
     "first_seen": "2026-08-11T19:53:24.639494+00:00"
+  },
+  "41012": {
+    "title": "2013 Empacher R84 8+ FOR SALE",
+    "location": "NJ (US)",
+    "date": "August 11, 2026",
+    "first_seen": "2026-08-12T09:00:01.527570+00:00"
   }
 }
