@@ -1,16 +1,4 @@
 {
-  "40886": {
-    "title": "Classic collectors item rare Coffey single",
-    "location": "Asheville, NC (US)",
-    "date": "August 1, 2026",
-    "first_seen": "2026-08-02T08:03:30.117508+00:00"
-  },
-  "40891": {
-    "title": "2014 Echo Rowing Shell (Classic)",
-    "location": "Cos Cob, CT (US)",
-    "date": "August 2, 2026",
-    "first_seen": "2026-08-02T14:24:40.853244+00:00"
-  },
   "40896": {
     "title": "2026 Cambridge Racer 1x",
     "location": "Orchard Park, NY (US)",
@@ -298,5 +286,17 @@
     "location": "NJ (US)",
     "date": "August 11, 2026",
     "first_seen": "2026-08-12T09:00:01.527570+00:00"
+  },
+  "41013": {
+    "title": "2015 Resolute Intrepid 130-180 lb 1x with C2 Oars/Rack/Accessories - $7,900",
+    "location": "Orlando, FL (US)",
+    "date": "August 12, 2026",
+    "first_seen": "2026-08-12T15:49:26.998317+00:00"
+  },
+  "41011": {
+    "title": "2016 Hudson SP, excellent condition, 7500$ \"bundle\"",
+    "location": "Chicago, IL (US)",
+    "date": "August 11, 2026",
+    "first_seen": "2026-08-12T15:49:26.998317+00:00"
   }
 }
