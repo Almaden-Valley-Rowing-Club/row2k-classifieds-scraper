@@ -1,10 +1,4 @@
 {
-  "40897": {
-    "title": "8+ for sale",
-    "location": "SC (US)",
-    "date": "August 2, 2026",
-    "first_seen": "2026-08-03T05:30:36.867172+00:00"
-  },
   "39541": {
     "title": "Wintech White Medalist 1x",
     "location": "Norwalk, CT (US)",
@@ -298,5 +292,11 @@
     "location": "Los Gatos, CA (US)",
     "date": "August 12, 2026",
     "first_seen": "2026-08-12T19:55:23.047295+00:00"
+  },
+  "40719": {
+    "title": "2010 Filippi Ltwt 4x/- : $10,000",
+    "location": "Philadelphia, PA",
+    "date": "August 12, 2026",
+    "first_seen": "2026-08-12T23:28:48.822728+00:00"
   }
 }
