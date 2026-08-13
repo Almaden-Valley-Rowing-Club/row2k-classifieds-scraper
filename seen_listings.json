@@ -1,10 +1,4 @@
 {
-  "40908": {
-    "title": "SDRC Boats for Sale",
-    "location": "San Diego, CA (US)",
-    "date": "August 3, 2026",
-    "first_seen": "2026-08-04T13:45:22.561903+00:00"
-  },
   "40906": {
     "title": "2022 Filippi F44 1x 50-60kg",
     "location": "Cambridge, MA (US)",
@@ -298,5 +292,11 @@
     "location": "Shorewood, MN (US)",
     "date": "August 13, 2026",
     "first_seen": "2026-08-13T14:14:04.486531+00:00"
+  },
+  "41030": {
+    "title": "2017 Vespoli Matrix 26 (OEW00A717) \u2013 150\u2013180 lbs. Athlete",
+    "location": "Albany, NY (US)",
+    "date": "August 13, 2026",
+    "first_seen": "2026-08-13T18:46:07.264562+00:00"
   }
 }
