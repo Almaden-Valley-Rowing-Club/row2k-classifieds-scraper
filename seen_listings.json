@@ -1,10 +1,4 @@
 {
-  "39273": {
-    "title": "SELLING Wintech King 8",
-    "location": "Fairport, NY (US)",
-    "date": "August 4, 2026",
-    "first_seen": "2026-08-04T13:45:22.561903+00:00"
-  },
   "40908": {
     "title": "SDRC Boats for Sale",
     "location": "San Diego, CA (US)",
@@ -298,5 +292,11 @@
     "location": "Middlebury, VT (US)",
     "date": "August 13, 2026",
     "first_seen": "2026-08-13T12:43:10.678228+00:00"
+  },
+  "41029": {
+    "title": "LEO CX1 COASTAL ROWER",
+    "location": "Shorewood, MN (US)",
+    "date": "August 13, 2026",
+    "first_seen": "2026-08-13T14:14:04.486531+00:00"
   }
 }
