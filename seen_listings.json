@@ -1,10 +1,4 @@
 {
-  "40917": {
-    "title": "Pair Doubles",
-    "location": "Middlebury, VT (US)",
-    "date": "August 4, 2026",
-    "first_seen": "2026-08-04T22:02:28.176974+00:00"
-  },
   "40915": {
     "title": "Vespoli 8s and 4s For Sale",
     "location": "Philadelphia, PA (US)",
@@ -298,5 +292,11 @@
     "location": "Red Bank, NJ (US)",
     "date": "August 13, 2026",
     "first_seen": "2026-08-14T11:36:00.767419+00:00"
+  },
+  "40756": {
+    "title": "Classic Pocock wood single in California",
+    "location": "sacto, CA",
+    "date": "August 14, 2026",
+    "first_seen": "2026-08-14T15:40:41.616782+00:00"
   }
 }
