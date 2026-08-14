@@ -1,10 +1,4 @@
 {
-  "40904": {
-    "title": "Peinert 26, 2013",
-    "location": "Marietta, GA (US)",
-    "date": "August 3, 2026",
-    "first_seen": "2026-08-04T13:45:22.561903+00:00"
-  },
   "40917": {
     "title": "Pair Doubles",
     "location": "Middlebury, VT (US)",
@@ -298,5 +292,11 @@
     "location": "Middletown, DE (US)",
     "date": "August 13, 2026",
     "first_seen": "2026-08-13T22:30:05.542136+00:00"
+  },
+  "41034": {
+    "title": "2008 Hudson carbon 1x Great White Predator",
+    "location": "Red Bank, NJ (US)",
+    "date": "August 13, 2026",
+    "first_seen": "2026-08-14T11:36:00.767419+00:00"
   }
 }
