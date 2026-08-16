@@ -1,10 +1,4 @@
 {
-  "40921": {
-    "title": "Hudson single scull for sale",
-    "location": "CA (US)",
-    "date": "August 5, 2026",
-    "first_seen": "2026-08-05T12:46:24.327894+00:00"
-  },
   "40924": {
     "title": "Rowing shell trailer for crew boats",
     "location": "Westford, MA (US)",
@@ -298,5 +292,11 @@
     "location": "Tacoma, WA (US)",
     "date": "August 16, 2026",
     "first_seen": "2026-08-16T12:17:11.770405+00:00"
+  },
+  "40767": {
+    "title": "Sykes Midweight Single",
+    "location": "Yarmouth, ME (United States)",
+    "date": "August 16, 2026",
+    "first_seen": "2026-08-16T18:12:38.232156+00:00"
   }
 }
