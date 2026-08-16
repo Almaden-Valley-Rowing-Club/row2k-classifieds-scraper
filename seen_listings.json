@@ -1,10 +1,4 @@
 {
-  "40924": {
-    "title": "Rowing shell trailer for crew boats",
-    "location": "Westford, MA (US)",
-    "date": "August 5, 2026",
-    "first_seen": "2026-08-05T15:06:43.463816+00:00"
-  },
   "40923": {
     "title": "Rolling Shell Trailer 2-Axle with boats shown in photos",
     "location": "Westford, MA (US)",
@@ -298,5 +292,11 @@
     "location": "Yarmouth, ME (United States)",
     "date": "August 16, 2026",
     "first_seen": "2026-08-16T18:12:38.232156+00:00"
+  },
+  "40792": {
+    "title": "2016 Lightweight Fluid Elite 1x",
+    "location": "San Rafael, CA (US)",
+    "date": "August 16, 2026",
+    "first_seen": "2026-08-16T20:09:47.096144+00:00"
   }
 }
