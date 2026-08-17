@@ -1,10 +1,4 @@
 {
-  "40923": {
-    "title": "Rolling Shell Trailer 2-Axle with boats shown in photos",
-    "location": "Westford, MA (US)",
-    "date": "August 5, 2026",
-    "first_seen": "2026-08-05T15:06:43.463816+00:00"
-  },
   "40928": {
     "title": "NELO 1X75kg midweight racing shell/ Custom paint/decals",
     "location": "Doylestown, PA (US)",
@@ -298,5 +292,11 @@
     "location": "San Rafael, CA (US)",
     "date": "August 16, 2026",
     "first_seen": "2026-08-16T20:09:47.096144+00:00"
+  },
+  "40728": {
+    "title": "1995 Owen Single $1600",
+    "location": "Bernardston, MA (US)",
+    "date": "August 17, 2026",
+    "first_seen": "2026-08-17T08:30:01.660555+00:00"
   }
 }
