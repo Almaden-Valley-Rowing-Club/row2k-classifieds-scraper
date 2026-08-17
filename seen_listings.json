@@ -1,16 +1,4 @@
 {
-  "40951": {
-    "title": "***NEW*** EDON TS-515!!",
-    "location": "Portland, OR (US)",
-    "date": "August 6, 2026",
-    "first_seen": "2026-08-06T23:48:31.189248+00:00"
-  },
-  "40947": {
-    "title": "Vespoli EM8+",
-    "location": null,
-    "date": "August 6, 2026",
-    "first_seen": "2026-08-06T23:48:31.189248+00:00"
-  },
   "40741": {
     "title": "Vespoli V1 Midweight 8+",
     "location": "Springfield, MA (US)",
@@ -298,5 +286,17 @@
     "location": "Hull, MA (US)",
     "date": "August 17, 2026",
     "first_seen": "2026-08-17T21:15:25.746228+00:00"
+  },
+  "41071": {
+    "title": "Old School Scull",
+    "location": "Tampa, FL (US)",
+    "date": "August 17, 2026",
+    "first_seen": "2026-08-17T22:12:42.089953+00:00"
+  },
+  "41070": {
+    "title": "Little River Guideboat",
+    "location": "Tampa, FL (US)",
+    "date": "August 17, 2026",
+    "first_seen": "2026-08-17T22:12:42.089953+00:00"
   }
 }
