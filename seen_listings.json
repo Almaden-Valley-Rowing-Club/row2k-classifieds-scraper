@@ -1,10 +1,4 @@
 {
-  "40969": {
-    "title": "Maas Areo Classic 1x",
-    "location": "keene, NH (US)",
-    "date": "August 8, 2026",
-    "first_seen": "2026-08-08T21:19:10.568000+00:00"
-  },
   "40968": {
     "title": "Echo Islander, used twice, great price!",
     "location": "Carlsbad, CA",
@@ -298,5 +292,11 @@
     "location": "Thomaston , ME (US)",
     "date": "August 18, 2026",
     "first_seen": "2026-08-18T16:18:36.843814+00:00"
+  },
+  "40796": {
+    "title": "Double rowing shell",
+    "location": "Winter park, FL (US)",
+    "date": "August 18, 2026",
+    "first_seen": "2026-08-18T17:17:25.119786+00:00"
   }
 }
