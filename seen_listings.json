@@ -1,22 +1,4 @@
 {
-  "40959": {
-    "title": "Boat - Rowing Barge",
-    "location": "AZ (US)",
-    "date": "August 7, 2026",
-    "first_seen": "2026-08-07T18:38:14.075672+00:00"
-  },
-  "40963": {
-    "title": "Maas Classic Aero",
-    "location": "VICTORIA, BC (CA)",
-    "date": "August 7, 2026",
-    "first_seen": "2026-08-08T00:49:39.016936+00:00"
-  },
-  "40795": {
-    "title": "2003 Vespoli 8+s - 2 available. Best offer",
-    "location": "Indianapolis, IN (US)",
-    "date": "August 8, 2026",
-    "first_seen": "2026-08-08T14:22:07.814638+00:00"
-  },
   "40969": {
     "title": "Maas Areo Classic 1x",
     "location": "keene, NH (US)",
@@ -298,5 +280,23 @@
     "location": "Saratoga Springs, NY (US)",
     "date": "August 18, 2026",
     "first_seen": "2026-08-18T12:22:09.218456+00:00"
+  },
+  "41075": {
+    "title": "2015 Vespoli VHP 55 8+ - $19,500",
+    "location": "Norwalk, CT (US)",
+    "date": "August 18, 2026",
+    "first_seen": "2026-08-18T16:18:36.843814+00:00"
+  },
+  "41074": {
+    "title": "2013 Vespoli ES 8+ - $12,000 OBO",
+    "location": "Norwalk, CT (US)",
+    "date": "August 18, 2026",
+    "first_seen": "2026-08-18T16:18:36.843814+00:00"
+  },
+  "40932": {
+    "title": "80's Mens Lightweight Kaschper 1x",
+    "location": "Thomaston , ME (US)",
+    "date": "August 18, 2026",
+    "first_seen": "2026-08-18T16:18:36.843814+00:00"
   }
 }
