@@ -1,10 +1,4 @@
 {
-  "40968": {
-    "title": "Echo Islander, used twice, great price!",
-    "location": "Carlsbad, CA",
-    "date": "August 8, 2026",
-    "first_seen": "2026-08-08T21:19:10.568000+00:00"
-  },
   "40972": {
     "title": "Free Pegasus open water 1x",
     "location": "Nevada City, CA (US)",
@@ -298,5 +292,11 @@
     "location": "Winter park, FL (US)",
     "date": "August 18, 2026",
     "first_seen": "2026-08-18T17:17:25.119786+00:00"
+  },
+  "41079": {
+    "title": "Old Fibreglass Kaschper 2x",
+    "location": "Nanaimo, BC (CA)",
+    "date": "August 18, 2026",
+    "first_seen": "2026-08-18T20:10:56.109302+00:00"
   }
 }
