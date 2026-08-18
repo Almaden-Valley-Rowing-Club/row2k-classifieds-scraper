@@ -1,10 +1,4 @@
 {
-  "39649": {
-    "title": "Empacher Eights and Fours, Heavyweight, Lightweight, Women",
-    "location": "Derby, CT (US)",
-    "date": "August 7, 2026",
-    "first_seen": "2026-08-07T10:41:27.850538+00:00"
-  },
   "39310": {
     "title": "Shell for Sale",
     "location": "NEW CASTLE, IN (US)",
@@ -298,5 +292,11 @@
     "location": "San Diego, CA (US)",
     "date": "August 17, 2026",
     "first_seen": "2026-08-18T00:36:22.402707+00:00"
+  },
+  "41072": {
+    "title": "16' Alden",
+    "location": "Wilmington, NC (US)",
+    "date": "August 17, 2026",
+    "first_seen": "2026-08-18T02:08:33.971680+00:00"
   }
 }
