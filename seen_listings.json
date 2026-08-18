@@ -1,10 +1,4 @@
 {
-  "40741": {
-    "title": "Vespoli V1 Midweight 8+",
-    "location": "Springfield, MA (US)",
-    "date": "August 7, 2026",
-    "first_seen": "2026-08-07T06:03:40.315559+00:00"
-  },
   "39649": {
     "title": "Empacher Eights and Fours, Heavyweight, Lightweight, Women",
     "location": "Derby, CT (US)",
@@ -298,5 +292,11 @@
     "location": "Tampa, FL (US)",
     "date": "August 17, 2026",
     "first_seen": "2026-08-17T22:12:42.089953+00:00"
+  },
+  "41073": {
+    "title": "2015 Filippi F44 Carbon Wing Rigor (Women\u2019s lightweight hull)",
+    "location": "San Diego, CA (US)",
+    "date": "August 17, 2026",
+    "first_seen": "2026-08-18T00:36:22.402707+00:00"
   }
 }
