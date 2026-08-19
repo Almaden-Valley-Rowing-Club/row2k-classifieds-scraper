@@ -1,22 +1,4 @@
 {
-  "40977": {
-    "title": "1987 Filippi Italia 1x 60kg/130lbs",
-    "location": "Boston, MA (US)",
-    "date": "August 10, 2026",
-    "first_seen": "2026-08-10T12:42:32.046903+00:00"
-  },
-  "40981": {
-    "title": "Peinert 26 Single 1x",
-    "location": "Nanaimo, BC (CA)",
-    "date": "August 10, 2026",
-    "first_seen": "2026-08-10T17:42:24.377660+00:00"
-  },
-  "40983": {
-    "title": "Van Dusen 1995 Lightweight",
-    "location": "Charlottesville, VA (US)",
-    "date": "August 10, 2026",
-    "first_seen": "2026-08-10T18:40:59.013692+00:00"
-  },
   "40985": {
     "title": "2010 Gig Harbor jersey Skiff",
     "location": "Quincy, CA (US)",
@@ -298,5 +280,23 @@
     "location": "Cold Spring Harbor, NY (US)",
     "date": "August 18, 2026",
     "first_seen": "2026-08-19T00:36:30.900313+00:00"
+  },
+  "41087": {
+    "title": "Bay Shells Bay 21 Open Water Rowing Shell",
+    "location": "Tacoma, WA (US)",
+    "date": "August 19, 2026",
+    "first_seen": "2026-08-19T11:14:56.726087+00:00"
+  },
+  "41086": {
+    "title": "Edon TS515 single scull",
+    "location": "San Luis Obispo, CA (US)",
+    "date": "August 19, 2026",
+    "first_seen": "2026-08-19T11:14:56.726087+00:00"
+  },
+  "41085": {
+    "title": "Lite Boat LiteSport 1x",
+    "location": "San Luis Obispo, CA (US)",
+    "date": "August 19, 2026",
+    "first_seen": "2026-08-19T11:14:56.726087+00:00"
   }
 }
