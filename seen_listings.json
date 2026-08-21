@@ -1,10 +1,4 @@
 {
-  "41013": {
-    "title": "2015 Resolute Intrepid 130-180 lb 1x with C2 Oars/Rack/Accessories - $7,900",
-    "location": "Orlando, FL (US)",
-    "date": "August 12, 2026",
-    "first_seen": "2026-08-12T15:49:26.998317+00:00"
-  },
   "41011": {
     "title": "2016 Hudson SP, excellent condition, 7500$ \"bundle\"",
     "location": "Chicago, IL (US)",
@@ -298,5 +292,11 @@
     "location": "San Diego, CA (US)",
     "date": "August 20, 2026",
     "first_seen": "2026-08-20T21:17:31.394836+00:00"
+  },
+  "41110": {
+    "title": "Unspecified Rowing Shell - maybe a maas aero?",
+    "location": "Tacoma, WA (US)",
+    "date": "August 20, 2026",
+    "first_seen": "2026-08-21T11:16:09.809822+00:00"
   }
 }
