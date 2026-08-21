@@ -1,10 +1,4 @@
 {
-  "41028": {
-    "title": "1996 Empacher 2x $2300",
-    "location": "Middlebury, VT (US)",
-    "date": "August 13, 2026",
-    "first_seen": "2026-08-13T12:43:10.678228+00:00"
-  },
   "41029": {
     "title": "LEO CX1 COASTAL ROWER",
     "location": "Shorewood, MN (US)",
@@ -298,5 +292,11 @@
     "location": "Annapolis, MD (US)",
     "date": "August 21, 2026",
     "first_seen": "2026-08-21T17:18:48.115943+00:00"
+  },
+  "41120": {
+    "title": "2016 X25 Peinert",
+    "location": "Harbor Springs, MI (US)",
+    "date": "August 21, 2026",
+    "first_seen": "2026-08-21T21:13:02.429467+00:00"
   }
 }
