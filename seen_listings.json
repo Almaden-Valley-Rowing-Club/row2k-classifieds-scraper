@@ -1,10 +1,4 @@
 {
-  "41029": {
-    "title": "LEO CX1 COASTAL ROWER",
-    "location": "Shorewood, MN (US)",
-    "date": "August 13, 2026",
-    "first_seen": "2026-08-13T14:14:04.486531+00:00"
-  },
   "41030": {
     "title": "2017 Vespoli Matrix 26 (OEW00A717) \u2013 150\u2013180 lbs. Athlete",
     "location": "Albany, NY (US)",
@@ -298,5 +292,11 @@
     "location": "Harbor Springs, MI (US)",
     "date": "August 21, 2026",
     "first_seen": "2026-08-21T21:13:02.429467+00:00"
+  },
+  "41127": {
+    "title": "2020 Carbon Maas Flyweight",
+    "location": "Harbor Springs, MI (US)",
+    "date": "August 22, 2026",
+    "first_seen": "2026-08-23T00:39:43.910053+00:00"
   }
 }
