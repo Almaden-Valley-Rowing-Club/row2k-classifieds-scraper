@@ -1,10 +1,4 @@
 {
-  "41063": {
-    "title": "Filippi F30 double",
-    "location": "Cambridge, MA (US)",
-    "date": "August 17, 2026",
-    "first_seen": "2026-08-17T19:19:19.883092+00:00"
-  },
   "41066": {
     "title": "WinTech Racing Coastal Boat 1x",
     "location": "Boulder, CO (US)",
@@ -298,5 +292,11 @@
     "location": "Portland , OR (US)",
     "date": "August 24, 2026",
     "first_seen": "2026-08-24T15:27:44.989189+00:00"
+  },
+  "40868": {
+    "title": "Vintage Laser Shell Recreational Rowing Boat",
+    "location": "White Lake, MI (US)",
+    "date": "August 24, 2026",
+    "first_seen": "2026-08-24T16:22:46.788796+00:00"
   }
 }
