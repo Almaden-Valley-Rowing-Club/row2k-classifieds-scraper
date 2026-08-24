@@ -1,10 +1,4 @@
 {
-  "41068": {
-    "title": "Next Boatworks  C1X Prophet",
-    "location": "Hull, MA (US)",
-    "date": "August 17, 2026",
-    "first_seen": "2026-08-17T21:15:25.746228+00:00"
-  },
   "41071": {
     "title": "Old School Scull",
     "location": "Tampa, FL (US)",
@@ -298,5 +292,11 @@
     "location": "Philadelphia, PA (US)",
     "date": "August 24, 2026",
     "first_seen": "2026-08-24T17:21:28.316489+00:00"
+  },
+  "40855": {
+    "title": "Empacher X87 8+",
+    "location": "Hamilton, NY (US)",
+    "date": "August 24, 2026",
+    "first_seen": "2026-08-24T18:23:08.985182+00:00"
   }
 }
