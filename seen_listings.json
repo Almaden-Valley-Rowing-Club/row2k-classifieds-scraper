@@ -1,16 +1,4 @@
 {
-  "41085": {
-    "title": "Lite Boat LiteSport 1x",
-    "location": "San Luis Obispo, CA (US)",
-    "date": "August 19, 2026",
-    "first_seen": "2026-08-19T11:14:56.726087+00:00"
-  },
-  "40819": {
-    "title": "Alden Double",
-    "location": "Nahant, MA (US)",
-    "date": "August 19, 2026",
-    "first_seen": "2026-08-19T14:22:09.367549+00:00"
-  },
   "41088": {
     "title": "MAJOR BOAT EQUIPMENT SALE (9 items)",
     "location": "Philadelphia, PA (US)",
@@ -298,5 +286,17 @@
     "location": "Candiac, QC (CA)",
     "date": "August 25, 2026",
     "first_seen": "2026-08-26T14:33:34.632851+00:00"
+  },
+  "41181": {
+    "title": "Levator Mahogany Single",
+    "location": "East Montpelier, VT (US)",
+    "date": "August 26, 2026",
+    "first_seen": "2026-08-26T18:48:25.456240+00:00"
+  },
+  "40908": {
+    "title": "SDRC Boats for Sale",
+    "location": "San Diego, CA (US)",
+    "date": "August 26, 2026",
+    "first_seen": "2026-08-26T18:48:25.456240+00:00"
   }
 }
