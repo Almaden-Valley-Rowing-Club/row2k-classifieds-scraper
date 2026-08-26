@@ -1,10 +1,4 @@
 {
-  "41080": {
-    "title": "Filippi single for sale",
-    "location": "DC (US)",
-    "date": "August 18, 2026",
-    "first_seen": "2026-08-18T21:12:44.379656+00:00"
-  },
   "41083": {
     "title": "Light/Mid Swift Double/Pair. $5000",
     "location": "YORK HAVEN, PA (US)",
@@ -298,5 +292,11 @@
     "location": "Old Bridge, NJ (US)",
     "date": "August 25, 2026",
     "first_seen": "2026-08-26T00:38:37.456620+00:00"
+  },
+  "41029": {
+    "title": "LEO CX1 COASTAL ROWER",
+    "location": "Shorewood, MN (US)",
+    "date": "August 26, 2026",
+    "first_seen": "2026-08-26T13:44:16.621807+00:00"
   }
 }
