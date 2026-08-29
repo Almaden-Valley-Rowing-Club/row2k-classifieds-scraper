@@ -1,10 +1,4 @@
 {
-  "41120": {
-    "title": "2016 X25 Peinert",
-    "location": "Harbor Springs, MI (US)",
-    "date": "August 21, 2026",
-    "first_seen": "2026-08-21T21:13:02.429467+00:00"
-  },
   "41127": {
     "title": "2020 Carbon Maas Flyweight",
     "location": "Harbor Springs, MI (US)",
@@ -298,5 +292,11 @@
     "location": "West Glover, VT (US)",
     "date": "August 28, 2026",
     "first_seen": "2026-08-29T02:34:49.109455+00:00"
+  },
+  "41216": {
+    "title": "Peinert 26 1x with C2 oars, covers, and roof rack",
+    "location": "North Andover, MA (US)",
+    "date": "August 29, 2026",
+    "first_seen": "2026-08-29T20:34:27.787588+00:00"
   }
 }
