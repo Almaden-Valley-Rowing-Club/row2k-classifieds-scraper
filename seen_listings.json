@@ -1,28 +1,4 @@
 {
-  "40868": {
-    "title": "Vintage Laser Shell Recreational Rowing Boat",
-    "location": "White Lake, MI (US)",
-    "date": "August 24, 2026",
-    "first_seen": "2026-08-24T16:22:46.788796+00:00"
-  },
-  "41155": {
-    "title": "2015 Hudson Super Predator MW 1x",
-    "location": "Philadelphia, PA (US)",
-    "date": "August 24, 2026",
-    "first_seen": "2026-08-24T17:21:28.316489+00:00"
-  },
-  "40855": {
-    "title": "Empacher X87 8+",
-    "location": "Hamilton, NY (US)",
-    "date": "August 24, 2026",
-    "first_seen": "2026-08-24T18:23:08.985182+00:00"
-  },
-  "41157": {
-    "title": "MAAS Rowing Shell",
-    "location": "RICHLAND, OR (US)",
-    "date": "August 24, 2026",
-    "first_seen": "2026-08-24T23:13:14.198743+00:00"
-  },
   "41156": {
     "title": "2020 WinTech International Mid-Weight (Colorado)",
     "location": "Lafayette, CO (US)",
@@ -298,5 +274,29 @@
     "location": "APPLETON, WI (US)",
     "date": "August 31, 2026",
     "first_seen": "2026-09-01T00:53:17.839340+00:00"
+  },
+  "41252": {
+    "title": "Vespoli Sectional 8 side mounted riggers",
+    "location": "DETROIT, MI (US)",
+    "date": "September 1, 2026",
+    "first_seen": "2026-09-01T15:17:27.541729+00:00"
+  },
+  "41251": {
+    "title": "Filippi Heavyweight 2x/- (185-205lbs)",
+    "location": "Lambertville, NJ (US)",
+    "date": "September 1, 2026",
+    "first_seen": "2026-09-01T15:17:27.541729+00:00"
+  },
+  "41248": {
+    "title": "WinTech Explorer 24 - Carbon & Excellent Condition",
+    "location": "Bellingham, WA (US)",
+    "date": "September 1, 2026",
+    "first_seen": "2026-09-01T15:17:27.541729+00:00"
+  },
+  "41247": {
+    "title": "Hudson 2005 Elite HW 1x",
+    "location": "Boston, MA",
+    "date": "September 1, 2026",
+    "first_seen": "2026-09-01T15:17:27.541729+00:00"
   }
 }
