@@ -1,16 +1,4 @@
 {
-  "41163": {
-    "title": "1991 Hudson Elite 70kg.",
-    "location": "Oakville, Ontario, ON (CA)",
-    "date": "August 25, 2026",
-    "first_seen": "2026-08-25T15:32:28.000421+00:00"
-  },
-  "41166": {
-    "title": "Bay 21",
-    "location": "Sequim, WA",
-    "date": "August 25, 2026",
-    "first_seen": "2026-08-25T18:22:22.110860+00:00"
-  },
   "41165": {
     "title": "Alden Appledore Pod 16",
     "location": "Crumpton, MD (US)",
@@ -298,5 +286,17 @@
     "location": "Cambridge, MA (US)",
     "date": "September 1, 2026",
     "first_seen": "2026-09-01T18:58:17.474547+00:00"
+  },
+  "40987": {
+    "title": "Whitehall Spirit Tango 17 \u2013 Complete Double Sliding-Seat Rowing + Electric Motor Package",
+    "location": "Gloucester, MA (US)",
+    "date": "September 2, 2026",
+    "first_seen": "2026-09-02T11:50:32.253525+00:00"
+  },
+  "41260": {
+    "title": "1989 SINGLE SCULL w/PIANTEDOSI OARS",
+    "location": "parsippany, NJ (US)",
+    "date": "September 1, 2026",
+    "first_seen": "2026-09-02T11:50:32.253525+00:00"
   }
 }
