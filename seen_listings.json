@@ -1,16 +1,4 @@
 {
-  "41172": {
-    "title": "Historic 43ft Pocock Shell Christened \"Edward G. Shmidheiser",
-    "location": "Old Bridge, NJ (US)",
-    "date": "August 25, 2026",
-    "first_seen": "2026-08-26T00:38:37.456620+00:00"
-  },
-  "41029": {
-    "title": "LEO CX1 COASTAL ROWER",
-    "location": "Shorewood, MN (US)",
-    "date": "August 26, 2026",
-    "first_seen": "2026-08-26T13:44:16.621807+00:00"
-  },
   "41178": {
     "title": "Hudson SP 5.21 4+ (2011) - $7,000",
     "location": "Washington, DC (US)",
@@ -298,5 +286,17 @@
     "location": "VA (US)",
     "date": "September 3, 2026",
     "first_seen": "2026-09-03T18:12:44.086753+00:00"
+  },
+  "41276": {
+    "title": "Maas 24 Sculling Boat",
+    "location": "QC (CA)",
+    "date": "September 3, 2026",
+    "first_seen": "2026-09-03T21:29:34.912115+00:00"
+  },
+  "40923": {
+    "title": "Crew boats free must pick up Westford Massachusetts",
+    "location": "Westford, MA (US)",
+    "date": "September 3, 2026",
+    "first_seen": "2026-09-03T21:29:34.912115+00:00"
   }
 }
