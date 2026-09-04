@@ -1,22 +1,4 @@
 {
-  "40908": {
-    "title": "SDRC Boats for Sale",
-    "location": "San Diego, CA (US)",
-    "date": "August 26, 2026",
-    "first_seen": "2026-08-26T18:48:25.456240+00:00"
-  },
-  "41184": {
-    "title": "Maas 24",
-    "location": "Nashua, NH (US)",
-    "date": "August 26, 2026",
-    "first_seen": "2026-08-27T02:23:16.922982+00:00"
-  },
-  "41190": {
-    "title": "Filippi F45 mid weight",
-    "location": "Westhampton, NY",
-    "date": "August 27, 2026",
-    "first_seen": "2026-08-27T23:20:24.217528+00:00"
-  },
   "41189": {
     "title": "Hudson 8+ for Sale",
     "location": "Ottawa, ON (CA)",
@@ -298,5 +280,23 @@
     "location": "Belmont, MI (US)",
     "date": "September 4, 2026",
     "first_seen": "2026-09-04T18:40:53.000744+00:00"
+  },
+  "41295": {
+    "title": "2023 Filippi F50 (75kg) For Sale",
+    "location": "Wayland, (US)",
+    "date": "September 4, 2026",
+    "first_seen": "2026-09-04T23:33:20.684026+00:00"
+  },
+  "41294": {
+    "title": "2013 Bay 21 with cover",
+    "location": "Sequim, WA",
+    "date": "September 4, 2026",
+    "first_seen": "2026-09-04T23:33:20.684026+00:00"
+  },
+  "41292": {
+    "title": "Vespoli EM8+ V1 (midweight 150-180lbs), wing rigged",
+    "location": "Lambertville, NJ (US)",
+    "date": "September 4, 2026",
+    "first_seen": "2026-09-04T23:33:20.684026+00:00"
   }
 }
