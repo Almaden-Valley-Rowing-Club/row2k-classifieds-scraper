@@ -1,22 +1,4 @@
 {
-  "41205": {
-    "title": "2016 Filippi F53 (55-70Kg) 4X/4-",
-    "location": "Brookline, MA (US)",
-    "date": "August 28, 2026",
-    "first_seen": "2026-08-28T19:45:15.835580+00:00"
-  },
-  "41204": {
-    "title": "Wooden Pocock Pair",
-    "location": "Milwaukee, WI (US)",
-    "date": "August 28, 2026",
-    "first_seen": "2026-08-28T19:45:15.835580+00:00"
-  },
-  "41203": {
-    "title": "2025 Fluidesign Elite Lightweight 1x",
-    "location": "Bernardston, MA (US)",
-    "date": "August 28, 2026",
-    "first_seen": "2026-08-28T19:45:15.835580+00:00"
-  },
   "41199": {
     "title": "2024 Glide Coastal Boat",
     "location": "Greensboro, (US)",
@@ -298,5 +280,23 @@
     "location": "JENSEN BEACH, FL (US)",
     "date": "September 5, 2026",
     "first_seen": "2026-09-05T17:00:01.417961+00:00"
+  },
+  "41303": {
+    "title": "2006 Little River Cambridge Shell",
+    "location": "Indianapolis, IN (US)",
+    "date": "September 5, 2026",
+    "first_seen": "2026-09-05T20:48:35.623576+00:00"
+  },
+  "41302": {
+    "title": "Classis Peinert Elite Single, cover, oars + slings",
+    "location": "Elkins, NH (US)",
+    "date": "September 5, 2026",
+    "first_seen": "2026-09-05T20:48:35.623576+00:00"
+  },
+  "41301": {
+    "title": "Maas 24",
+    "location": "The Villages, FL (US)",
+    "date": "September 5, 2026",
+    "first_seen": "2026-09-05T20:48:35.623576+00:00"
   }
 }
