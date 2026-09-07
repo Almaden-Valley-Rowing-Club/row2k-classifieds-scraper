@@ -1,16 +1,4 @@
 {
-  "40874": {
-    "title": "Vespoli EL V1 8+",
-    "location": "Milwaukee, WI (US)",
-    "date": "August 28, 2026",
-    "first_seen": "2026-08-28T19:45:15.835580+00:00"
-  },
-  "41211": {
-    "title": "Lightweight Filippi 1x and oars!",
-    "location": "Stuart, FL (US)",
-    "date": "August 28, 2026",
-    "first_seen": "2026-08-29T02:34:49.109455+00:00"
-  },
   "41209": {
     "title": "Resolute 8+s & 4+s, Pocock 8+, plus oars",
     "location": "San Diego, CA (US)",
@@ -298,5 +286,17 @@
     "location": "Kewadin , MI (US)",
     "date": "September 6, 2026",
     "first_seen": "2026-09-06T18:43:55.419751+00:00"
+  },
+  "41071": {
+    "title": "Old School Scull",
+    "location": "Tampa, FL (US)",
+    "date": "September 6, 2026",
+    "first_seen": "2026-09-07T05:26:09.287001+00:00"
+  },
+  "41070": {
+    "title": "Little River Guideboat",
+    "location": "Tampa, FL (US)",
+    "date": "September 6, 2026",
+    "first_seen": "2026-09-07T05:26:09.287001+00:00"
   }
 }
