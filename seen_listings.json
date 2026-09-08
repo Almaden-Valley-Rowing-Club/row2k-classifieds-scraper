@@ -1,16 +1,4 @@
 {
-  "41222": {
-    "title": "2020  Wintech elite-tier carbon-honeycomb 4x/4-",
-    "location": "Cooperstown, NY (US)",
-    "date": "August 30, 2026",
-    "first_seen": "2026-08-30T20:15:20.476412+00:00"
-  },
-  "40932": {
-    "title": "80's Mens Lightweight Kaschper 1x",
-    "location": "Thomaston , ME (US)",
-    "date": "August 30, 2026",
-    "first_seen": "2026-08-30T20:15:20.476412+00:00"
-  },
   "39496": {
     "title": "Nordic Explorer Sculling Boat",
     "location": "eden prairie, MN (US)",
@@ -298,5 +286,17 @@
     "location": "Derby, CT (US)",
     "date": "September 8, 2026",
     "first_seen": "2026-09-08T15:37:18.727365+00:00"
+  },
+  "41317": {
+    "title": "2011 Wintech Explorer 25 Single Scull",
+    "location": "Port Alberni, BC (CA)",
+    "date": "September 8, 2026",
+    "first_seen": "2026-09-08T19:06:56.361569+00:00"
+  },
+  "41316": {
+    "title": "$8,900 Mint Condition Pocock Single",
+    "location": "Santee, CA (US)",
+    "date": "September 8, 2026",
+    "first_seen": "2026-09-08T19:06:56.361569+00:00"
   }
 }
