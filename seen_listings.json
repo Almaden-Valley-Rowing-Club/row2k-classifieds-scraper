@@ -1,10 +1,4 @@
 {
-  "41238": {
-    "title": "2025 LwT Wintech Internation 1X",
-    "location": "New Canaan, CT (US)",
-    "date": "August 31, 2026",
-    "first_seen": "2026-09-01T00:53:17.839340+00:00"
-  },
   "41237": {
     "title": "Classic Hudson 1X",
     "location": "APPLETON, WI (US)",
@@ -298,5 +292,11 @@
     "location": "Saratoga Springs, NY (US)",
     "date": "September 9, 2026",
     "first_seen": "2026-09-09T21:21:28.988293+00:00"
+  },
+  "41333": {
+    "title": "2021 Touring Gig- 4+ or 5 sculling, 4+ Sweep",
+    "location": "WI (US)",
+    "date": "September 9, 2026",
+    "first_seen": "2026-09-09T23:39:01.408098+00:00"
   }
 }
