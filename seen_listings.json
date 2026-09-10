@@ -1,16 +1,4 @@
 {
-  "41248": {
-    "title": "WinTech Explorer 24 - Carbon & Excellent Condition",
-    "location": "Bellingham, WA (US)",
-    "date": "September 1, 2026",
-    "first_seen": "2026-09-01T15:17:27.541729+00:00"
-  },
-  "41247": {
-    "title": "Hudson 2005 Elite HW 1x",
-    "location": "Boston, MA",
-    "date": "September 1, 2026",
-    "first_seen": "2026-09-01T15:17:27.541729+00:00"
-  },
   "41256": {
     "title": "2011 Hudson Super Predator 1x (160-190 lbs)",
     "location": "Boston, MA",
@@ -298,5 +286,17 @@
     "location": "Davis, CA (US)",
     "date": "September 9, 2026",
     "first_seen": "2026-09-10T16:44:09.137865+00:00"
+  },
+  "41347": {
+    "title": "Van Dusen Wing Rigger Midweight 2x",
+    "location": "Craftsbury Common, VT (US)",
+    "date": "September 10, 2026",
+    "first_seen": "2026-09-10T19:19:53.508356+00:00"
+  },
+  "41346": {
+    "title": "COASTAL ROWER. LEO CX1",
+    "location": "Shorewood, MN (US)",
+    "date": "September 10, 2026",
+    "first_seen": "2026-09-10T19:19:53.508356+00:00"
   }
 }
