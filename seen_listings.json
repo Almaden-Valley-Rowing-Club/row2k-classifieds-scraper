@@ -1,10 +1,4 @@
 {
-  "41237": {
-    "title": "Classic Hudson 1X",
-    "location": "APPLETON, WI (US)",
-    "date": "August 31, 2026",
-    "first_seen": "2026-09-01T00:53:17.839340+00:00"
-  },
   "41252": {
     "title": "Vespoli Sectional 8 side mounted riggers",
     "location": "DETROIT, MI (US)",
@@ -298,5 +292,11 @@
     "location": "WI (US)",
     "date": "September 9, 2026",
     "first_seen": "2026-09-09T23:39:01.408098+00:00"
+  },
+  "41335": {
+    "title": "Van Dusen single 26'",
+    "location": "UNION HALL, VA (US)",
+    "date": "September 9, 2026",
+    "first_seen": "2026-09-10T02:00:14.813234+00:00"
   }
 }
