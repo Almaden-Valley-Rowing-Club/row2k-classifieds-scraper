@@ -1,16 +1,4 @@
 {
-  "41252": {
-    "title": "Vespoli Sectional 8 side mounted riggers",
-    "location": "DETROIT, MI (US)",
-    "date": "September 1, 2026",
-    "first_seen": "2026-09-01T15:17:27.541729+00:00"
-  },
-  "41251": {
-    "title": "Filippi Heavyweight 2x/- (185-205lbs)",
-    "location": "Lambertville, NJ (US)",
-    "date": "September 1, 2026",
-    "first_seen": "2026-09-01T15:17:27.541729+00:00"
-  },
   "41248": {
     "title": "WinTech Explorer 24 - Carbon & Excellent Condition",
     "location": "Bellingham, WA (US)",
@@ -298,5 +286,17 @@
     "location": "UNION HALL, VA (US)",
     "date": "September 9, 2026",
     "first_seen": "2026-09-10T02:00:14.813234+00:00"
+  },
+  "41345": {
+    "title": "Classic King 1x Scull",
+    "location": "Springfield, MA (US)",
+    "date": "September 10, 2026",
+    "first_seen": "2026-09-10T16:44:09.137865+00:00"
+  },
+  "41337": {
+    "title": "Fast, Safe, Rowing Skiff - Complete Package, at Reduced Price",
+    "location": "Davis, CA (US)",
+    "date": "September 9, 2026",
+    "first_seen": "2026-09-10T16:44:09.137865+00:00"
   }
 }
