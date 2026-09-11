@@ -1,10 +1,4 @@
 {
-  "41255": {
-    "title": "Boats for Sale *CHEAP*",
-    "location": "Cambridge, MA (US)",
-    "date": "September 1, 2026",
-    "first_seen": "2026-09-01T18:58:17.474547+00:00"
-  },
   "40987": {
     "title": "Whitehall Spirit Tango 17 \u2013 Complete Double Sliding-Seat Rowing + Electric Motor Package",
     "location": "Gloucester, MA (US)",
@@ -298,5 +292,11 @@
     "location": "Indian Harbour Beach, FL (US)",
     "date": "September 10, 2026",
     "first_seen": "2026-09-11T00:39:06.371205+00:00"
+  },
+  "41351": {
+    "title": "Vintage Schoenbrod single",
+    "location": "Nashua, NH (US)",
+    "date": "September 11, 2026",
+    "first_seen": "2026-09-11T20:32:31.368818+00:00"
   }
 }
