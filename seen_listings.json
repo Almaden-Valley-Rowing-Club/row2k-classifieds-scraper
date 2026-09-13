@@ -1,10 +1,4 @@
 {
-  "41274": {
-    "title": "2000 Empacher 1x $5500",
-    "location": "VA (US)",
-    "date": "September 3, 2026",
-    "first_seen": "2026-09-03T18:12:44.086753+00:00"
-  },
   "41276": {
     "title": "Maas 24 Sculling Boat",
     "location": "QC (CA)",
@@ -298,5 +292,11 @@
     "location": "Craftsbury Common, VT (US)",
     "date": "September 12, 2026",
     "first_seen": "2026-09-13T12:55:11.473015+00:00"
+  },
+  "41012": {
+    "title": "2013 Empacher R84 8+ FOR SALE",
+    "location": "NJ (US)",
+    "date": "September 13, 2026",
+    "first_seen": "2026-09-13T16:44:17.954197+00:00"
   }
 }
