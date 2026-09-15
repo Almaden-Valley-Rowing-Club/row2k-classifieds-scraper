@@ -1,16 +1,4 @@
 {
-  "41071": {
-    "title": "Old School Scull",
-    "location": "Tampa, FL (US)",
-    "date": "September 6, 2026",
-    "first_seen": "2026-09-07T05:26:09.287001+00:00"
-  },
-  "41070": {
-    "title": "Little River Guideboat",
-    "location": "Tampa, FL (US)",
-    "date": "September 6, 2026",
-    "first_seen": "2026-09-07T05:26:09.287001+00:00"
-  },
   "41203": {
     "title": "2025 Fluidesign Elite Lightweight 1x",
     "location": "Bernardston, MA (US)",
@@ -298,5 +286,17 @@
     "location": "Ooltewah, TN (US)",
     "date": "September 15, 2026",
     "first_seen": "2026-09-15T17:53:48.907911+00:00"
+  },
+  "41402": {
+    "title": "2014 MAAS Aero Single Scull - Like new",
+    "location": "Port Orchard, WA (US)",
+    "date": "September 15, 2026",
+    "first_seen": "2026-09-15T23:17:39.879469+00:00"
+  },
+  "41399": {
+    "title": "2018 Resolute 8",
+    "location": "Lewisburg , PA",
+    "date": "September 15, 2026",
+    "first_seen": "2026-09-15T23:17:39.879469+00:00"
   }
 }
