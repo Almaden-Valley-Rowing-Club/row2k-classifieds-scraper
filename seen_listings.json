@@ -1,16 +1,4 @@
 {
-  "39649": {
-    "title": "Empacher Eights and Fours, Heavyweight, Lightweight, Women",
-    "location": "Derby, CT (US)",
-    "date": "September 8, 2026",
-    "first_seen": "2026-09-08T15:37:18.727365+00:00"
-  },
-  "41317": {
-    "title": "2011 Wintech Explorer 25 Single Scull",
-    "location": "Port Alberni, BC (CA)",
-    "date": "September 8, 2026",
-    "first_seen": "2026-09-08T19:06:56.361569+00:00"
-  },
   "41316": {
     "title": "$8,900 Mint Condition Pocock Single",
     "location": "Santee, CA (US)",
@@ -298,5 +286,17 @@
     "location": "Cumming, GA (US)",
     "date": "September 15, 2026",
     "first_seen": "2026-09-16T13:50:30.048364+00:00"
+  },
+  "41412": {
+    "title": "2023 Midweight Fluidesign 1x ($9,750)",
+    "location": "Ballston Spa, NY (US)",
+    "date": "September 16, 2026",
+    "first_seen": "2026-09-16T17:49:46.853944+00:00"
+  },
+  "41409": {
+    "title": "van Dusen Advantage LW single for sale, $5500, Hanover NH",
+    "location": "Goleta, CA (US)",
+    "date": "September 16, 2026",
+    "first_seen": "2026-09-16T17:49:46.853944+00:00"
   }
 }
