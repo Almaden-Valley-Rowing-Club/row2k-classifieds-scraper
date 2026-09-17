@@ -1,34 +1,4 @@
 {
-  "41328": {
-    "title": "Rowing Scull",
-    "location": "Townville, SC (US)",
-    "date": "September 9, 2026",
-    "first_seen": "2026-09-09T21:21:28.988293+00:00"
-  },
-  "41148": {
-    "title": "2020 F45 Fillipi/aliante wing",
-    "location": "Saratoga Springs, NY (US)",
-    "date": "September 9, 2026",
-    "first_seen": "2026-09-09T21:21:28.988293+00:00"
-  },
-  "41333": {
-    "title": "2021 Touring Gig- 4+ or 5 sculling, 4+ Sweep",
-    "location": "WI (US)",
-    "date": "September 9, 2026",
-    "first_seen": "2026-09-09T23:39:01.408098+00:00"
-  },
-  "41335": {
-    "title": "Van Dusen single 26'",
-    "location": "UNION HALL, VA (US)",
-    "date": "September 9, 2026",
-    "first_seen": "2026-09-10T02:00:14.813234+00:00"
-  },
-  "41345": {
-    "title": "Classic King 1x Scull",
-    "location": "Springfield, MA (US)",
-    "date": "September 10, 2026",
-    "first_seen": "2026-09-10T16:44:09.137865+00:00"
-  },
   "41337": {
     "title": "Fast, Safe, Rowing Skiff - Complete Package, at Reduced Price",
     "location": "Davis, CA (US)",
@@ -298,5 +268,35 @@
     "location": "(US)",
     "date": "September 17, 2026",
     "first_seen": "2026-09-17T17:50:18.025242+00:00"
+  },
+  "41422": {
+    "title": "Vespoli EM8+",
+    "location": null,
+    "date": "September 17, 2026",
+    "first_seen": "2026-09-17T23:14:01.885594+00:00"
+  },
+  "41421": {
+    "title": "2016 Kanghua 4x (Grade A+ 70-75KG)",
+    "location": "Grand Rapids, MI (US)",
+    "date": "September 17, 2026",
+    "first_seen": "2026-09-17T23:14:01.885594+00:00"
+  },
+  "41420": {
+    "title": "Laser recreational Scull Shell",
+    "location": "Redwood City, CA (US)",
+    "date": "September 17, 2026",
+    "first_seen": "2026-09-17T23:14:01.885594+00:00"
+  },
+  "41075": {
+    "title": "2015 Vespoli VHP 55 8+ - $19,500",
+    "location": "Norwalk, CT (US)",
+    "date": "September 17, 2026",
+    "first_seen": "2026-09-17T23:14:01.885594+00:00"
+  },
+  "41074": {
+    "title": "2013 Vespoli ES 8+ - $12,000 OBO",
+    "location": "Norwalk, CT (US)",
+    "date": "September 17, 2026",
+    "first_seen": "2026-09-17T23:14:01.885594+00:00"
   }
 }
