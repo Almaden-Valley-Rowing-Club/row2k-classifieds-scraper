@@ -1,10 +1,4 @@
 {
-  "41316": {
-    "title": "$8,900 Mint Condition Pocock Single",
-    "location": "Santee, CA (US)",
-    "date": "September 8, 2026",
-    "first_seen": "2026-09-08T19:06:56.361569+00:00"
-  },
   "41322": {
     "title": "Empacher 1x - Hwt",
     "location": "Merion Station, PA (US)",
@@ -298,5 +292,11 @@
     "location": "Goleta, CA (US)",
     "date": "September 16, 2026",
     "first_seen": "2026-09-16T17:49:46.853944+00:00"
+  },
+  "41415": {
+    "title": "van deusen, wood stampfli single and double",
+    "location": "kelseyville, CA (US)",
+    "date": "September 16, 2026",
+    "first_seen": "2026-09-17T02:19:24.052730+00:00"
   }
 }
