@@ -1,10 +1,4 @@
 {
-  "41351": {
-    "title": "Vintage Schoenbrod single",
-    "location": "Nashua, NH (US)",
-    "date": "September 11, 2026",
-    "first_seen": "2026-09-11T20:32:31.368818+00:00"
-  },
   "41352": {
     "title": "Prophet C1x (used) excellent condition",
     "location": "Bellingham, WA (US)",
@@ -298,5 +292,11 @@
     "location": "East Montpelier, VT (US)",
     "date": "September 18, 2026",
     "first_seen": "2026-09-18T19:16:55.825910+00:00"
+  },
+  "41174": {
+    "title": "2022 Filippi F15 with Carbon Aliante Rigger",
+    "location": "Candiac, QC (CA)",
+    "date": "September 18, 2026",
+    "first_seen": "2026-09-18T22:02:22.043089+00:00"
   }
 }
