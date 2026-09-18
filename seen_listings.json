@@ -1,10 +1,4 @@
 {
-  "41350": {
-    "title": "2018 Fluidesign Ultra LightWeight Elite Single \u2014 FLORIDA",
-    "location": "Indian Harbour Beach, FL (US)",
-    "date": "September 10, 2026",
-    "first_seen": "2026-09-11T00:39:06.371205+00:00"
-  },
   "41351": {
     "title": "Vintage Schoenbrod single",
     "location": "Nashua, NH (US)",
@@ -298,5 +292,11 @@
     "location": "Yarmouth, ME (United States)",
     "date": "September 18, 2026",
     "first_seen": "2026-09-18T16:47:23.830128+00:00"
+  },
+  "41181": {
+    "title": "Levator Mahogany Single",
+    "location": "East Montpelier, VT (US)",
+    "date": "September 18, 2026",
+    "first_seen": "2026-09-18T19:16:55.825910+00:00"
   }
 }
