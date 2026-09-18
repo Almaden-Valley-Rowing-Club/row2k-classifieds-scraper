@@ -1,10 +1,4 @@
 {
-  "41347": {
-    "title": "Van Dusen Wing Rigger Midweight 2x",
-    "location": "Craftsbury Common, VT (US)",
-    "date": "September 10, 2026",
-    "first_seen": "2026-09-10T19:19:53.508356+00:00"
-  },
   "41346": {
     "title": "COASTAL ROWER. LEO CX1",
     "location": "Shorewood, MN (US)",
@@ -298,5 +292,11 @@
     "location": "Everett, WA (US)",
     "date": "September 17, 2026",
     "first_seen": "2026-09-18T02:05:10.225063+00:00"
+  },
+  "41148": {
+    "title": "2020 F45 Fillipi/aliante wing",
+    "location": "Saratoga Springs, NY (US)",
+    "date": "September 18, 2026",
+    "first_seen": "2026-09-18T07:42:49.096966+00:00"
   }
 }
