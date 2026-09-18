@@ -1,10 +1,4 @@
 {
-  "41346": {
-    "title": "COASTAL ROWER. LEO CX1",
-    "location": "Shorewood, MN (US)",
-    "date": "September 10, 2026",
-    "first_seen": "2026-09-10T19:19:53.508356+00:00"
-  },
   "41350": {
     "title": "2018 Fluidesign Ultra LightWeight Elite Single \u2014 FLORIDA",
     "location": "Indian Harbour Beach, FL (US)",
@@ -298,5 +292,11 @@
     "location": "Saratoga Springs, NY (US)",
     "date": "September 18, 2026",
     "first_seen": "2026-09-18T07:42:49.096966+00:00"
+  },
+  "40767": {
+    "title": "Sykes Midweight Single",
+    "location": "Yarmouth, ME (United States)",
+    "date": "September 18, 2026",
+    "first_seen": "2026-09-18T16:47:23.830128+00:00"
   }
 }
