@@ -1,10 +1,4 @@
 {
-  "41337": {
-    "title": "Fast, Safe, Rowing Skiff - Complete Package, at Reduced Price",
-    "location": "Davis, CA (US)",
-    "date": "September 9, 2026",
-    "first_seen": "2026-09-10T16:44:09.137865+00:00"
-  },
   "41347": {
     "title": "Van Dusen Wing Rigger Midweight 2x",
     "location": "Craftsbury Common, VT (US)",
@@ -298,5 +292,11 @@
     "location": "Norwalk, CT (US)",
     "date": "September 17, 2026",
     "first_seen": "2026-09-17T23:14:01.885594+00:00"
+  },
+  "41425": {
+    "title": "2003 Pocock C8+ w/ Oars - $3,000 Everett, WA",
+    "location": "Everett, WA (US)",
+    "date": "September 17, 2026",
+    "first_seen": "2026-09-18T02:05:10.225063+00:00"
   }
 }
