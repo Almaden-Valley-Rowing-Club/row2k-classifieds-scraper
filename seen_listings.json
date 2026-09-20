@@ -1,10 +1,4 @@
 {
-  "41366": {
-    "title": "Van Dusen 2x - Wing Riggers - Midweight 1990",
-    "location": "Seattle, WA (US)",
-    "date": "September 13, 2026",
-    "first_seen": "2026-09-13T23:45:27.617352+00:00"
-  },
   "41184": {
     "title": "Maas 24",
     "location": "Nashua, NH (US)",
@@ -298,5 +292,11 @@
     "location": "Harbor Springs, MI (US)",
     "date": "September 20, 2026",
     "first_seen": "2026-09-20T17:06:20.553218+00:00"
+  },
+  "41440": {
+    "title": "2021 Filippi F47 Single (1x) \u2013 Heavyweight \u2013 Vancouver, BC",
+    "location": "Vancouver, BC (CA)",
+    "date": "September 20, 2026",
+    "first_seen": "2026-09-20T22:06:12.337246+00:00"
   }
 }
