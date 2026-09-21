@@ -1,28 +1,4 @@
 {
-  "41066": {
-    "title": "WinTech Racing Coastal Boat 1x",
-    "location": "Boulder, CO (US)",
-    "date": "September 13, 2026",
-    "first_seen": "2026-09-13T23:45:27.617352+00:00"
-  },
-  "41367": {
-    "title": "2007 Hudson Elite MW 1x \u2013 Only One Summer of Use \u2013 Oars + Cover \u2013 154\u2013180 lb",
-    "location": "Nashville, TN (US)",
-    "date": "September 13, 2026",
-    "first_seen": "2026-09-14T15:23:45.903812+00:00"
-  },
-  "41380": {
-    "title": "Pienart Fast Start 21",
-    "location": "Norwich, CT (US)",
-    "date": "September 14, 2026",
-    "first_seen": "2026-09-14T20:01:08.926485+00:00"
-  },
-  "41375": {
-    "title": "2016 Fluidesign Elite lwt 1x",
-    "location": "Arlington, MA (US)",
-    "date": "September 14, 2026",
-    "first_seen": "2026-09-14T20:01:08.926485+00:00"
-  },
   "41101": {
     "title": "Mint Condition 2024 Vespoli VHP43 4+, $25,000 OBO",
     "location": "Austin, TX (US)",
@@ -298,5 +274,29 @@
     "location": "Berkeley, CA (US)",
     "date": "September 20, 2026",
     "first_seen": "2026-09-21T00:38:00.731009+00:00"
+  },
+  "41450": {
+    "title": "Quad Fluidesign 2009",
+    "location": "Piermont, NY (US)",
+    "date": "September 21, 2026",
+    "first_seen": "2026-09-21T17:22:29.124852+00:00"
+  },
+  "41449": {
+    "title": "2021 Vespoli 4+ 39 - Ready for Fall Racing",
+    "location": "Villanova, PA",
+    "date": "September 21, 2026",
+    "first_seen": "2026-09-21T17:22:29.124852+00:00"
+  },
+  "41447": {
+    "title": "Empacher heavyweight eight 8+  $18,000",
+    "location": "Derby, CT (US)",
+    "date": "September 21, 2026",
+    "first_seen": "2026-09-21T17:22:29.124852+00:00"
+  },
+  "41446": {
+    "title": "Lightweight Empacher eight 8+ $16k",
+    "location": "Derby, CT (US)",
+    "date": "September 21, 2026",
+    "first_seen": "2026-09-21T17:22:29.124852+00:00"
   }
 }
