@@ -1,10 +1,4 @@
 {
-  "41184": {
-    "title": "Maas 24",
-    "location": "Nashua, NH (US)",
-    "date": "September 13, 2026",
-    "first_seen": "2026-09-13T23:45:27.617352+00:00"
-  },
   "41066": {
     "title": "WinTech Racing Coastal Boat 1x",
     "location": "Boulder, CO (US)",
@@ -298,5 +292,11 @@
     "location": "Vancouver, BC (CA)",
     "date": "September 20, 2026",
     "first_seen": "2026-09-20T22:06:12.337246+00:00"
+  },
+  "41444": {
+    "title": "2016 Empacher X10 1x Single (85-100kgs)",
+    "location": "Berkeley, CA (US)",
+    "date": "September 20, 2026",
+    "first_seen": "2026-09-21T00:38:00.731009+00:00"
   }
 }
