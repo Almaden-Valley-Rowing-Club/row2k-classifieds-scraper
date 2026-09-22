@@ -1,16 +1,4 @@
 {
-  "41393": {
-    "title": "Alden 1x- $2000",
-    "location": "Indianapolis, IN (US)",
-    "date": "September 15, 2026",
-    "first_seen": "2026-09-15T13:57:38.559656+00:00"
-  },
-  "41392": {
-    "title": "2024 King SE 8+- MW and LWT",
-    "location": "Westport, CT (US)",
-    "date": "September 15, 2026",
-    "first_seen": "2026-09-15T13:57:38.559656+00:00"
-  },
   "41391": {
     "title": "Swift Heavyweight Single",
     "location": "St paul, MN (US)",
@@ -298,5 +286,17 @@
     "location": null,
     "date": "September 21, 2026",
     "first_seen": "2026-09-22T00:22:02.924601+00:00"
+  },
+  "41463": {
+    "title": "1994 Mid-Weight Hudson 1x - Cambridge, MA",
+    "location": "Cambridge, MA (US)",
+    "date": "September 22, 2026",
+    "first_seen": "2026-09-22T15:14:19.799388+00:00"
+  },
+  "41461": {
+    "title": "2010 Hudson Great White Super Predator 1x, Lightweight (115\u2013150 lbs), 24'6",
+    "location": "(US)",
+    "date": "September 21, 2026",
+    "first_seen": "2026-09-22T15:14:19.799388+00:00"
   }
 }
