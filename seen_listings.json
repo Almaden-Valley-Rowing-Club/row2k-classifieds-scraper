@@ -1,10 +1,4 @@
 {
-  "41398": {
-    "title": "early 2000's Wintech 2+/- $800",
-    "location": "Louisville, KY (US)",
-    "date": "September 15, 2026",
-    "first_seen": "2026-09-15T17:53:48.907911+00:00"
-  },
   "41065": {
     "title": "Vespoli VHP165 2020 1X with Accessories",
     "location": "Ooltewah, TN (US)",
@@ -298,5 +292,11 @@
     "location": "Kansas City, MO (US)",
     "date": "September 22, 2026",
     "first_seen": "2026-09-22T22:30:09.793997+00:00"
+  },
+  "41468": {
+    "title": "Wooden Stampfli Single HWT (80-100kg).",
+    "location": "Flemington, NJ (US)",
+    "date": "September 22, 2026",
+    "first_seen": "2026-09-23T01:01:57.454863+00:00"
   }
 }
