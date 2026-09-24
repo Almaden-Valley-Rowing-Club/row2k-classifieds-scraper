@@ -1,10 +1,4 @@
 {
-  "41405": {
-    "title": "LiteBoat Sport Single",
-    "location": "Cumming, GA (US)",
-    "date": "September 15, 2026",
-    "first_seen": "2026-09-16T13:50:30.048364+00:00"
-  },
   "41404": {
     "title": "2023 Liteboat DUO",
     "location": "Cumming, GA (US)",
@@ -298,5 +292,11 @@
     "location": "MA (US)",
     "date": "September 23, 2026",
     "first_seen": "2026-09-23T23:18:28.630440+00:00"
+  },
+  "41482": {
+    "title": "Hudson 1x super predator",
+    "location": "Mystic, CT (US)",
+    "date": "September 23, 2026",
+    "first_seen": "2026-09-24T02:07:40.572556+00:00"
   }
 }
