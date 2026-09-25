@@ -1,10 +1,4 @@
 {
-  "40806": {
-    "title": "Pocock midweight 4+ with oars and coxbox",
-    "location": "Saratoga Springs, NY (US)",
-    "date": "September 17, 2026",
-    "first_seen": "2026-09-17T13:54:34.283987+00:00"
-  },
   "40796": {
     "title": "Double rowing shell",
     "location": "Winter park, FL (US)",
@@ -298,5 +292,11 @@
     "location": "Crumpton, MD (US)",
     "date": "September 25, 2026",
     "first_seen": "2026-09-25T15:38:50.368525+00:00"
+  },
+  "41231": {
+    "title": "Vespoli Heavyweight 8+",
+    "location": "Philadelphia, PA (US)",
+    "date": "September 25, 2026",
+    "first_seen": "2026-09-25T19:40:26.265321+00:00"
   }
 }
