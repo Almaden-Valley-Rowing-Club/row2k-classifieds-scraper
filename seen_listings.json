@@ -1,10 +1,4 @@
 {
-  "41075": {
-    "title": "2015 Vespoli VHP 55 8+ - $19,500",
-    "location": "Norwalk, CT (US)",
-    "date": "September 17, 2026",
-    "first_seen": "2026-09-17T23:14:01.885594+00:00"
-  },
   "41074": {
     "title": "2013 Vespoli ES 8+ - $12,000 OBO",
     "location": "Norwalk, CT (US)",
@@ -298,5 +292,11 @@
     "location": "Seattle, WA (US)",
     "date": "September 26, 2026",
     "first_seen": "2026-09-27T15:58:32.639866+00:00"
+  },
+  "41514": {
+    "title": "2019 Fluid Design 1x (135-165lbs)",
+    "location": "Madison, CT (US)",
+    "date": "September 27, 2026",
+    "first_seen": "2026-09-27T19:32:31.074642+00:00"
   }
 }
