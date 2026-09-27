@@ -1,22 +1,4 @@
 {
-  "41422": {
-    "title": "Vespoli EM8+",
-    "location": null,
-    "date": "September 17, 2026",
-    "first_seen": "2026-09-17T23:14:01.885594+00:00"
-  },
-  "41421": {
-    "title": "2016 Kanghua 4x (Grade A+ 70-75KG)",
-    "location": "Grand Rapids, MI (US)",
-    "date": "September 17, 2026",
-    "first_seen": "2026-09-17T23:14:01.885594+00:00"
-  },
-  "41420": {
-    "title": "Laser recreational Scull Shell",
-    "location": "Redwood City, CA (US)",
-    "date": "September 17, 2026",
-    "first_seen": "2026-09-17T23:14:01.885594+00:00"
-  },
   "41075": {
     "title": "2015 Vespoli VHP 55 8+ - $19,500",
     "location": "Norwalk, CT (US)",
@@ -298,5 +280,23 @@
     "location": "Kings Beach, CA (US)",
     "date": "September 25, 2026",
     "first_seen": "2026-09-25T22:55:44.020297+00:00"
+  },
+  "41513": {
+    "title": "Need Seats? 3 Affordable 8\u2019s for Sale",
+    "location": "Durham, NH (US)",
+    "date": "September 27, 2026",
+    "first_seen": "2026-09-27T15:58:32.639866+00:00"
+  },
+  "41512": {
+    "title": "Van Dusen 2X",
+    "location": "Cooperstown, NY (US)",
+    "date": "September 27, 2026",
+    "first_seen": "2026-09-27T15:58:32.639866+00:00"
+  },
+  "41510": {
+    "title": "Pocock Cedar 1x",
+    "location": "Seattle, WA (US)",
+    "date": "September 26, 2026",
+    "first_seen": "2026-09-27T15:58:32.639866+00:00"
   }
 }
