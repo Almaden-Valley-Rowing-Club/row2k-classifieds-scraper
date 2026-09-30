@@ -1,10 +1,4 @@
 {
-  "41435": {
-    "title": "2014 Vespoli Ltwt 4+",
-    "location": "Jacksonville, FL (US)",
-    "date": "September 20, 2026",
-    "first_seen": "2026-09-20T17:06:20.553218+00:00"
-  },
   "41204": {
     "title": "Wooden Pocock Pair",
     "location": "Milwaukee, WI (US)",
@@ -298,5 +292,11 @@
     "location": "Belley, (FR)",
     "date": "September 28, 2026",
     "first_seen": "2026-09-30T00:51:37.606420+00:00"
+  },
+  "41540": {
+    "title": "2001 Single Owner Empacher K12",
+    "location": "McLean, VA (US)",
+    "date": "September 29, 2026",
+    "first_seen": "2026-09-30T13:08:56.501547+00:00"
   }
 }
