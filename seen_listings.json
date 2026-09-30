@@ -1,10 +1,4 @@
 {
-  "41450": {
-    "title": "Quad Fluidesign 2009",
-    "location": "Piermont, NY (US)",
-    "date": "September 21, 2026",
-    "first_seen": "2026-09-21T17:22:29.124852+00:00"
-  },
   "41449": {
     "title": "2021 Vespoli 4+ 39 - Ready for Fall Racing",
     "location": "Villanova, PA",
@@ -298,5 +292,11 @@
     "location": "VA (US)",
     "date": "September 30, 2026",
     "first_seen": "2026-09-30T18:41:08.521019+00:00"
+  },
+  "41550": {
+    "title": "Swift 1x",
+    "location": "Middlebury, VT (US)",
+    "date": "September 30, 2026",
+    "first_seen": "2026-09-30T22:42:25.114468+00:00"
   }
 }
