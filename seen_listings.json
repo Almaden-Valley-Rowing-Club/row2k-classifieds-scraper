@@ -1,16 +1,4 @@
 {
-  "41346": {
-    "title": "COASTAL ROWER. LEO CX1",
-    "location": "Shorewood, MN (US)",
-    "date": "September 19, 2026",
-    "first_seen": "2026-09-19T21:54:13.967859+00:00"
-  },
-  "41436": {
-    "title": "2014 Ltwt Swift 8+",
-    "location": "Jacksonville, FL (US)",
-    "date": "September 20, 2026",
-    "first_seen": "2026-09-20T17:06:20.553218+00:00"
-  },
   "41435": {
     "title": "2014 Vespoli Ltwt 4+",
     "location": "Jacksonville, FL (US)",
@@ -298,5 +286,17 @@
     "location": "Honeoye Falls, NY (US)",
     "date": "September 29, 2026",
     "first_seen": "2026-09-29T21:08:30.359452+00:00"
+  },
+  "41538": {
+    "title": "1980 Van Dusen single, $800",
+    "location": "(US)",
+    "date": "September 29, 2026",
+    "first_seen": "2026-09-30T00:51:37.606420+00:00"
+  },
+  "41520": {
+    "title": "4X Filippi F43-2018",
+    "location": "Belley, (FR)",
+    "date": "September 28, 2026",
+    "first_seen": "2026-09-30T00:51:37.606420+00:00"
   }
 }
