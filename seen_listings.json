@@ -1,28 +1,4 @@
 {
-  "41204": {
-    "title": "Wooden Pocock Pair",
-    "location": "Milwaukee, WI (US)",
-    "date": "September 20, 2026",
-    "first_seen": "2026-09-20T17:06:20.553218+00:00"
-  },
-  "41127": {
-    "title": "2020 Carbon Maas Flyweight",
-    "location": "Harbor Springs, MI (US)",
-    "date": "September 20, 2026",
-    "first_seen": "2026-09-20T17:06:20.553218+00:00"
-  },
-  "41440": {
-    "title": "2021 Filippi F47 Single (1x) \u2013 Heavyweight \u2013 Vancouver, BC",
-    "location": "Vancouver, BC (CA)",
-    "date": "September 20, 2026",
-    "first_seen": "2026-09-20T22:06:12.337246+00:00"
-  },
-  "41444": {
-    "title": "2016 Empacher X10 1x Single (85-100kgs)",
-    "location": "Berkeley, CA (US)",
-    "date": "September 20, 2026",
-    "first_seen": "2026-09-21T00:38:00.731009+00:00"
-  },
   "41450": {
     "title": "Quad Fluidesign 2009",
     "location": "Piermont, NY (US)",
@@ -298,5 +274,29 @@
     "location": "McLean, VA (US)",
     "date": "September 29, 2026",
     "first_seen": "2026-09-30T13:08:56.501547+00:00"
+  },
+  "41549": {
+    "title": "LIttle River Marine Sea Shell Double (used ONCE)",
+    "location": "Easton, MD (US)",
+    "date": "September 30, 2026",
+    "first_seen": "2026-09-30T18:41:08.521019+00:00"
+  },
+  "41548": {
+    "title": "Pocock 8 and 4x-",
+    "location": "DURHAM, NC (US)",
+    "date": "September 30, 2026",
+    "first_seen": "2026-09-30T18:41:08.521019+00:00"
+  },
+  "41298": {
+    "title": "2017 Filippi F36 2x/2-Carbon Riggers \u2014 Excellent Condition \u2014 $14,000",
+    "location": "Boxford, MA (US)",
+    "date": "September 30, 2026",
+    "first_seen": "2026-09-30T18:41:08.521019+00:00"
+  },
+  "41274": {
+    "title": "2000 Empacher 1x $5500",
+    "location": "VA (US)",
+    "date": "September 30, 2026",
+    "first_seen": "2026-09-30T18:41:08.521019+00:00"
   }
 }
