@@ -1,22 +1,4 @@
 {
-  "41449": {
-    "title": "2021 Vespoli 4+ 39 - Ready for Fall Racing",
-    "location": "Villanova, PA",
-    "date": "September 21, 2026",
-    "first_seen": "2026-09-21T17:22:29.124852+00:00"
-  },
-  "41447": {
-    "title": "Empacher heavyweight eight 8+  $18,000",
-    "location": "Derby, CT (US)",
-    "date": "September 21, 2026",
-    "first_seen": "2026-09-21T17:22:29.124852+00:00"
-  },
-  "41446": {
-    "title": "Lightweight Empacher eight 8+ $16k",
-    "location": "Derby, CT (US)",
-    "date": "September 21, 2026",
-    "first_seen": "2026-09-21T17:22:29.124852+00:00"
-  },
   "41457": {
     "title": "Fix2row/Get2decorate. -- used hvwt Kaschper wooden single",
     "location": "Hammonton, NJ (US)",
@@ -298,5 +280,23 @@
     "location": "Middlebury, VT (US)",
     "date": "September 30, 2026",
     "first_seen": "2026-09-30T22:42:25.114468+00:00"
+  },
+  "41554": {
+    "title": "Stampfli wood single",
+    "location": "kelseyville, CA (US)",
+    "date": "September 30, 2026",
+    "first_seen": "2026-10-01T01:40:10.649166+00:00"
+  },
+  "41553": {
+    "title": "Stampfli 2x wood",
+    "location": "kelseyville, CA (US)",
+    "date": "September 30, 2026",
+    "first_seen": "2026-10-01T01:40:10.649166+00:00"
+  },
+  "41552": {
+    "title": "van dusen 1x",
+    "location": "kelseyville, CA (US)",
+    "date": "September 30, 2026",
+    "first_seen": "2026-10-01T01:40:10.649166+00:00"
   }
 }
