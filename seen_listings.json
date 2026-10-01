@@ -1,10 +1,4 @@
 {
-  "41463": {
-    "title": "1994 Mid-Weight Hudson 1x - Cambridge, MA",
-    "location": "Cambridge, MA (US)",
-    "date": "September 22, 2026",
-    "first_seen": "2026-09-22T15:14:19.799388+00:00"
-  },
   "41461": {
     "title": "2010 Hudson Great White Super Predator 1x, Lightweight (115\u2013150 lbs), 24'6",
     "location": "(US)",
@@ -298,5 +292,11 @@
     "location": "Hanover, MA (US)",
     "date": "September 30, 2026",
     "first_seen": "2026-10-01T15:06:18.023103+00:00"
+  },
+  "41557": {
+    "title": "Van Dusen Midwt Wing Rigger Double",
+    "location": "Craftsbury Common, VT (US)",
+    "date": "October 1, 2026",
+    "first_seen": "2026-10-01T20:38:53.055789+00:00"
   }
 }
