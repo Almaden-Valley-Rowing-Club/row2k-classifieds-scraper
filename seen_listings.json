@@ -1,16 +1,4 @@
 {
-  "41468": {
-    "title": "Wooden Stampfli Single HWT (80-100kg).",
-    "location": "Flemington, NJ (US)",
-    "date": "September 22, 2026",
-    "first_seen": "2026-09-23T01:01:57.454863+00:00"
-  },
-  "41477": {
-    "title": "Mass 24 fiberglass scull",
-    "location": "Portland, OR (US)",
-    "date": "September 23, 2026",
-    "first_seen": "2026-09-23T17:33:23.944967+00:00"
-  },
   "41476": {
     "title": "Mass 24 fiberglass carbon series",
     "location": "Portland, OR (US)",
@@ -298,5 +286,17 @@
     "location": "Lebanon, NJ (US)",
     "date": "October 1, 2026",
     "first_seen": "2026-10-02T13:19:38.858190+00:00"
+  },
+  "41559": {
+    "title": "Wintech King 8, Lightweight",
+    "location": "Fairport, NY (US)",
+    "date": "October 2, 2026",
+    "first_seen": "2026-10-02T18:47:14.837794+00:00"
+  },
+  "41449": {
+    "title": "2021 Vespoli 4+ 39 - $15,250",
+    "location": "Villanova, PA",
+    "date": "October 2, 2026",
+    "first_seen": "2026-10-02T18:47:14.837794+00:00"
   }
 }
