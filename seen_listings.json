@@ -1,10 +1,4 @@
 {
-  "41474": {
-    "title": "1996 Hudson Heavyweight 2x",
-    "location": "Dexter, MI (US)",
-    "date": "September 23, 2026",
-    "first_seen": "2026-09-23T17:33:23.944967+00:00"
-  },
   "41483": {
     "title": "Filippi F17 heavyweight 2X for sale",
     "location": "MA (US)",
@@ -298,5 +292,11 @@
     "location": "Indian Harbour Beach, FL (US)",
     "date": "October 3, 2026",
     "first_seen": "2026-10-03T16:51:14.411723+00:00"
+  },
+  "41568": {
+    "title": "1998 Vespoli FW 1x - $1,500",
+    "location": "Shrewsbury, MA (US)",
+    "date": "October 3, 2026",
+    "first_seen": "2026-10-03T19:35:12.838283+00:00"
   }
 }
