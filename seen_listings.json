@@ -1,10 +1,4 @@
 {
-  "41475": {
-    "title": "2014 X17 EMPACHER 1X",
-    "location": "Bryn Mawr, PA (US)",
-    "date": "September 23, 2026",
-    "first_seen": "2026-09-23T17:33:23.944967+00:00"
-  },
   "41474": {
     "title": "1996 Hudson Heavyweight 2x",
     "location": "Dexter, MI (US)",
@@ -298,5 +292,11 @@
     "location": "Cooperstown, NY (US)",
     "date": "October 2, 2026",
     "first_seen": "2026-10-02T22:40:05.203061+00:00"
+  },
+  "41350": {
+    "title": "2018 Fluidesign Ultra LightWeight Elite Single \u2014 FLORIDA",
+    "location": "Indian Harbour Beach, FL (US)",
+    "date": "October 3, 2026",
+    "first_seen": "2026-10-03T16:51:14.411723+00:00"
   }
 }
