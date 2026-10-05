@@ -1,40 +1,4 @@
 {
-  "41494": {
-    "title": "2 Vespoli 4+",
-    "location": "North Andover, MA (US)",
-    "date": "September 25, 2026",
-    "first_seen": "2026-09-25T15:38:50.368525+00:00"
-  },
-  "41493": {
-    "title": "Alden Appledore Pod 16",
-    "location": "Crumpton, MD (US)",
-    "date": "September 25, 2026",
-    "first_seen": "2026-09-25T15:38:50.368525+00:00"
-  },
-  "41231": {
-    "title": "Vespoli Heavyweight 8+",
-    "location": "Philadelphia, PA (US)",
-    "date": "September 25, 2026",
-    "first_seen": "2026-09-25T19:40:26.265321+00:00"
-  },
-  "41504": {
-    "title": "2017 Hudson S1.42 Super Predator",
-    "location": "Victoria, BC (CA)",
-    "date": "September 25, 2026",
-    "first_seen": "2026-09-25T22:55:44.020297+00:00"
-  },
-  "41499": {
-    "title": "Eights Available",
-    "location": "TN",
-    "date": "September 25, 2026",
-    "first_seen": "2026-09-25T22:55:44.020297+00:00"
-  },
-  "41498": {
-    "title": "Vespoli Mid Weight 8+ $3,500 OBO",
-    "location": "LAKE OSWEGO, OR (US)",
-    "date": "September 25, 2026",
-    "first_seen": "2026-09-25T22:55:44.020297+00:00"
-  },
   "41497": {
     "title": "Little River Marine Cambridge Single - $2000",
     "location": "Kings Beach, CA (US)",
@@ -298,5 +262,41 @@
     "location": "Indianapolis, IN (US)",
     "date": "October 4, 2026",
     "first_seen": "2026-10-05T01:23:02.896445+00:00"
+  },
+  "41585": {
+    "title": "2004 Little River Marine \u201cRegatta\u201d",
+    "location": "Flagstaff, AZ (US)",
+    "date": "October 5, 2026",
+    "first_seen": "2026-10-05T16:34:08.489035+00:00"
+  },
+  "41584": {
+    "title": "2022 Fluidesign LW 1x Elite - $10,500",
+    "location": "Shrewsbury, MA (US)",
+    "date": "October 5, 2026",
+    "first_seen": "2026-10-05T16:34:08.489035+00:00"
+  },
+  "41582": {
+    "title": "Black clear-coated fluidesign rowing boat",
+    "location": "Victoria, BC (CA)",
+    "date": "October 5, 2026",
+    "first_seen": "2026-10-05T16:34:08.489035+00:00"
+  },
+  "41579": {
+    "title": "2011 Fluid MW",
+    "location": "Abington, MA",
+    "date": "October 5, 2026",
+    "first_seen": "2026-10-05T16:34:08.489035+00:00"
+  },
+  "41505": {
+    "title": "2016  Hudson  SP  Hudson SP",
+    "location": "WV (US)",
+    "date": "October 5, 2026",
+    "first_seen": "2026-10-05T16:34:08.489035+00:00"
+  },
+  "41578": {
+    "title": "Ultra Lightweight Fluidesign 2014",
+    "location": "Montr\u00e9al, QC (CA)",
+    "date": "October 4, 2026",
+    "first_seen": "2026-10-05T16:34:08.489035+00:00"
   }
 }
