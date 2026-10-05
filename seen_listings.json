@@ -1,28 +1,4 @@
 {
-  "41482": {
-    "title": "Hudson 1x super predator",
-    "location": "Mystic, CT (US)",
-    "date": "September 23, 2026",
-    "first_seen": "2026-09-24T02:07:40.572556+00:00"
-  },
-  "41489": {
-    "title": "2017 Wintech Heavyweight Pair/Double",
-    "location": "Yarmouth, ME (United States)",
-    "date": "September 24, 2026",
-    "first_seen": "2026-09-24T21:52:36.437270+00:00"
-  },
-  "41492": {
-    "title": "Hudson SP 1X (75-88 kg)",
-    "location": "Philadelphia, PA",
-    "date": "September 24, 2026",
-    "first_seen": "2026-09-25T10:46:28.419001+00:00"
-  },
-  "41495": {
-    "title": "Alden 18",
-    "location": "VA (US)",
-    "date": "September 25, 2026",
-    "first_seen": "2026-09-25T15:38:50.368525+00:00"
-  },
   "41494": {
     "title": "2 Vespoli 4+",
     "location": "North Andover, MA (US)",
@@ -298,5 +274,29 @@
     "location": "Tahoe Vista, CA (US)",
     "date": "October 3, 2026",
     "first_seen": "2026-10-04T02:13:37.314244+00:00"
+  },
+  "41576": {
+    "title": "Maas Carbon Flyweight 2020",
+    "location": "(US)",
+    "date": "October 4, 2026",
+    "first_seen": "2026-10-05T01:23:02.896445+00:00"
+  },
+  "41575": {
+    "title": "2019 Hudson USP U.21 (154-180lbs)",
+    "location": "Medford, MA (US)",
+    "date": "October 4, 2026",
+    "first_seen": "2026-10-05T01:23:02.896445+00:00"
+  },
+  "41574": {
+    "title": "Fluidesign  Max 2x  2-  midweight 2024",
+    "location": "Shorewood, MN (US)",
+    "date": "October 4, 2026",
+    "first_seen": "2026-10-05T01:23:02.896445+00:00"
+  },
+  "41572": {
+    "title": "2003 Vespoli 8+ - 2 available. Best offer",
+    "location": "Indianapolis, IN (US)",
+    "date": "October 4, 2026",
+    "first_seen": "2026-10-05T01:23:02.896445+00:00"
   }
 }
