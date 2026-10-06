@@ -1,16 +1,4 @@
 {
-  "41514": {
-    "title": "2019 Fluid Design 1x (135-165lbs)",
-    "location": "Madison, CT (US)",
-    "date": "September 27, 2026",
-    "first_seen": "2026-09-27T19:32:31.074642+00:00"
-  },
-  "41515": {
-    "title": "Three Vespoli Eights",
-    "location": "Nashville, TN",
-    "date": "September 27, 2026",
-    "first_seen": "2026-09-27T22:40:05.871320+00:00"
-  },
   "41294": {
     "title": "2013 Bay 21 with cover",
     "location": "Sequim, WA",
@@ -298,5 +286,17 @@
     "location": "Oakland, CA (US)",
     "date": "October 5, 2026",
     "first_seen": "2026-10-06T02:42:48.999013+00:00"
+  },
+  "41600": {
+    "title": "Historic Pocock Cedar Shell",
+    "location": "Peoria, IL (US)",
+    "date": "October 6, 2026",
+    "first_seen": "2026-10-06T21:21:54.961406+00:00"
+  },
+  "41042": {
+    "title": "Hudson Wood Single",
+    "location": "Bellingham, WA (US)",
+    "date": "October 6, 2026",
+    "first_seen": "2026-10-06T21:21:54.961406+00:00"
   }
 }
