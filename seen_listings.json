@@ -1,10 +1,4 @@
 {
-  "41510": {
-    "title": "Pocock Cedar 1x",
-    "location": "Seattle, WA (US)",
-    "date": "September 26, 2026",
-    "first_seen": "2026-09-27T15:58:32.639866+00:00"
-  },
   "41514": {
     "title": "2019 Fluid Design 1x (135-165lbs)",
     "location": "Madison, CT (US)",
@@ -298,5 +292,11 @@
     "location": "Brookline, MA (US)",
     "date": "October 5, 2026",
     "first_seen": "2026-10-05T22:59:09.435572+00:00"
+  },
+  "41592": {
+    "title": "2015 Hudson S1.41 Super Predator 1X - 185-225lbs + Oars + Boat Cover + Car Rack + Slings + Speedcoach",
+    "location": "Oakland, CA (US)",
+    "date": "October 5, 2026",
+    "first_seen": "2026-10-06T02:42:48.999013+00:00"
   }
 }
