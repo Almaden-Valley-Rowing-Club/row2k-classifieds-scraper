@@ -1,10 +1,4 @@
 {
-  "41529": {
-    "title": "2008 Maas 24",
-    "location": "Pittsford, NY (US)",
-    "date": "September 28, 2026",
-    "first_seen": "2026-09-28T22:19:44.673253+00:00"
-  },
   "41528": {
     "title": "2017 fluid heavy weight single",
     "location": "Bulrkington, ON (CA)",
@@ -298,5 +292,11 @@
     "location": "Vancouver, WA (US)",
     "date": "October 7, 2026",
     "first_seen": "2026-10-08T00:32:51.608087+00:00"
+  },
+  "41614": {
+    "title": "2018 Vespoli Matrix 27 single",
+    "location": "Northampton, MA (US)",
+    "date": "October 7, 2026",
+    "first_seen": "2026-10-08T14:10:28.992907+00:00"
   }
 }
