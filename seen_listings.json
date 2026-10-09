@@ -1,10 +1,4 @@
 {
-  "41531": {
-    "title": "Rowing Wherry. $1,200.00",
-    "location": "Lake Tapps, WA (US)",
-    "date": "September 28, 2026",
-    "first_seen": "2026-09-29T02:22:58.031258+00:00"
-  },
   "41536": {
     "title": "2006 Empacher Ltwt Single ($4,800 OBO)",
     "location": "Honeoye Falls, NY (US)",
@@ -298,5 +292,11 @@
     "location": "Cumming, GA (US)",
     "date": "October 8, 2026",
     "first_seen": "2026-10-09T00:47:54.820111+00:00"
+  },
+  "41409": {
+    "title": "van Dusen Advantage LW single for sale, $5500, Hanover NH",
+    "location": "Goleta, CA (US)",
+    "date": "October 9, 2026",
+    "first_seen": "2026-10-09T19:52:52.021378+00:00"
   }
 }
