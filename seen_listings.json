@@ -1,10 +1,4 @@
 {
-  "41532": {
-    "title": "BBG Olympia 1x for sale",
-    "location": "Emmett, ID (US)",
-    "date": "September 28, 2026",
-    "first_seen": "2026-09-29T02:22:58.031258+00:00"
-  },
   "41531": {
     "title": "Rowing Wherry. $1,200.00",
     "location": "Lake Tapps, WA (US)",
@@ -298,5 +292,11 @@
     "location": "Morrisburg, ON (CA)",
     "date": "October 8, 2026",
     "first_seen": "2026-10-08T20:19:50.507003+00:00"
+  },
+  "41404": {
+    "title": "2023 Liteboat DUO (double) in Atlanta GA",
+    "location": "Cumming, GA (US)",
+    "date": "October 8, 2026",
+    "first_seen": "2026-10-09T00:47:54.820111+00:00"
   }
 }
