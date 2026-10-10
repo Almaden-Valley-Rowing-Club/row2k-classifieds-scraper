@@ -1,10 +1,4 @@
 {
-  "41549": {
-    "title": "LIttle River Marine Sea Shell Double (used ONCE)",
-    "location": "Easton, MD (US)",
-    "date": "September 30, 2026",
-    "first_seen": "2026-09-30T18:41:08.521019+00:00"
-  },
   "41548": {
     "title": "Pocock 8 and 4x-",
     "location": "DURHAM, NC (US)",
@@ -298,5 +292,11 @@
     "location": "Pittsburgh , PA (US)",
     "date": "October 9, 2026",
     "first_seen": "2026-10-09T23:40:33.485529+00:00"
+  },
+  "41630": {
+    "title": "Little River Marine Heritage 15 Double",
+    "location": "Indianapolis, IN (US)",
+    "date": "October 10, 2026",
+    "first_seen": "2026-10-10T15:59:39.107017+00:00"
   }
 }
