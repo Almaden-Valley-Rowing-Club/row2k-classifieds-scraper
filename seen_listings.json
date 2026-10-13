@@ -1,16 +1,4 @@
 {
-  "41557": {
-    "title": "Van Dusen Midwt Wing Rigger Double",
-    "location": "Craftsbury Common, VT (US)",
-    "date": "October 1, 2026",
-    "first_seen": "2026-10-01T20:38:53.055789+00:00"
-  },
-  "40987": {
-    "title": "Whitehall Spirit Tango 17 \u2013 Complete Double Sliding-Seat Rowing + Electric Motor Package",
-    "location": "Gloucester, MA (US)",
-    "date": "October 2, 2026",
-    "first_seen": "2026-10-02T13:19:38.858190+00:00"
-  },
   "40923": {
     "title": "Crew boats free must pick up Westford Massachusetts",
     "location": "Westford, MA (US)",
@@ -298,5 +286,17 @@
     "location": "Grand Rapids, MI (US)",
     "date": "October 12, 2026",
     "first_seen": "2026-10-13T04:26:59.272510+00:00"
+  },
+  "41661": {
+    "title": "Van Dusen Traditional Wing 2X",
+    "location": "Craftsbury Common, VT (US)",
+    "date": "October 13, 2026",
+    "first_seen": "2026-10-13T19:37:32.779467+00:00"
+  },
+  "41652": {
+    "title": "Lightweight 1x - Vespoli Matrix 24 (1999)",
+    "location": "Bethesda, MD (US)",
+    "date": "October 13, 2026",
+    "first_seen": "2026-10-13T19:37:32.779467+00:00"
   }
 }
