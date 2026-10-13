@@ -1,16 +1,4 @@
 {
-  "41313": {
-    "title": "Vespoli 4+ & Kaschper 4+",
-    "location": "Hopewell Junction, NY (US)",
-    "date": "October 1, 2026",
-    "first_seen": "2026-10-01T15:06:18.023103+00:00"
-  },
-  "41555": {
-    "title": "WTB Old or Damaged MW Single",
-    "location": "Hanover, MA (US)",
-    "date": "September 30, 2026",
-    "first_seen": "2026-10-01T15:06:18.023103+00:00"
-  },
   "41557": {
     "title": "Van Dusen Midwt Wing Rigger Double",
     "location": "Craftsbury Common, VT (US)",
@@ -298,5 +286,17 @@
     "location": "VA (US)",
     "date": "October 12, 2026",
     "first_seen": "2026-10-12T23:20:14.977564+00:00"
+  },
+  "41650": {
+    "title": "2007 Kaschper 4x 59-72kg",
+    "location": "Grand Rapids, MI (US)",
+    "date": "October 12, 2026",
+    "first_seen": "2026-10-13T04:26:59.272510+00:00"
+  },
+  "41421": {
+    "title": "2016 Kanghua 4x (Grade A+ 70-75KG)",
+    "location": "Grand Rapids, MI (US)",
+    "date": "October 12, 2026",
+    "first_seen": "2026-10-13T04:26:59.272510+00:00"
   }
 }
