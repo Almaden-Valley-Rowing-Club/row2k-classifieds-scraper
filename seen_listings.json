@@ -1,10 +1,4 @@
 {
-  "41449": {
-    "title": "2021 Vespoli 4+ 39 - $15,250",
-    "location": "Villanova, PA",
-    "date": "October 2, 2026",
-    "first_seen": "2026-10-02T18:47:14.837794+00:00"
-  },
   "41562": {
     "title": "2003 Filippi midweight 2X",
     "location": "Cooperstown, NY (US)",
@@ -298,5 +292,11 @@
     "location": "Middlebury, VT (US)",
     "date": "October 13, 2026",
     "first_seen": "2026-10-14T14:09:29.079192+00:00"
+  },
+  "41665": {
+    "title": "2022 Peinert Zephyr",
+    "location": "Haverhill, MA (US)",
+    "date": "October 14, 2026",
+    "first_seen": "2026-10-14T19:01:38.682006+00:00"
   }
 }
