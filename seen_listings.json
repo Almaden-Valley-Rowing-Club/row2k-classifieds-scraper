@@ -1,22 +1,4 @@
 {
-  "40923": {
-    "title": "Crew boats free must pick up Westford Massachusetts",
-    "location": "Westford, MA (US)",
-    "date": "October 2, 2026",
-    "first_seen": "2026-10-02T13:19:38.858190+00:00"
-  },
-  "41558": {
-    "title": "2007 Wintech Explorer 24 Model A",
-    "location": "Lebanon, NJ (US)",
-    "date": "October 1, 2026",
-    "first_seen": "2026-10-02T13:19:38.858190+00:00"
-  },
-  "41559": {
-    "title": "Wintech King 8, Lightweight",
-    "location": "Fairport, NY (US)",
-    "date": "October 2, 2026",
-    "first_seen": "2026-10-02T18:47:14.837794+00:00"
-  },
   "41449": {
     "title": "2021 Vespoli 4+ 39 - $15,250",
     "location": "Villanova, PA",
@@ -298,5 +280,23 @@
     "location": "Bethesda, MD (US)",
     "date": "October 13, 2026",
     "first_seen": "2026-10-13T19:37:32.779467+00:00"
+  },
+  "41658": {
+    "title": "Filippi F49 8's",
+    "location": "Middlebury, VT (US)",
+    "date": "October 13, 2026",
+    "first_seen": "2026-10-14T14:09:29.079192+00:00"
+  },
+  "41657": {
+    "title": "Resolute Fours - 2003 & 2010",
+    "location": "Middlebury, VT (US)",
+    "date": "October 13, 2026",
+    "first_seen": "2026-10-14T14:09:29.079192+00:00"
+  },
+  "41656": {
+    "title": "Heavyweight Single",
+    "location": "Middlebury, VT (US)",
+    "date": "October 13, 2026",
+    "first_seen": "2026-10-14T14:09:29.079192+00:00"
   }
 }
