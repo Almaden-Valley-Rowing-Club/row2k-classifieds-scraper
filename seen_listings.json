@@ -1,16 +1,4 @@
 {
-  "41576": {
-    "title": "Maas Carbon Flyweight 2020",
-    "location": "(US)",
-    "date": "October 4, 2026",
-    "first_seen": "2026-10-05T01:23:02.896445+00:00"
-  },
-  "41575": {
-    "title": "2019 Hudson USP U.21 (154-180lbs)",
-    "location": "Medford, MA (US)",
-    "date": "October 4, 2026",
-    "first_seen": "2026-10-05T01:23:02.896445+00:00"
-  },
   "41574": {
     "title": "Fluidesign  Max 2x  2-  midweight 2024",
     "location": "Shorewood, MN (US)",
@@ -298,5 +286,17 @@
     "location": "Mystic, CT (US)",
     "date": "October 16, 2026",
     "first_seen": "2026-10-16T12:49:17.117724+00:00"
+  },
+  "41676": {
+    "title": "Alden for Sale",
+    "location": "Wilmington, NC (US)",
+    "date": "October 16, 2026",
+    "first_seen": "2026-10-16T17:02:54.012854+00:00"
+  },
+  "41674": {
+    "title": "Peinert 26, 2010",
+    "location": "Clifton, VA (US)",
+    "date": "October 16, 2026",
+    "first_seen": "2026-10-16T17:02:54.012854+00:00"
   }
 }
