@@ -1,10 +1,4 @@
 {
-  "41571": {
-    "title": "Beautiful Vintage wood scull",
-    "location": "Tahoe Vista, CA (US)",
-    "date": "October 3, 2026",
-    "first_seen": "2026-10-04T02:13:37.314244+00:00"
-  },
   "41576": {
     "title": "Maas Carbon Flyweight 2020",
     "location": "(US)",
@@ -298,5 +292,11 @@
     "location": "Ypsilanti, Michigan 48197, MI (US)",
     "date": "October 15, 2026",
     "first_seen": "2026-10-16T02:08:47.471338+00:00"
+  },
+  "41482": {
+    "title": "Hudson 1x super predator",
+    "location": "Mystic, CT (US)",
+    "date": "October 16, 2026",
+    "first_seen": "2026-10-16T12:49:17.117724+00:00"
   }
 }
