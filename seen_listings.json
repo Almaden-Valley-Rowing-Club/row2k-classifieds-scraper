@@ -1,10 +1,4 @@
 {
-  "41578": {
-    "title": "Ultra Lightweight Fluidesign 2014",
-    "location": "Montr\u00e9al, QC (CA)",
-    "date": "October 4, 2026",
-    "first_seen": "2026-10-05T16:34:08.489035+00:00"
-  },
   "41590": {
     "title": "Filippi 4x - F61 - Heavy Wt Shell For Sale $22K",
     "location": "Philadelphia, PA (US)",
@@ -298,5 +292,11 @@
     "location": "Austin, TX (US)",
     "date": "October 19, 2026",
     "first_seen": "2026-10-19T17:55:24.261710+00:00"
+  },
+  "41692": {
+    "title": "Vespoli ES8+, lightweight eight",
+    "location": "Lambertville, NJ (US)",
+    "date": "October 19, 2026",
+    "first_seen": "2026-10-19T21:50:49.988588+00:00"
   }
 }
