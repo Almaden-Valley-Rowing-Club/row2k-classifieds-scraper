@@ -1,16 +1,4 @@
 {
-  "41579": {
-    "title": "2011 Fluid MW",
-    "location": "Abington, MA",
-    "date": "October 5, 2026",
-    "first_seen": "2026-10-05T16:34:08.489035+00:00"
-  },
-  "41505": {
-    "title": "2016  Hudson  SP  Hudson SP",
-    "location": "WV (US)",
-    "date": "October 5, 2026",
-    "first_seen": "2026-10-05T16:34:08.489035+00:00"
-  },
   "41578": {
     "title": "Ultra Lightweight Fluidesign 2014",
     "location": "Montr\u00e9al, QC (CA)",
@@ -298,5 +286,17 @@
     "location": "East Montpelier, VT (US)",
     "date": "October 19, 2026",
     "first_seen": "2026-10-19T11:30:23.123757+00:00"
+  },
+  "41687": {
+    "title": "Alden Star & Hudson T6 - Raleigh",
+    "location": "Cary, NC (US)",
+    "date": "October 19, 2026",
+    "first_seen": "2026-10-19T17:55:24.261710+00:00"
+  },
+  "41101": {
+    "title": "Mint Condition 2024 Vespoli VHP43 4+, $25,000 OBO",
+    "location": "Austin, TX (US)",
+    "date": "October 19, 2026",
+    "first_seen": "2026-10-19T17:55:24.261710+00:00"
   }
 }
