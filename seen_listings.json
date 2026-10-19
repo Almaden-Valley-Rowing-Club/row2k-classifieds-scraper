@@ -1,10 +1,4 @@
 {
-  "41582": {
-    "title": "Black clear-coated fluidesign rowing boat",
-    "location": "Victoria, BC (CA)",
-    "date": "October 5, 2026",
-    "first_seen": "2026-10-05T16:34:08.489035+00:00"
-  },
   "41579": {
     "title": "2011 Fluid MW",
     "location": "Abington, MA",
@@ -298,5 +292,11 @@
     "location": "LAKE OSWEGO, OR (US)",
     "date": "October 18, 2026",
     "first_seen": "2026-10-18T16:12:32.510527+00:00"
+  },
+  "41181": {
+    "title": "Levator Mahogany Single",
+    "location": "East Montpelier, VT (US)",
+    "date": "October 19, 2026",
+    "first_seen": "2026-10-19T11:30:23.123757+00:00"
   }
 }
