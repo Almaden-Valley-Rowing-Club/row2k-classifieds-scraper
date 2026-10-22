@@ -1,10 +1,4 @@
 {
-  "41619": {
-    "title": "1996  Van Dusen Advantage Lightweight $3999.",
-    "location": "WILBRAHAM, MA (US)",
-    "date": "October 8, 2026",
-    "first_seen": "2026-10-08T20:19:50.507003+00:00"
-  },
   "41618": {
     "title": "Kaschper pair and Hudson double",
     "location": "Morrisburg, ON (CA)",
@@ -298,5 +292,11 @@
     "location": "Cambridge, MA (US)",
     "date": "October 21, 2026",
     "first_seen": "2026-10-22T14:12:13.213437+00:00"
+  },
+  "41513": {
+    "title": "8\u2019s for Free",
+    "location": "Durham, NH (US)",
+    "date": "October 22, 2026",
+    "first_seen": "2026-10-22T18:56:50.660442+00:00"
   }
 }
