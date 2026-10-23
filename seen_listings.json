@@ -1,10 +1,4 @@
 {
-  "41618": {
-    "title": "Kaschper pair and Hudson double",
-    "location": "Morrisburg, ON (CA)",
-    "date": "October 8, 2026",
-    "first_seen": "2026-10-08T20:19:50.507003+00:00"
-  },
   "41404": {
     "title": "2023 Liteboat DUO (double) in Atlanta GA",
     "location": "Cumming, GA (US)",
@@ -298,5 +292,11 @@
     "location": "Durham, NH (US)",
     "date": "October 22, 2026",
     "first_seen": "2026-10-22T18:56:50.660442+00:00"
+  },
+  "41716": {
+    "title": "2003 Vespoli M2 DM8 Eight  $4,000",
+    "location": "Worcester, MA (US)",
+    "date": "October 22, 2026",
+    "first_seen": "2026-10-23T17:34:31.731647+00:00"
   }
 }
