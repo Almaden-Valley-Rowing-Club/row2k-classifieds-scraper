@@ -1,10 +1,4 @@
 {
-  "41629": {
-    "title": "Free: 2003 Filippi SLW 8+",
-    "location": "Westford, MA (US)",
-    "date": "October 9, 2026",
-    "first_seen": "2026-10-09T23:40:33.485529+00:00"
-  },
   "41626": {
     "title": "Maas 24 for sale",
     "location": "WEST PALM BEACH, FL (US)",
@@ -298,5 +292,11 @@
     "location": "Seattle, WA (US)",
     "date": "October 24, 2026",
     "first_seen": "2026-10-24T22:05:14.519297+00:00"
+  },
+  "41559": {
+    "title": "Wintech King 8, Lightweight",
+    "location": "Fairport, NY (US)",
+    "date": "October 25, 2026",
+    "first_seen": "2026-10-25T14:39:34.737444+00:00"
   }
 }
