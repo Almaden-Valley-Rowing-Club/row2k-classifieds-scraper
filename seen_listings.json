@@ -1,10 +1,4 @@
 {
-  "41626": {
-    "title": "Maas 24 for sale",
-    "location": "WEST PALM BEACH, FL (US)",
-    "date": "October 9, 2026",
-    "first_seen": "2026-10-09T23:40:33.485529+00:00"
-  },
   "41624": {
     "title": "Mahogany Fuji 1x - midweight",
     "location": "Shrewsbury, MA (US)",
@@ -298,5 +292,11 @@
     "location": "Fairport, NY (US)",
     "date": "October 25, 2026",
     "first_seen": "2026-10-25T14:39:34.737444+00:00"
+  },
+  "41548": {
+    "title": "Pocock Comp 8",
+    "location": "DURHAM, NC (US)",
+    "date": "October 26, 2026",
+    "first_seen": "2026-10-26T11:49:32.747302+00:00"
   }
 }
