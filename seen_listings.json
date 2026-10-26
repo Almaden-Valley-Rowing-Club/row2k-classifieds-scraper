@@ -1,10 +1,4 @@
 {
-  "41630": {
-    "title": "Little River Marine Heritage 15 Double",
-    "location": "Indianapolis, IN (US)",
-    "date": "October 10, 2026",
-    "first_seen": "2026-10-10T15:59:39.107017+00:00"
-  },
   "41635": {
     "title": "1984 Pocock trainer single",
     "location": "Portland , OR (US)",
@@ -298,5 +292,11 @@
     "location": "Walla Walla, WA (US)",
     "date": "October 26, 2026",
     "first_seen": "2026-10-26T17:51:13.055938+00:00"
+  },
+  "41742": {
+    "title": "Pocock K4+ 2013 140-165",
+    "location": "Arcata, CA (US)",
+    "date": "October 26, 2026",
+    "first_seen": "2026-10-26T22:03:02.779896+00:00"
   }
 }
