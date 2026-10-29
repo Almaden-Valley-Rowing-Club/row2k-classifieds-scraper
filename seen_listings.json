@@ -1,16 +1,4 @@
 {
-  "41652": {
-    "title": "Lightweight 1x - Vespoli Matrix 24 (1999)",
-    "location": "Bethesda, MD (US)",
-    "date": "October 13, 2026",
-    "first_seen": "2026-10-13T19:37:32.779467+00:00"
-  },
-  "41658": {
-    "title": "Filippi F49 8's",
-    "location": "Middlebury, VT (US)",
-    "date": "October 13, 2026",
-    "first_seen": "2026-10-14T14:09:29.079192+00:00"
-  },
   "41657": {
     "title": "Resolute Fours - 2003 & 2010",
     "location": "Middlebury, VT (US)",
@@ -298,5 +286,17 @@
     "location": "Philadelphia, PA",
     "date": "October 28, 2026",
     "first_seen": "2026-10-29T14:44:38.070161+00:00"
+  },
+  "41768": {
+    "title": "2006 15' Wayland Merry Wherry Single Scull, Buffalo NY",
+    "location": "Buffalo, NY (US)",
+    "date": "October 29, 2026",
+    "first_seen": "2026-10-29T23:43:14.942603+00:00"
+  },
+  "41766": {
+    "title": "Row On Air Dude 18 inflatable sculling boat, full kit, $3,000 (Costa Mesa, CA)",
+    "location": "Costa Mesa, CA",
+    "date": "October 29, 2026",
+    "first_seen": "2026-10-29T23:43:14.942603+00:00"
   }
 }
