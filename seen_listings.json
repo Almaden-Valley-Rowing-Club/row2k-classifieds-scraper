@@ -1,28 +1,4 @@
 {
-  "41274": {
-    "title": "2000 Empacher 1x $5500",
-    "location": "VA (US)",
-    "date": "October 12, 2026",
-    "first_seen": "2026-10-12T23:20:14.977564+00:00"
-  },
-  "41650": {
-    "title": "2007 Kaschper 4x 59-72kg",
-    "location": "Grand Rapids, MI (US)",
-    "date": "October 12, 2026",
-    "first_seen": "2026-10-13T04:26:59.272510+00:00"
-  },
-  "41421": {
-    "title": "2016 Kanghua 4x (Grade A+ 70-75KG)",
-    "location": "Grand Rapids, MI (US)",
-    "date": "October 12, 2026",
-    "first_seen": "2026-10-13T04:26:59.272510+00:00"
-  },
-  "41661": {
-    "title": "Van Dusen Traditional Wing 2X",
-    "location": "Craftsbury Common, VT (US)",
-    "date": "October 13, 2026",
-    "first_seen": "2026-10-13T19:37:32.779467+00:00"
-  },
   "41652": {
     "title": "Lightweight 1x - Vespoli Matrix 24 (1999)",
     "location": "Bethesda, MD (US)",
@@ -298,5 +274,29 @@
     "location": "Philadelphia, PA (US)",
     "date": "October 28, 2026",
     "first_seen": "2026-10-29T07:46:05.014674+00:00"
+  },
+  "41764": {
+    "title": "Wintech Heavyweight 2X/2-",
+    "location": "Yarmouth, ME (United States)",
+    "date": "October 29, 2026",
+    "first_seen": "2026-10-29T14:44:38.070161+00:00"
+  },
+  "41763": {
+    "title": "Kanghua Midweight 1x",
+    "location": "Yarmouth, ME (United States)",
+    "date": "October 29, 2026",
+    "first_seen": "2026-10-29T14:44:38.070161+00:00"
+  },
+  "41761": {
+    "title": "Heavyweight Hudson Pair/Double",
+    "location": "Omaha, NE (US)",
+    "date": "October 28, 2026",
+    "first_seen": "2026-10-29T14:44:38.070161+00:00"
+  },
+  "41760": {
+    "title": "Hudson SP 1X (75-88 kg)",
+    "location": "Philadelphia, PA",
+    "date": "October 28, 2026",
+    "first_seen": "2026-10-29T14:44:38.070161+00:00"
   }
 }
