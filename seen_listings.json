@@ -1,16 +1,4 @@
 {
-  "41657": {
-    "title": "Resolute Fours - 2003 & 2010",
-    "location": "Middlebury, VT (US)",
-    "date": "October 13, 2026",
-    "first_seen": "2026-10-14T14:09:29.079192+00:00"
-  },
-  "41656": {
-    "title": "Heavyweight Single",
-    "location": "Middlebury, VT (US)",
-    "date": "October 13, 2026",
-    "first_seen": "2026-10-14T14:09:29.079192+00:00"
-  },
   "41665": {
     "title": "2022 Peinert Zephyr",
     "location": "Haverhill, MA (US)",
@@ -298,5 +286,17 @@
     "location": "Costa Mesa, CA",
     "date": "October 29, 2026",
     "first_seen": "2026-10-29T23:43:14.942603+00:00"
+  },
+  "41775": {
+    "title": "Hudson USP 8+ 2016 Heavyweight",
+    "location": "Oakland, CA (US)",
+    "date": "October 30, 2026",
+    "first_seen": "2026-10-30T21:13:13.126459+00:00"
+  },
+  "41774": {
+    "title": "singles",
+    "location": "Lacey, WA 98516, USA, WA (US)",
+    "date": "October 30, 2026",
+    "first_seen": "2026-10-30T21:13:13.126459+00:00"
   }
 }
