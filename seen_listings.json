@@ -1,10 +1,4 @@
 {
-  "41674": {
-    "title": "Peinert 26, 2010",
-    "location": "Clifton, VA (US)",
-    "date": "October 16, 2026",
-    "first_seen": "2026-10-16T17:02:54.012854+00:00"
-  },
   "41680": {
     "title": "1972 Garofalo Racing Shall Including Oars",
     "location": "Shirley, MA (US)",
@@ -298,5 +292,11 @@
     "location": "Shrewsbury, MA (US)",
     "date": "November 1, 2026",
     "first_seen": "2026-11-01T19:57:03.445905+00:00"
+  },
+  "41790": {
+    "title": "2021 Wintech Competitor 4x MW",
+    "location": "Saint James, NY (US)",
+    "date": "November 1, 2026",
+    "first_seen": "2026-11-02T03:17:15.856431+00:00"
   }
 }
