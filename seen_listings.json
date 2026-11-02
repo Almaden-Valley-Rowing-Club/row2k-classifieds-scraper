@@ -1,10 +1,4 @@
 {
-  "41680": {
-    "title": "1972 Garofalo Racing Shall Including Oars",
-    "location": "Shirley, MA (US)",
-    "date": "October 16, 2026",
-    "first_seen": "2026-10-16T23:06:37.652447+00:00"
-  },
   "41677": {
     "title": "Filippi Quad  (4X) 1998",
     "location": "Piermont, NY (US)",
@@ -298,5 +292,11 @@
     "location": "Saint James, NY (US)",
     "date": "November 1, 2026",
     "first_seen": "2026-11-02T03:17:15.856431+00:00"
+  },
+  "41350": {
+    "title": "2018 Fluidesign Ultra LightWeight Elite Single \u2014 FLORIDA",
+    "location": "Indian Harbour Beach, FL (US)",
+    "date": "November 2, 2026",
+    "first_seen": "2026-11-02T11:48:04.500383+00:00"
   }
 }
