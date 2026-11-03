@@ -1,16 +1,4 @@
 {
-  "41698": {
-    "title": "1986 Alden Rec 1x $400 OBO",
-    "location": "NC (US)",
-    "date": "October 19, 2026",
-    "first_seen": "2026-10-20T00:47:36.777135+00:00"
-  },
-  "41697": {
-    "title": "1990 Alden Rec 1x $750 OBO",
-    "location": "NC (US)",
-    "date": "October 19, 2026",
-    "first_seen": "2026-10-20T00:47:36.777135+00:00"
-  },
   "41696": {
     "title": "1987 Small Craft Rec 1x $650 OBO",
     "location": "NC (US)",
@@ -298,5 +286,17 @@
     "location": "Nashville, TN",
     "date": "November 1, 2026",
     "first_seen": "2026-11-02T21:00:45.035609+00:00"
+  },
+  "41799": {
+    "title": "2011 Hudson 8+ $11,000",
+    "location": "San Diego, CA (US)",
+    "date": "November 2, 2026",
+    "first_seen": "2026-11-03T03:07:53.252351+00:00"
+  },
+  "41798": {
+    "title": "2013 Pocock 4+ $5000",
+    "location": "San Diego, CA (US)",
+    "date": "November 2, 2026",
+    "first_seen": "2026-11-03T03:07:53.252351+00:00"
   }
 }
