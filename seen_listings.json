@@ -1,16 +1,4 @@
 {
-  "41696": {
-    "title": "1987 Small Craft Rec 1x $650 OBO",
-    "location": "NC (US)",
-    "date": "October 19, 2026",
-    "first_seen": "2026-10-20T00:47:36.777135+00:00"
-  },
-  "41695": {
-    "title": "1993 Vespoli D-Hull damaged $1000 OBO",
-    "location": "NC (US)",
-    "date": "October 19, 2026",
-    "first_seen": "2026-10-20T00:47:36.777135+00:00"
-  },
   "41702": {
     "title": "2012 Vespoli ES Coxed Four (4+)",
     "location": null,
@@ -298,5 +286,17 @@
     "location": "San Diego, CA (US)",
     "date": "November 2, 2026",
     "first_seen": "2026-11-03T03:07:53.252351+00:00"
+  },
+  "41807": {
+    "title": "RecRacer II Open Water Rec Racer",
+    "location": "Covington, LA (US)",
+    "date": "November 3, 2026",
+    "first_seen": "2026-11-03T18:46:47.578773+00:00"
+  },
+  "41802": {
+    "title": "2001 Hudson Heavyweight 8+ (Available at Head of the Hooch)",
+    "location": "Huntsville, AL (US)",
+    "date": "November 3, 2026",
+    "first_seen": "2026-11-03T18:46:47.578773+00:00"
   }
 }
