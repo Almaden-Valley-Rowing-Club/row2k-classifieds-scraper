@@ -1,34 +1,4 @@
 {
-  "41702": {
-    "title": "2012 Vespoli ES Coxed Four (4+)",
-    "location": null,
-    "date": "October 20, 2026",
-    "first_seen": "2026-10-20T15:26:51.028939+00:00"
-  },
-  "41204": {
-    "title": "Wooden Pocock Pair",
-    "location": "Milwaukee, WI (US)",
-    "date": "October 20, 2026",
-    "first_seen": "2026-10-20T15:26:51.028939+00:00"
-  },
-  "41574": {
-    "title": "Fluidesign  Max 2x  2-  midweight 2024",
-    "location": "Shorewood, MN (US)",
-    "date": "October 20, 2026",
-    "first_seen": "2026-10-20T19:43:10.018827+00:00"
-  },
-  "41708": {
-    "title": "2010 Wintech LW 4x, National Team boat",
-    "location": "Red Bank, NJ (US)",
-    "date": "October 20, 2026",
-    "first_seen": "2026-10-20T22:47:36.370489+00:00"
-  },
-  "41710": {
-    "title": "Sykes Lightweight 1x with Oars",
-    "location": "Lambertville, NJ (US)",
-    "date": "October 20, 2026",
-    "first_seen": "2026-10-21T12:32:46.842148+00:00"
-  },
   "41712": {
     "title": "8+ and 4-  available",
     "location": "CA (US)",
@@ -298,5 +268,35 @@
     "location": "Huntsville, AL (US)",
     "date": "November 3, 2026",
     "first_seen": "2026-11-03T18:46:47.578773+00:00"
+  },
+  "41816": {
+    "title": "Multiple Boats Available Immediately",
+    "location": "TN",
+    "date": "November 4, 2026",
+    "first_seen": "2026-11-04T19:01:25.238584+00:00"
+  },
+  "41815": {
+    "title": "Vespoli 24 1x For Sale",
+    "location": null,
+    "date": "November 4, 2026",
+    "first_seen": "2026-11-04T19:01:25.238584+00:00"
+  },
+  "41814": {
+    "title": "2012 Filippi F25 4- 198lbs avg.",
+    "location": "Philadelphia, PA (US)",
+    "date": "November 4, 2026",
+    "first_seen": "2026-11-04T19:01:25.238584+00:00"
+  },
+  "41813": {
+    "title": "2012 Filippi F25 4X 191lbs avg.",
+    "location": "Philadelphia, PA (US)",
+    "date": "November 4, 2026",
+    "first_seen": "2026-11-04T19:01:25.238584+00:00"
+  },
+  "41812": {
+    "title": "2017 Filippi F49 8+",
+    "location": "Philadelphia, PA (US)",
+    "date": "November 4, 2026",
+    "first_seen": "2026-11-04T19:01:25.238584+00:00"
   }
 }
