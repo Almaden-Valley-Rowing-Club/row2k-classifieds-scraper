@@ -1,10 +1,4 @@
 {
-  "41712": {
-    "title": "8+ and 4-  available",
-    "location": "CA (US)",
-    "date": "October 21, 2026",
-    "first_seen": "2026-10-21T17:45:09.979907+00:00"
-  },
   "41713": {
     "title": "Empacher X14 1x with Bow-wing Carbon Rigger $13K",
     "location": "Cambridge, MA (US)",
@@ -298,5 +292,11 @@
     "location": "Philadelphia, PA (US)",
     "date": "November 4, 2026",
     "first_seen": "2026-11-04T19:01:25.238584+00:00"
+  },
+  "41600": {
+    "title": "Historic Pocock Cedar Shell",
+    "location": "Peoria, IL (US)",
+    "date": "November 4, 2026",
+    "first_seen": "2026-11-05T00:36:20.250247+00:00"
   }
 }
