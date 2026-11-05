@@ -1,10 +1,4 @@
 {
-  "41731": {
-    "title": "Virus Rowing Sculls Package (2 Boats, Oars, Triton Trailer & New Dolly)",
-    "location": "Palm Springs, CA (US)",
-    "date": "October 24, 2026",
-    "first_seen": "2026-10-24T22:05:14.519297+00:00"
-  },
   "41729": {
     "title": "2024 LightWeight Elite Single",
     "location": "Seattle, WA (US)",
@@ -298,5 +292,11 @@
     "location": "Middlebury, VT (US)",
     "date": "November 5, 2026",
     "first_seen": "2026-11-05T15:54:25.263484+00:00"
+  },
+  "41821": {
+    "title": "Filippi",
+    "location": "Westhampton, NY",
+    "date": "November 5, 2026",
+    "first_seen": "2026-11-05T21:40:24.892367+00:00"
   }
 }
