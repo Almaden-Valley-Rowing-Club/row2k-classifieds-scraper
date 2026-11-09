@@ -1,10 +1,4 @@
 {
-  "41231": {
-    "title": "Vespoli Heavyweight 8+",
-    "location": "Philadelphia, PA (US)",
-    "date": "October 28, 2026",
-    "first_seen": "2026-10-29T07:46:05.014674+00:00"
-  },
   "41764": {
     "title": "Wintech Heavyweight 2X/2-",
     "location": "Yarmouth, ME (United States)",
@@ -298,5 +292,11 @@
     "location": "Portland , OR (US)",
     "date": "November 9, 2026",
     "first_seen": "2026-11-09T07:24:16.745908+00:00"
+  },
+  "41854": {
+    "title": "Van Dusen Heavyweight double/pair",
+    "location": "Harvard, MA (US)",
+    "date": "November 9, 2026",
+    "first_seen": "2026-11-09T17:56:55.324089+00:00"
   }
 }
