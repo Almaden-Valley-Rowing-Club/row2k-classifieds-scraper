@@ -1,10 +1,4 @@
 {
-  "41757": {
-    "title": "2010 Sykes 4x 80kg",
-    "location": "Kansas City, MO (US)",
-    "date": "October 28, 2026",
-    "first_seen": "2026-10-29T01:21:47.261267+00:00"
-  },
   "41231": {
     "title": "Vespoli Heavyweight 8+",
     "location": "Philadelphia, PA (US)",
@@ -298,5 +292,11 @@
     "location": "Mechabnicville, NY (US)",
     "date": "November 8, 2026",
     "first_seen": "2026-11-09T00:16:35.431326+00:00"
+  },
+  "41635": {
+    "title": "1984 Pocock trainer single - $800",
+    "location": "Portland , OR (US)",
+    "date": "November 9, 2026",
+    "first_seen": "2026-11-09T07:24:16.745908+00:00"
   }
 }
