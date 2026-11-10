@@ -1,10 +1,4 @@
 {
-  "41763": {
-    "title": "Kanghua Midweight 1x",
-    "location": "Yarmouth, ME (United States)",
-    "date": "October 29, 2026",
-    "first_seen": "2026-10-29T14:44:38.070161+00:00"
-  },
   "41761": {
     "title": "Heavyweight Hudson Pair/Double",
     "location": "Omaha, NE (US)",
@@ -298,5 +292,11 @@
     "location": "NJ (US)",
     "date": "November 10, 2026",
     "first_seen": "2026-11-10T16:40:50.793493+00:00"
+  },
+  "41680": {
+    "title": "1972 Garofalo Racing Shell Including Oars",
+    "location": "Shirley, MA (US)",
+    "date": "November 10, 2026",
+    "first_seen": "2026-11-10T22:01:14.825385+00:00"
   }
 }
