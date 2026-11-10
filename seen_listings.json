@@ -1,10 +1,4 @@
 {
-  "41764": {
-    "title": "Wintech Heavyweight 2X/2-",
-    "location": "Yarmouth, ME (United States)",
-    "date": "October 29, 2026",
-    "first_seen": "2026-10-29T14:44:38.070161+00:00"
-  },
   "41763": {
     "title": "Kanghua Midweight 1x",
     "location": "Yarmouth, ME (United States)",
@@ -298,5 +292,11 @@
     "location": "Harvard, MA (US)",
     "date": "November 9, 2026",
     "first_seen": "2026-11-09T17:56:55.324089+00:00"
+  },
+  "41856": {
+    "title": "2013 Empacher R84 8+ For Sale",
+    "location": "NJ (US)",
+    "date": "November 10, 2026",
+    "first_seen": "2026-11-10T16:40:50.793493+00:00"
   }
 }
