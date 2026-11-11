@@ -1,10 +1,4 @@
 {
-  "41766": {
-    "title": "Row On Air Dude 18 inflatable sculling boat, full kit, $3,000 (Costa Mesa, CA)",
-    "location": "Costa Mesa, CA",
-    "date": "October 29, 2026",
-    "first_seen": "2026-10-29T23:43:14.942603+00:00"
-  },
   "41775": {
     "title": "Hudson USP 8+ 2016 Heavyweight",
     "location": "Oakland, CA (US)",
@@ -298,5 +292,11 @@
     "location": "Cumming, GA (US)",
     "date": "November 10, 2026",
     "first_seen": "2026-11-11T02:21:19.212464+00:00"
+  },
+  "41866": {
+    "title": "older vespoli 8's & 4",
+    "location": "Holyoke, MA (US)",
+    "date": "November 11, 2026",
+    "first_seen": "2026-11-11T23:49:48.800486+00:00"
   }
 }
