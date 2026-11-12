@@ -1,10 +1,4 @@
 {
-  "41774": {
-    "title": "singles",
-    "location": "Lacey, WA 98516, USA, WA (US)",
-    "date": "October 30, 2026",
-    "first_seen": "2026-10-30T21:13:13.126459+00:00"
-  },
   "41776": {
     "title": "2021 & 2022 Hudson SP 8+ lighter side of heavy weight",
     "location": "Oakland, CA (US)",
@@ -298,5 +292,11 @@
     "location": "Las Vegas, NV (US)",
     "date": "November 11, 2026",
     "first_seen": "2026-11-12T04:49:42.680113+00:00"
+  },
+  "41872": {
+    "title": "2000 Empacher 1x $5500",
+    "location": "VA (US)",
+    "date": "November 12, 2026",
+    "first_seen": "2026-11-12T21:13:50.136740+00:00"
   }
 }
