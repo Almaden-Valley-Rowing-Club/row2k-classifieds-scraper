@@ -1,10 +1,4 @@
 {
-  "41783": {
-    "title": "Sykes Midweight Single Scull",
-    "location": "Yarmouth, ME (United States)",
-    "date": "November 1, 2026",
-    "first_seen": "2026-11-01T19:57:03.445905+00:00"
-  },
   "41624": {
     "title": "Mahogany Fuji 1x - midweight",
     "location": "Shrewsbury, MA (US)",
@@ -298,5 +292,11 @@
     "location": "Lambertville, NJ (US)",
     "date": "November 14, 2026",
     "first_seen": "2026-11-14T19:34:00.251507+00:00"
+  },
+  "41883": {
+    "title": "Fluidesign Elite Lightweight 1X - Excellent Condition",
+    "location": "North Cowichan, BC (CA)",
+    "date": "November 14, 2026",
+    "first_seen": "2026-11-14T23:29:01.016142+00:00"
   }
 }
