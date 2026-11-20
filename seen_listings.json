@@ -1,22 +1,4 @@
 {
-  "41799": {
-    "title": "2011 Hudson 8+ $11,000",
-    "location": "San Diego, CA (US)",
-    "date": "November 2, 2026",
-    "first_seen": "2026-11-03T03:07:53.252351+00:00"
-  },
-  "41798": {
-    "title": "2013 Pocock 4+ $5000",
-    "location": "San Diego, CA (US)",
-    "date": "November 2, 2026",
-    "first_seen": "2026-11-03T03:07:53.252351+00:00"
-  },
-  "41807": {
-    "title": "RecRacer II Open Water Rec Racer",
-    "location": "Covington, LA (US)",
-    "date": "November 3, 2026",
-    "first_seen": "2026-11-03T18:46:47.578773+00:00"
-  },
   "41802": {
     "title": "2001 Hudson Heavyweight 8+ (Available at Head of the Hooch)",
     "location": "Huntsville, AL (US)",
@@ -298,5 +280,23 @@
     "location": "Fort Wayne, IN (US)",
     "date": "November 18, 2026",
     "first_seen": "2026-11-19T19:14:40.690816+00:00"
+  },
+  "41920": {
+    "title": "Peinert Single(s) - $1500 obo",
+    "location": "Middlebury, VT (US)",
+    "date": "November 19, 2026",
+    "first_seen": "2026-11-20T01:29:59.742174+00:00"
+  },
+  "41918": {
+    "title": "2016 Hudson Super Predator S1.31 1x \u201cGreat White\u201d \u2014 $7,900 \u2014 Chicago, IL",
+    "location": "Chicago, IL (US)",
+    "date": "November 19, 2026",
+    "first_seen": "2026-11-20T01:29:59.742174+00:00"
+  },
+  "41917": {
+    "title": "Kanghua Midweight 1x",
+    "location": "Yarmouth, ME (United States)",
+    "date": "November 19, 2026",
+    "first_seen": "2026-11-20T01:29:59.742174+00:00"
   }
 }
