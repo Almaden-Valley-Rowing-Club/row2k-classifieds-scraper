@@ -1,10 +1,4 @@
 {
-  "41600": {
-    "title": "Historic Pocock Cedar Shell",
-    "location": "Peoria, IL (US)",
-    "date": "November 4, 2026",
-    "first_seen": "2026-11-05T00:36:20.250247+00:00"
-  },
   "41817": {
     "title": "Wintech White Medalist 1x",
     "location": "Norwalk, CT (US)",
@@ -298,5 +292,11 @@
     "location": null,
     "date": "November 21, 2026",
     "first_seen": "2026-11-21T15:44:56.955887+00:00"
+  },
+  "41930": {
+    "title": "Kaschper Extreme- (Midweight) package",
+    "location": "AZ (US)",
+    "date": "November 21, 2026",
+    "first_seen": "2026-11-21T21:17:41.849384+00:00"
   }
 }
