@@ -1,22 +1,4 @@
 {
-  "41802": {
-    "title": "2001 Hudson Heavyweight 8+ (Available at Head of the Hooch)",
-    "location": "Huntsville, AL (US)",
-    "date": "November 3, 2026",
-    "first_seen": "2026-11-03T18:46:47.578773+00:00"
-  },
-  "41816": {
-    "title": "Multiple Boats Available Immediately",
-    "location": "TN",
-    "date": "November 4, 2026",
-    "first_seen": "2026-11-04T19:01:25.238584+00:00"
-  },
-  "41815": {
-    "title": "Vespoli 24 1x For Sale",
-    "location": null,
-    "date": "November 4, 2026",
-    "first_seen": "2026-11-04T19:01:25.238584+00:00"
-  },
   "41814": {
     "title": "2012 Filippi F25 4- 198lbs avg.",
     "location": "Philadelphia, PA (US)",
@@ -298,5 +280,23 @@
     "location": "Yarmouth, ME (United States)",
     "date": "November 19, 2026",
     "first_seen": "2026-11-20T01:29:59.742174+00:00"
+  },
+  "41925": {
+    "title": "2020 Pocock X8 (150-180lbs) $35,000",
+    "location": "Hawthorne, CA (US)",
+    "date": "November 20, 2026",
+    "first_seen": "2026-11-21T00:27:27.406202+00:00"
+  },
+  "41924": {
+    "title": "Superlightweight 1x",
+    "location": "Middlebury, VT (US)",
+    "date": "November 20, 2026",
+    "first_seen": "2026-11-21T00:27:27.406202+00:00"
+  },
+  "41923": {
+    "title": "2018 Hudson Ultimate Shark Predator Mid-Weight Single - $9500",
+    "location": "Punta Gorda, FL (US)",
+    "date": "November 20, 2026",
+    "first_seen": "2026-11-21T00:27:27.406202+00:00"
   }
 }
