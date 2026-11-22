@@ -1,10 +1,4 @@
 {
-  "41657": {
-    "title": "Resolute Fours - 2003 & 2010",
-    "location": "Middlebury, VT (US)",
-    "date": "November 5, 2026",
-    "first_seen": "2026-11-05T15:54:25.263484+00:00"
-  },
   "41821": {
     "title": "Filippi",
     "location": "Westhampton, NY",
@@ -298,5 +292,11 @@
     "location": "Costa Mesa, CA",
     "date": "November 22, 2026",
     "first_seen": "2026-11-22T17:28:25.227377+00:00"
+  },
+  "41936": {
+    "title": "2019 Vespoli VHP30 2x/-",
+    "location": "Jacksonville, FL (US)",
+    "date": "November 22, 2026",
+    "first_seen": "2026-11-22T22:56:07.453059+00:00"
   }
 }
