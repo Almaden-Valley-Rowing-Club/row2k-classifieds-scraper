@@ -1,22 +1,4 @@
 {
-  "41832": {
-    "title": "Pocock and Vespoli Shells For Sale",
-    "location": "WA (US)",
-    "date": "November 5, 2026",
-    "first_seen": "2026-11-06T01:53:40.256576+00:00"
-  },
-  "41830": {
-    "title": "2000 Hudson 1X Like New",
-    "location": "Long Beach, CA (US)",
-    "date": "November 5, 2026",
-    "first_seen": "2026-11-06T01:53:40.256576+00:00"
-  },
-  "41828": {
-    "title": "Vespoli 1x",
-    "location": "Northampton, MA (US)",
-    "date": "November 5, 2026",
-    "first_seen": "2026-11-06T01:53:40.256576+00:00"
-  },
   "41837": {
     "title": "1961 Wooden Pocock 8 w/riggers",
     "location": "New Canaan, CT (US)",
@@ -298,5 +280,23 @@
     "location": "Winter Park, FL (US)",
     "date": "November 23, 2026",
     "first_seen": "2026-11-24T01:20:47.944267+00:00"
+  },
+  "41948": {
+    "title": "2021 Wintech International Heavyweight 1x",
+    "location": "Toronto, ON (CA)",
+    "date": "November 24, 2026",
+    "first_seen": "2026-11-24T21:41:04.646015+00:00"
+  },
+  "41814": {
+    "title": "2012 Filippi F25 4- 198lbs avg.",
+    "location": "Philadelphia, PA (US)",
+    "date": "November 24, 2026",
+    "first_seen": "2026-11-24T21:41:04.646015+00:00"
+  },
+  "41813": {
+    "title": "2012 Filippi F25 4X 191lbs avg.",
+    "location": "Philadelphia, PA (US)",
+    "date": "November 24, 2026",
+    "first_seen": "2026-11-24T21:41:04.646015+00:00"
   }
 }
