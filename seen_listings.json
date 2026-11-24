@@ -1,10 +1,4 @@
 {
-  "41821": {
-    "title": "Filippi",
-    "location": "Westhampton, NY",
-    "date": "November 5, 2026",
-    "first_seen": "2026-11-05T21:40:24.892367+00:00"
-  },
   "41832": {
     "title": "Pocock and Vespoli Shells For Sale",
     "location": "WA (US)",
@@ -298,5 +292,11 @@
     "location": "Jacksonville, FL (US)",
     "date": "November 22, 2026",
     "first_seen": "2026-11-22T22:56:07.453059+00:00"
+  },
+  "41944": {
+    "title": "2004 Fluidesign Heavyweight 1x",
+    "location": "Winter Park, FL (US)",
+    "date": "November 23, 2026",
+    "first_seen": "2026-11-24T01:20:47.944267+00:00"
   }
 }
